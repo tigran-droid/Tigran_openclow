@@ -22,20 +22,27 @@ the important parts into ready-to-use content.
 
 ### 2. Collect new material
 For every source in sources.md:
-- RSS feeds: take the newest items (title, link, full text).
-- YouTube / podcasts: get the transcript by running this exact command for
-  each video URL (it downloads the auto-generated captions):
-  python -m yt_dlp --skip-download --write-auto-subs --write-subs --sub-langs "en.*" --convert-subs srt -o "%(id)s.%(ext)s" <VIDEO_URL>
-  Then read the resulting .srt file and use its text as the transcript.
-  For a channel URL, first list its most recent videos, then get transcripts
-  for the new ones. If a video has no captions, note it and use the title and
-  description instead.
 
-Prefer items that look new (published recently, not already in an earlier raw
-file).
+- RSS feeds: take the newest items (title, link, full text).
+
+- YouTube channels/videos: a working transcript tool IS installed and confirmed:
+  `python -m yt_dlp`. You MUST actually run it. NEVER say "no transcript tool
+  is available" — that is false. Steps:
+  1. For a channel URL, get its most recent video links:
+     python -m yt_dlp --flat-playlist --playlist-end 2 --print webpage_url "<CHANNEL_URL>/videos"
+  2. For each recent video URL, download the captions:
+     python -m yt_dlp --skip-download --write-auto-subs --write-subs --sub-langs "en.*" --convert-subs srt -o "%(id)s.%(ext)s" <VIDEO_URL>
+  3. Read the resulting .srt file, strip the numbers and timestamps, and use the
+     plain spoken text as the transcript.
+  4. Only if a specific video truly has no captions, note that one video and move on.
+
+- Podcasts: if a real podcast link is listed, try the same yt_dlp approach.
+
+Prefer items that look new (published recently, not already in an earlier raw file).
 
 ### 3. Save the raw material to GitHub (BEFORE summarizing)
-Create raw/<TODAY>.md (example: raw/2026-07-26.md) with ALL collected raw text.
+Create raw/<TODAY>.md (example: raw/2026-07-27.md) with ALL collected raw text,
+including the YouTube transcripts you downloaded.
 Use the GitHub API:
 - PUT https://api.github.com/repos/tigran-droid/Tigran_openclow/contents/raw/<TODAY>.md
 - Header: Authorization: Bearer <value of the GITHUB_TOKEN environment variable>
