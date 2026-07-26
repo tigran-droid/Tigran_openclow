@@ -23,7 +23,11 @@ the important parts into ready-to-use content.
 ### 2. Collect new material
 For every source in sources.md:
 - RSS feeds: take the newest items (title, link, full text).
-- YouTube / podcasts: get the transcript text if a tool is available.
+- YouTube / podcasts: use the `yt-dlp` command-line tool to download the
+  video's auto-generated subtitles (captions), then read that text as the
+  transcript. If a video has no captions, note it and use the title and
+  description instead.
+  
 Prefer items that look new (published recently, not already in an earlier raw
 file). If a transcript tool is not available yet, note that and continue with
 what you can collect.
