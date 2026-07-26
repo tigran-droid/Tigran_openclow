@@ -4,11 +4,9 @@
 - https://techcrunch.com/category/artificial-intelligence/feed/
 
 ## YouTube channels / videos
-<!-- Paste full YouTube channel or video links here, one per line. Example: -->
-<!-- - https://www.youtube.com/@channelname -->
-UC2ojq-nuP8ceeHqiroeKhBA
-
-UChpleBmo18P08aKCIgti38g
+- https://www.youtube.com/@mreflow
+- https://www.youtube.com/@futurepedia_io
+- https://www.youtube.com/@nateherk
 
 ## Podcasts
-<!-- Paste podcast RSS or episode links here, one per line. -->
+- https://feeds.simplecast.com/somepodcast
