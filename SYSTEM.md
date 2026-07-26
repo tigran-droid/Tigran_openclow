@@ -23,14 +23,16 @@ the important parts into ready-to-use content.
 ### 2. Collect new material
 For every source in sources.md:
 - RSS feeds: take the newest items (title, link, full text).
-- YouTube / podcasts: use the `yt-dlp` command-line tool to download the
-  video's auto-generated subtitles (captions), then read that text as the
-  transcript. If a video has no captions, note it and use the title and
+- YouTube / podcasts: get the transcript by running this exact command for
+  each video URL (it downloads the auto-generated captions):
+  python -m yt_dlp --skip-download --write-auto-subs --write-subs --sub-langs "en.*" --convert-subs srt -o "%(id)s.%(ext)s" <VIDEO_URL>
+  Then read the resulting .srt file and use its text as the transcript.
+  For a channel URL, first list its most recent videos, then get transcripts
+  for the new ones. If a video has no captions, note it and use the title and
   description instead.
-  
+
 Prefer items that look new (published recently, not already in an earlier raw
-file). If a transcript tool is not available yet, note that and continue with
-what you can collect.
+file).
 
 ### 3. Save the raw material to GitHub (BEFORE summarizing)
 Create raw/<TODAY>.md (example: raw/2026-07-26.md) with ALL collected raw text.
