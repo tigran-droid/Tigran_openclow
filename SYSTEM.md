@@ -82,6 +82,24 @@ Process every link listed there, even if it is old or not from a source above.
 After a link is successfully processed, EDIT sources.md: remove the line from
 "One-time requests" and add it under "Already done" with today's date.
 
+### 3b. Make sure there is ENOUGH material (do not skip this)
+
+Good content needs several sources to compare. One article or one video is not
+enough — content built from a single source always reads like a report about
+that source, which is not what we want.
+
+Count the new items you collected.
+- If you have **fewer than 5 items**, widen the time window: repeat step 3 but
+  look back 3 days instead of 24 hours (still skipping anything already in
+  state/processed.md).
+- If you still have fewer than 5 items, widen again to 7 days.
+- If after that you still have fewer than 3 items, continue anyway, but say
+  clearly at the top of your reply: "Thin day — only N sources had new
+  material, so the content is built on a narrow base. Consider adding more
+  sources in sources.md."
+
+Never invent material to fill the gap.
+
 ### 4. Save the raw material to GitHub (BEFORE summarizing)
 Create raw/<TODAY>.md with ALL collected raw text (articles + full transcripts).
 Use the GitHub API:
@@ -151,8 +169,17 @@ One-time requests). For each: title, one-line summary, why it matters, link.
 
 **PART 4 — 2 blog post ideas**
 
+**PART 5 — Sources used today**
+One combined list of every link the content draws on. This is the ONLY place
+links appear in parts 2, 3 and 4 — never under an individual post, article or
+idea.
+
 Then at the end:
 - The link to today's raw archive file.
 - A short "Source status" list: for each source say collected / nothing new /
   feed not found / failed (and why). Never hide a failure — Chrisy needs to know
   when a source stops working.
+
+Formatting note: put every URL on its own line at the end, so the chat app does
+not attach a big preview card to a post and make it look like the post came from
+that single link.

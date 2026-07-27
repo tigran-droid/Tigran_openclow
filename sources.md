@@ -11,8 +11,15 @@ To pause a source: put a # in front of the line.
 ## 1. Blogs & news
 Paste the normal website or blog address.
 
-<!-- example: - https://www.example.com -->
-<!-- example: - https://someone.substack.com -->
+These are starting suggestions — delete any you do not want, and add Chrisy's
+own. The system needs enough material every day to find real themes; with only
+one or two sources the content ends up being about a single article.
+
+- https://www.oneusefulthing.org
+- https://www.technologyreview.com/topic/artificial-intelligence/
+- https://www.anthropic.com/news
+- https://openai.com/news/
+- https://www.ben-evans.com/benedictevans
 
 
 ---

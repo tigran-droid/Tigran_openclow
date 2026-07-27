@@ -44,8 +44,11 @@ Structure:
 4. **What it means** — 2-3 sentences. The practical implication for someone
    running or advising a business.
 5. **Close** — one line. A takeaway or a question. No hashtags.
-6. **Sources** — after the post text, list the links used. Several links per
-   post is a good sign: it shows the post was synthesized, not copied.
+
+Do NOT put a source link under each post. A link under a post makes it look
+like the post is a report about that one link, which is exactly what we are
+avoiding. All sources go in one combined list at the very end of the whole
+delivery instead.
 
 The 3 posts must cover 3 DIFFERENT themes, not 3 different articles.
 
@@ -61,9 +64,10 @@ A finished piece the reader can publish or send as-is.
   point and backs it with real facts drawn from across today's material.
 - **Close**: what a leader should actually do or watch next. No summary of the
   summary.
-- **Sources**: list every link used at the bottom.
 
 Build it from the strongest theme of the day, pulling from several sources.
+Do not put source links inside the article; they go in the combined list at the
+end of the whole delivery.
 
 ---
 
@@ -74,7 +78,6 @@ These are ideas, not finished pieces. Each one:
 - **Angle** — one sentence on the argument the post would make.
 - **Outline** — 4 to 6 bullet points.
 - **Why now** — one sentence tying it to today's material.
-- **Source links**
 
 Blog ideas should be broader and less time-sensitive than the LinkedIn posts —
 topics that stay useful for weeks, not hours.
