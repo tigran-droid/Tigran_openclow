@@ -101,19 +101,28 @@ new lines added). This is what stops the agent repeating itself tomorrow.
 Using how_to_summarize.md, write a short summary of EVERY item collected today —
 not only the important ones. This is the daily digest.
 
-### 7. Group and pick
-If several sources cover the same story, group them into ONE topic with all its
-links, instead of treating them as separate items.
-Then, using what_is_important.md, choose the strongest
-topics to build content from.
+### 7. Find the themes (this is the thinking step — do not rush it)
+Now stop treating the material as a list of items. Read everything you collected
+today as ONE body of material and ask:
+- What story keeps showing up across different sources?
+- Where do two sources disagree, or where does one contradict the common view?
+- What would a business leader actually need to understand from today as a whole?
+
+Write down 4-6 candidate THEMES. A theme is an idea, not an article — for
+example "companies are cutting staff faster than their AI actually works", not
+"Monday.com laid off 600 people".
+Group the supporting evidence under each theme, no matter which source it came
+from. Then, using what_is_important.md, pick the strongest themes to write about.
 
 ### 8. Write the content
 Use how_to_write.md for FORMAT and chrisy_voice.md for VOICE.
 If chrisy_voice.md contains real example posts, imitate their rhythm
 and tone closely.
+Each piece must be built from a THEME (step 7), drawing evidence from several
+sources. Never write a piece that is just a report of one article or one video.
 Produce:
-- 3 LinkedIn post ideas
-- 1 ready-to-read article
+- 3 LinkedIn posts (180-250 words each, full posts, 3 different themes)
+- 1 ready-to-read article (600-800 words)
 - 2 blog post ideas
 
 ### 9. Editor pass (do this before sending — do not skip)
@@ -122,6 +131,10 @@ Re-read everything you just wrote as a strict editor and fix what fails:
   the source line, delete the claim. Never invent numbers, quotes or names.
 - Any hype words or empty phrases? Rewrite them.
 - Does the first line of each LinkedIn post make someone stop scrolling?
+- Is each post built from a THEME with evidence from several sources, or is it
+  just a report of one article? If it is a report of one source, rewrite it.
+- Is each LinkedIn post really 180-250 words? If it is shorter, it is not
+  finished — add real substance, not filler.
 - Does it sound like Chrisy, or like generic AI writing?
 - Is every source link correct and present?
 Rewrite anything that fails, then continue.
@@ -132,7 +145,7 @@ Rewrite anything that fails, then continue.
 Every item collected today, grouped by type (Blogs & news / YouTube / Podcasts /
 One-time requests). For each: title, one-line summary, why it matters, link.
 
-**PART 2 — 3 LinkedIn post ideas** (in Chrisy's voice)
+**PART 2 — 3 LinkedIn posts** (full posts, 180-250 words each, in Chrisy's voice)
 
 **PART 3 — Article** (the full ready-to-read piece)
 
