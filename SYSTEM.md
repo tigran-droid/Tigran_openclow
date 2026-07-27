@@ -84,6 +84,20 @@ on the episode audio URL to get a transcript. If no transcript is possible, save
 the episode title, description and link, and say clearly that no transcript was
 available.
 
+**Housekeeping — always clean up after collecting:**
+Once a transcript has been extracted and saved into the raw archive, delete the
+downloaded media and subtitle files (.srt, .vtt, .mp3, .m4a, .webm) from the
+working directory. Only the text matters; the files fill the disk quickly,
+especially podcasts.
+
+**If YouTube blocks you:**
+On a server, YouTube may refuse with a message about signing in or confirming
+you are not a bot. If that happens, do not silently skip the video. Retry once
+with a cookies file if one exists at ~/yt-cookies.txt:
+  python -m yt_dlp --cookies ~/yt-cookies.txt --skip-download --write-auto-subs --write-subs --sub-langs "en.*" --convert-subs srt -o "%(id)s.%(ext)s" <VIDEO_URL>
+If it still fails, say plainly in one sentence at the end of the reply that
+YouTube blocked the request, so it can be fixed.
+
 **Section 4 — One-time requests:**
 Process every link listed there, even if it is old or not from a source above.
 After a link is successfully processed, EDIT sources.md: remove the line from
