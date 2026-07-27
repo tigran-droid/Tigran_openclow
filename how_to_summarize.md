@@ -13,7 +13,7 @@ short summaries. This is separate from how posts are written.
 claimed. No hype, no filler.
 
 **Why it matters for us** — 1 or 2 sentences, from the point of view of an
-AI-transformation consulting business and its clients (see client_profile.md).
+AI-transformation consulting business and its clients.
 
 **Key facts** — bullet list of any hard numbers, company names, dates, prices
 or product names mentioned. These are what make content credible.

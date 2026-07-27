@@ -1,7 +1,7 @@
 # How to write the content (format rules)
 
 This file controls the STRUCTURE of what we produce.
-The VOICE comes from chrisy_voice.md. The AUDIENCE comes from client_profile.md.
+The VOICE comes from chrisy_voice.md.
 If they ever conflict: chrisy_voice.md wins on voice, this file wins on format.
 
 ## General rules

@@ -22,7 +22,6 @@ finds, and turns the important parts into ready-to-use content.
 - Known feeds: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/state/feeds.md
 - Already processed: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/state/processed.md
 - What matters: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/what_is_important.md
-- Who we write for: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/client_profile.md
 - How to summarize: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/how_to_summarize.md
 - Format rules: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/how_to_write.md
 - Chrisy's voice: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/chrisy_voice.md
@@ -105,12 +104,12 @@ not only the important ones. This is the daily digest.
 ### 7. Group and pick
 If several sources cover the same story, group them into ONE topic with all its
 links, instead of treating them as separate items.
-Then, using what_is_important.md and client_profile.md, choose the strongest
+Then, using what_is_important.md, choose the strongest
 topics to build content from.
 
 ### 8. Write the content
-Use how_to_write.md for FORMAT, chrisy_voice.md for VOICE, client_profile.md for
-AUDIENCE. If chrisy_voice.md contains real example posts, imitate their rhythm
+Use how_to_write.md for FORMAT and chrisy_voice.md for VOICE.
+If chrisy_voice.md contains real example posts, imitate their rhythm
 and tone closely.
 Produce:
 - 3 LinkedIn post ideas
@@ -124,7 +123,6 @@ Re-read everything you just wrote as a strict editor and fix what fails:
 - Any hype words or empty phrases? Rewrite them.
 - Does the first line of each LinkedIn post make someone stop scrolling?
 - Does it sound like Chrisy, or like generic AI writing?
-- Does it speak to the audience in client_profile.md?
 - Is every source link correct and present?
 Rewrite anything that fails, then continue.
 
