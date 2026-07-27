@@ -28,6 +28,7 @@ again with a different timestamp before trusting it.
 - Sources: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/sources.md
 - Known feeds: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/state/feeds.md
 - Already processed: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/state/processed.md
+- Topics already written about: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/state/topics_covered.md
 - What matters: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/what_is_important.md
 - How to summarize: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/how_to_summarize.md
 - Format rules: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/how_to_write.md
@@ -158,6 +159,25 @@ example "companies are cutting staff faster than their AI actually works", not
 Group the supporting evidence under each theme, no matter which source it came
 from. Then, using what_is_important.md, pick the strongest themes to write about.
 
+### 7b. Check what we have already written (do not repeat ourselves)
+
+Before choosing the final themes, read state/topics_covered.md and compare your
+candidate themes against the last 30 days.
+
+For each candidate theme:
+- **Not covered before** — write it normally.
+- **Covered in the last 30 days, nothing new to add** — drop it and use a
+  different theme. Two posts saying the same thing three weeks apart makes us
+  look like we are not paying attention.
+- **Covered before, but something changed** — this is the best case. Write it
+  as a follow-up: say plainly what we said before and what has changed since,
+  without linking. For example: "Three weeks ago the argument was that agents
+  needed constant supervision. This week two of the same voices quietly changed
+  position."
+
+Also search your own memory for related notes if you have them, but
+state/topics_covered.md is the source of truth.
+
 ### 8. Write the content
 Use how_to_write.md for FORMAT and chrisy_voice.md for VOICE.
 If chrisy_voice.md contains real example posts, imitate their rhythm
@@ -182,6 +202,20 @@ Re-read everything you just wrote as a strict editor and fix what fails:
 - Does it sound like Chrisy, or like generic AI writing?
 - Is every source link correct and present?
 Rewrite anything that fails, then continue.
+
+### 9b. Record what you wrote about (this is the memory)
+
+Add today's themes to the TOP of state/topics_covered.md, one line each, using
+the GitHub API (read the file, prepend the new lines, write it back):
+
+`- <TODAY> | <theme in one short line> | <the angle we took>`
+
+Write one line per piece of content — the 3 posts, the article and the 2 blog
+ideas. Keep each line short and about the IDEA, not the article title. For
+example write "AI-blamed layoffs | markets punish companies that blame AI",
+not "Monday.com cut 600 jobs".
+
+Never skip this step. If it is skipped, tomorrow's run repeats today's work.
 
 ### 10. Reply — clean text only
 
