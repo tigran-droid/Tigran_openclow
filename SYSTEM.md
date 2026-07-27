@@ -18,6 +18,13 @@ finds, and turns the important parts into ready-to-use content.
 ## The daily routine (follow these steps in order)
 
 ### 1. Load the current rules (always fresh from GitHub, never cached)
+
+IMPORTANT: GitHub caches raw files for several minutes. To force the newest
+version, append a cache-busting query to every URL below, for example:
+`...main/sources.md?nocache=<current unix timestamp>`
+If a file looks identical to what you remember from a previous run, fetch it
+again with a different timestamp before trusting it.
+
 - Sources: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/sources.md
 - Known feeds: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/state/feeds.md
 - Already processed: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/state/processed.md
@@ -92,11 +99,16 @@ Count the new items you collected.
 - If you have **fewer than 5 items**, widen the time window: repeat step 3 but
   look back 3 days instead of 24 hours (still skipping anything already in
   state/processed.md).
-- If you still have fewer than 5 items, widen again to 7 days.
-- If after that you still have fewer than 3 items, continue anyway, but say
-  clearly at the top of your reply: "Thin day — only N sources had new
-  material, so the content is built on a narrow base. Consider adding more
-  sources in sources.md."
+- If you still have fewer than 5 items, widen again to 14 days.
+- If you STILL have fewer than 3 items, fall back to material already in the
+  archive: read the most recent files in the repo's raw/ folder (the last 7
+  days) and use that material to build the content. It is fine to reuse
+  archived material — it is not fine to deliver nothing.
+
+**You must ALWAYS deliver the full content: 3 LinkedIn posts, 1 article and 2
+blog ideas.** Never reply with "not regenerated", "no new material", or any
+other refusal. A quiet news day is not a reason to skip work — it is a reason
+to write about the bigger pattern rather than the newest headline.
 
 Never invent material to fill the gap.
 
@@ -157,29 +169,49 @@ Re-read everything you just wrote as a strict editor and fix what fails:
 - Is every source link correct and present?
 Rewrite anything that fails, then continue.
 
-### 10. Reply in this order
+### 10. Reply — clean text only
 
-**PART 1 — Today's news digest**
-Every item collected today, grouped by type (Blogs & news / YouTube / Podcasts /
-One-time requests). For each: title, one-line summary, why it matters, link.
+The reply Chrisy reads must look like finished writing from a person, not like
+a machine report.
 
-**PART 2 — 3 LinkedIn posts** (full posts, 180-250 words each, in Chrisy's voice)
+**Formatting rules — follow strictly:**
+- NO URLs anywhere in the reply. Not under posts, not at the end, not for the
+  archive. Links belong in the GitHub archive only.
+- NO markdown symbols as decoration: no `**`, no `###`, no `•`, no code marks.
+  Plain sentences and simple line breaks only.
+- NO technical language: never mention feeds, transcripts, tokens, files,
+  state, processed items, archives, or what tools you used.
+- NO status reports, no counts, no "collected / nothing new" lists.
+- When you need to credit a source, write its plain name in the text, for
+  example "Ethan Mollick wrote this week" or "one AI channel demonstrated" —
+  never a link.
 
-**PART 3 — Article** (the full ready-to-read piece)
+**Structure of the reply:**
 
-**PART 4 — 2 blog post ideas**
+TODAY'S BRIEFING
+A short paragraph, 4-6 sentences, telling Chrisy what happened in AI today and
+what the through-line is. Written as prose, not as a list.
 
-**PART 5 — Sources used today**
-One combined list of every link the content draws on. This is the ONLY place
-links appear in parts 2, 3 and 4 — never under an individual post, article or
-idea.
+LINKEDIN POST 1
+(the full post text)
 
-Then at the end:
-- The link to today's raw archive file.
-- A short "Source status" list: for each source say collected / nothing new /
-  feed not found / failed (and why). Never hide a failure — Chrisy needs to know
-  when a source stops working.
+LINKEDIN POST 2
+(the full post text)
 
-Formatting note: put every URL on its own line at the end, so the chat app does
-not attach a big preview card to a post and make it look like the post came from
-that single link.
+LINKEDIN POST 3
+(the full post text)
+
+ARTICLE
+(the title, then the full article)
+
+BLOG IDEA 1
+(title, then the angle and outline as plain sentences)
+
+BLOG IDEA 2
+(title, then the angle and outline as plain sentences)
+
+Nothing after that. No footer, no links, no notes.
+
+If something went genuinely wrong — a source has been failing for days, or you
+had to fall back to older material — add ONE short plain sentence at the very
+end, in normal language, and nothing more.

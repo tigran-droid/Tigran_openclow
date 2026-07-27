@@ -24,6 +24,8 @@ Sources are evidence, not the subject. Never open a post by naming the source.
 - Practical, confident, direct. Written for business leaders, not developers.
 - No hype words: avoid "game-changer", "revolutionary", "unlock", "supercharge",
   "in today's fast-paced world".
+- Plain text only. No markdown decoration, no bullet symbols, no links, no
+  hashtags, no emoji. It should read like a person wrote it in a document.
 - Short sentences. No corporate fluff.
 - Every fact must be traceable to today's raw material. Never invent numbers.
 
@@ -45,10 +47,10 @@ Structure:
    running or advising a business.
 5. **Close** — one line. A takeaway or a question. No hashtags.
 
-Do NOT put a source link under each post. A link under a post makes it look
-like the post is a report about that one link, which is exactly what we are
-avoiding. All sources go in one combined list at the very end of the whole
-delivery instead.
+Do NOT put a source link under a post. Do not put links anywhere in the
+delivered text at all. If a source deserves credit, name it in plain words
+inside the sentence, for example "one widely followed AI channel showed" or
+"Ethan Mollick argued this week". Links live only in the GitHub archive.
 
 The 3 posts must cover 3 DIFFERENT themes, not 3 different articles.
 
@@ -66,8 +68,7 @@ A finished piece the reader can publish or send as-is.
   summary.
 
 Build it from the strongest theme of the day, pulling from several sources.
-Do not put source links inside the article; they go in the combined list at the
-end of the whole delivery.
+No links inside the article. Credit sources by name in the sentence instead.
 
 ---
 
