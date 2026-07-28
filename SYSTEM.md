@@ -10,7 +10,7 @@ finds, and turns the important parts into ready-to-use content.
 2. Chrisy only pastes normal links. The agent finds the feeds itself.
 3. Only take material that is NEW (never collected before).
 4. Save the full raw text to GitHub, one file per day.
-5. Use ONLY material published today. Yesterday's news is old news.
+5. Use ONLY material published in the last 24 hours. Anything older is old news.
 6. Deliver a short briefing paragraph, then 3 LinkedIn posts, 1 article and
    2 blog ideas — all in Chrisy's voice. No long digest.
 7. Never write about a topic we already covered recently, unless as a
@@ -64,9 +64,9 @@ For every link in sections 1 and 3 of sources.md:
 ### 3. Collect new material
 
 **Section 1 — Blogs & news:**
-Fetch each discovered feed. Take ONLY items published today, whose URL is not
-already in state/processed.md. Get the full article text, not just the summary
-line. Ignore anything published before today.
+Fetch each discovered feed. Take ONLY items published in the last 24 hours,
+whose URL is not already in state/processed.md. Get the full article text, not
+just the summary line. Ignore anything older.
 
 **Section 2 — YouTube channels:**
 A working transcript tool IS installed and confirmed: `python -m yt_dlp`.
@@ -74,7 +74,7 @@ You MUST actually run it. NEVER say "no transcript tool is available".
 For each channel:
 1. List its recent videos:
    python -m yt_dlp --flat-playlist --playlist-end 5 --print "%(id)s | %(upload_date)s | %(title)s | %(webpage_url)s" "<CHANNEL_URL>/videos"
-2. Keep only videos uploaded TODAY whose URL is not already in
+2. Keep only videos uploaded in the last 24 hours whose URL is not already in
    state/processed.md. Skip anything older, even if it looks interesting.
 3. For each new video, download the captions:
    python -m yt_dlp --skip-download --write-auto-subs --write-subs --sub-langs "en.*" --convert-subs srt -o "%(id)s.%(ext)s" <VIDEO_URL>
@@ -107,24 +107,30 @@ Process every link listed there, even if it is old or not from a source above.
 After a link is successfully processed, EDIT sources.md: remove the line from
 "One-time requests" and add it under "Already done" with today's date.
 
-### 3b. TODAY ONLY — the hard rule
+### 3b. FRESH ONLY — the hard rule
 
-Only take material **published today**, on the current calendar date.
+Only take material published in the **last 24 hours**, counting back from the
+moment you run.
 
-Anything published yesterday or earlier is old news and must be skipped, even
-if it is interesting and even if we have never seen it before. We are building
-a daily briefing, not a catch-up digest.
+Why 24 hours and not the calendar date: the briefing runs early in the morning
+Yerevan time, which is the middle of the night in the United States. Most of
+our sources publish during the American day, so at 08:00 almost nothing has
+been published on today's date yet. The last 24 hours captures yesterday
+afternoon and evening — which is genuinely fresh news for this morning.
+
+Anything older than 24 hours is old news and must be skipped, even if it is
+interesting and even if we have never seen it before.
 
 Check the publication date of every item before keeping it. If a feed does not
-give a clear date, and you cannot confirm it was published today, skip it.
+give a clear date, and you cannot confirm it is within 24 hours, skip it.
 
 Then apply what_is_important.md and keep at most **8 items** — the strongest
 ones. Fewer strong items beats many weak ones. Never pad.
 
-If today produced only one or two worthwhile items, still write the full
-content from them. If today genuinely produced nothing at all, reply with one
-short plain sentence saying nothing was published today, and nothing else.
-Never invent material to fill the gap.
+If the last 24 hours produced only one or two worthwhile items, still write the
+full content from them. If nothing at all was published, reply with one short
+plain sentence saying so, and nothing else. Never invent material to fill the
+gap.
 
 ### 4. Save the raw material to GitHub (BEFORE summarizing)
 Create raw/<TODAY>.md with ALL collected raw text (articles + full transcripts).
@@ -216,7 +222,7 @@ Re-read everything you just wrote as a strict editor and fix what fails:
 - Did any sponsored content, vendor PR, board appointment, funding round or
   company self-promotion slip into the content? If yes, remove it and rebuild
   that part from real news.
-- Was everything used actually published today?
+- Was everything used actually published within the last 24 hours?
 - Have we written this same theme before? Check state/topics_covered.md.
 Rewrite anything that fails, then continue.
 
