@@ -10,7 +10,10 @@ finds, and turns the important parts into ready-to-use content.
 2. Chrisy only pastes normal links. The agent finds the feeds itself.
 3. Only take material that is NEW (never collected before).
 4. Save the full raw text to GitHub, one file per day.
-5. Use ONLY material published in the last 24 hours. Anything older is old news.
+5. Use ONLY material published in the last 24 hours for sections 1-3 (blogs,
+   YouTube channels, podcasts). EXCEPTION: section 4 (one-time requests) is
+   always processed regardless of age — that is the whole point of that
+   section.
 6. Deliver a short briefing paragraph, then 3 LinkedIn posts, 1 article and
    2 blog ideas — all in Chrisy's voice. No long digest.
 7. Never write about a topic we already covered recently, unless as a
@@ -107,10 +110,15 @@ Process every link listed there, even if it is old or not from a source above.
 After a link is successfully processed, EDIT sources.md: remove the line from
 "One-time requests" and add it under "Already done" with today's date.
 
-### 3b. FRESH ONLY — the hard rule
+### 3b. FRESH ONLY — the hard rule (sections 1-3 only)
 
-Only take material published in the **last 24 hours**, counting back from the
-moment you run.
+This rule applies ONLY to sections 1, 2 and 3 (blogs, YouTube channels,
+podcasts). It does NOT apply to section 4 (one-time requests) — those are
+always processed regardless of publish date, as already stated above. Never
+drop a section 4 link for being old.
+
+For sections 1-3: only take material published in the **last 24 hours**,
+counting back from the moment you run.
 
 Why 24 hours and not the calendar date: the briefing runs early in the morning
 Yerevan time, which is the middle of the night in the United States. Most of
@@ -128,9 +136,11 @@ Then apply what_is_important.md and keep at most **8 items** — the strongest
 ones. Fewer strong items beats many weak ones. Never pad.
 
 If the last 24 hours produced only one or two worthwhile items, still write the
-full content from them. If nothing at all was published, reply with one short
-plain sentence saying so, and nothing else. Never invent material to fill the
-gap.
+full content from them. If section 1-3 sources produced nothing AND section 4
+is empty, reply with one short plain sentence saying so, and nothing else.
+But if section 4 has ANY link in it, that counts as real material — always
+process it and deliver full content, even if sections 1-3 found nothing.
+Never invent material to fill the gap.
 
 ### 4. Save the raw material to GitHub (BEFORE summarizing)
 Create raw/<TODAY>.md with ALL collected raw text (articles + full transcripts).
