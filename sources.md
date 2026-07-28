@@ -54,8 +54,10 @@ regardless of publish date, unlike sections 1-3 which only look at the last
 24 hours. On the next run, the agent reads its transcript / full text, folds
 it into today's briefing and content, then moves the line down to
 "Already done" so it is never processed twice.
-
-<!-- example: - https://www.youtube.com/watch?v=SOMEVIDEOID -->
+[
+https://www.youtube.com/watch?v=XMpGJXm2_Ts
+https://www.youtube.com/watch?v=ZW7R3qNw4nk
+https://www.youtube.com/watch?v=bcml5RkMMMo
 
 
 ### Already done (the agent moves finished items here — do not edit)
