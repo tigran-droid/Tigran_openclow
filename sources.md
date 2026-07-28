@@ -46,9 +46,14 @@ website. The agent finds the real feed behind it by itself.
 ---
 
 ## 4. One-time requests (single links, processed once)
-Paste any single YouTube video, article or episode link here when you want its
-transcript / full text — even if it is not from a source above.
-The agent processes it on the next run, then moves it to "Already done".
+Use this when you want ONE specific video, article or episode included in
+today's summary — not a whole channel, just this one link.
+
+Paste it below. It does NOT need to be recent — the agent will process it
+regardless of publish date, unlike sections 1-3 which only look at the last
+24 hours. On the next run, the agent reads its transcript / full text, folds
+it into today's briefing and content, then moves the line down to
+"Already done" so it is never processed twice.
 
 <!-- example: - https://www.youtube.com/watch?v=SOMEVIDEOID -->
 
