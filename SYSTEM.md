@@ -10,9 +10,12 @@ finds, and turns the important parts into ready-to-use content.
 2. Chrisy only pastes normal links. The agent finds the feeds itself.
 3. Only take material that is NEW (never collected before).
 4. Save the full raw text to GitHub, one file per day.
-5. Deliver: the full news digest of the day, then 3 LinkedIn posts, 1 article
-   and 2 blog ideas — all in Chrisy's voice.
-6. All sources and rules live in this GitHub repo, so a non-technical person can
+5. Use ONLY material published today. Yesterday's news is old news.
+6. Deliver a short briefing paragraph, then 3 LinkedIn posts, 1 article and
+   2 blog ideas — all in Chrisy's voice. No long digest.
+7. Never write about a topic we already covered recently, unless as a
+   deliberate follow-up.
+8. All sources and rules live in this GitHub repo, so a non-technical person can
    change how the agent behaves by editing these files.
 
 ## The daily routine (follow these steps in order)
@@ -61,9 +64,9 @@ For every link in sections 1 and 3 of sources.md:
 ### 3. Collect new material
 
 **Section 1 — Blogs & news:**
-Fetch each discovered feed. Take items published in the last 24 hours (or since
-the last run) whose URL is not already in state/processed.md. Get the full
-article text, not just the summary line.
+Fetch each discovered feed. Take ONLY items published today, whose URL is not
+already in state/processed.md. Get the full article text, not just the summary
+line. Ignore anything published before today.
 
 **Section 2 — YouTube channels:**
 A working transcript tool IS installed and confirmed: `python -m yt_dlp`.
@@ -71,8 +74,8 @@ You MUST actually run it. NEVER say "no transcript tool is available".
 For each channel:
 1. List its recent videos:
    python -m yt_dlp --flat-playlist --playlist-end 5 --print "%(id)s | %(upload_date)s | %(title)s | %(webpage_url)s" "<CHANNEL_URL>/videos"
-2. Keep only videos uploaded in the last 24 hours whose URL is not already in
-   state/processed.md.
+2. Keep only videos uploaded TODAY whose URL is not already in
+   state/processed.md. Skip anything older, even if it looks interesting.
 3. For each new video, download the captions:
    python -m yt_dlp --skip-download --write-auto-subs --write-subs --sub-langs "en.*" --convert-subs srt -o "%(id)s.%(ext)s" <VIDEO_URL>
 4. Read the .srt file, remove numbers, timestamps and duplicate lines, and keep
@@ -104,27 +107,23 @@ Process every link listed there, even if it is old or not from a source above.
 After a link is successfully processed, EDIT sources.md: remove the line from
 "One-time requests" and add it under "Already done" with today's date.
 
-### 3b. Make sure there is ENOUGH material (do not skip this)
+### 3b. TODAY ONLY — the hard rule
 
-Good content needs several sources to compare. One article or one video is not
-enough — content built from a single source always reads like a report about
-that source, which is not what we want.
+Only take material **published today**, on the current calendar date.
 
-Count the new items you collected.
-- If you have **fewer than 5 items**, widen the time window: repeat step 3 but
-  look back 3 days instead of 24 hours (still skipping anything already in
-  state/processed.md).
-- If you still have fewer than 5 items, widen again to 14 days.
-- If you STILL have fewer than 3 items, fall back to material already in the
-  archive: read the most recent files in the repo's raw/ folder (the last 7
-  days) and use that material to build the content. It is fine to reuse
-  archived material — it is not fine to deliver nothing.
+Anything published yesterday or earlier is old news and must be skipped, even
+if it is interesting and even if we have never seen it before. We are building
+a daily briefing, not a catch-up digest.
 
-**You must ALWAYS deliver the full content: 3 LinkedIn posts, 1 article and 2
-blog ideas.** Never reply with "not regenerated", "no new material", or any
-other refusal. A quiet news day is not a reason to skip work — it is a reason
-to write about the bigger pattern rather than the newest headline.
+Check the publication date of every item before keeping it. If a feed does not
+give a clear date, and you cannot confirm it was published today, skip it.
 
+Then apply what_is_important.md and keep at most **8 items** — the strongest
+ones. Fewer strong items beats many weak ones. Never pad.
+
+If today produced only one or two worthwhile items, still write the full
+content from them. If today genuinely produced nothing at all, reply with one
+short plain sentence saying nothing was published today, and nothing else.
 Never invent material to fill the gap.
 
 ### 4. Save the raw material to GitHub (BEFORE summarizing)
@@ -152,6 +151,11 @@ today as ONE body of material and ask:
 - What story keeps showing up across different sources?
 - Where do two sources disagree, or where does one contradict the common view?
 - What would a business leader actually need to understand from today as a whole?
+
+Before choosing, read state/topics_covered.md. If a theme is already there from
+the last 30 days, do not write the same post again. Either drop it, or write a
+deliberate follow-up that says what has changed since — never repeat the same
+argument as if it were new.
 
 Write down 4-6 candidate THEMES. A theme is an idea, not an article — for
 example "companies are cutting staff faster than their AI actually works", not
@@ -189,6 +193,12 @@ Produce:
 - 1 ready-to-read article (600-800 words)
 - 2 blog post ideas
 
+### 8b. Record the themes you used
+Append today's themes to state/topics_covered.md using the GitHub API (read the
+file, add the new lines at the top, write it back). One line per theme:
+`- <TODAY> | <theme in one short line> | <the angle we took>`
+This is how the system avoids repeating itself next week.
+
 ### 9. Editor pass (do this before sending — do not skip)
 Re-read everything you just wrote as a strict editor and fix what fails:
 - Is every fact actually present in today's raw material? If you cannot point to
@@ -200,7 +210,14 @@ Re-read everything you just wrote as a strict editor and fix what fails:
 - Is each LinkedIn post really 180-250 words? If it is shorter, it is not
   finished — add real substance, not filler.
 - Does it sound like Chrisy, or like generic AI writing?
-- Is every source link correct and present?
+- Are all three LinkedIn posts complete, and is the article complete? Nothing
+  may end mid-sentence or mid-thought.
+- Is anything repeated? The same paragraph or section must never appear twice.
+- Did any sponsored content, vendor PR, board appointment, funding round or
+  company self-promotion slip into the content? If yes, remove it and rebuild
+  that part from real news.
+- Was everything used actually published today?
+- Have we written this same theme before? Check state/topics_covered.md.
 Rewrite anything that fails, then continue.
 
 ### 9b. Record what you wrote about (this is the memory)
@@ -240,6 +257,10 @@ TODAY'S BRIEFING
 A short paragraph, 4-6 sentences, telling Chrisy what happened in AI today and
 what the through-line is. Written as prose, not as a list.
 
+Do NOT include a list or digest of every item collected. No numbered rundown of
+articles, no per-item summaries. That belongs in the archive, not in the reply.
+This one paragraph is the only summary Chrisy sees.
+
 LINKEDIN POST 1
 (the full post text)
 
@@ -259,6 +280,13 @@ BLOG IDEA 2
 (title, then the angle and outline as plain sentences)
 
 Nothing after that. No footer, no links, no notes.
+
+Send the whole thing ONCE. Never repeat a section, never resend a part you have
+already sent, never send two versions of the same briefing. If a message is
+long, continue it — do not start again from the top.
+
+Every piece must be complete. Three finished LinkedIn posts, one finished
+article, two finished blog ideas. Never send a post that stops mid-thought.
 
 If something went genuinely wrong — a source has been failing for days, or you
 had to fall back to older material — add ONE short plain sentence at the very

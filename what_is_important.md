@@ -1,39 +1,51 @@
+# What is important — the filter
+
+This decides what we keep and what we throw away. Chrisy edits this freely.
+
+We are an AI-transformation consulting business. We help companies and their
+leaders actually put AI to work.
+
 ---
-name: ai-content-briefing
-description: Reads AI news and writes 3 LinkedIn post ideas for an AI-transformation consulting business, using rules stored in GitHub.
----
 
-# AI Content Briefing
+## KEEP — things that matter to us
 
-Trigger this skill when the user asks for "today's briefing", "AI news",
-or "LinkedIn ideas".
+- Real, working AI tools or workflows a business could adopt now
+- Companies putting AI into production: what worked, what failed, what it cost
+- Hard evidence: studies, measured productivity gains, adoption data, ROI
+- AI agents, orchestration, automation — and what breaks in practice
+- Model pricing, licensing or capability changes that change what is affordable
+- Security, governance, data and regulation affecting business AI use,
+  especially in Europe
+- Sharp, credible opinion from people who have actually built things
+- Anything that changes what we would advise a client to do this quarter
 
-## Step 1 — Load the current rules (always fetch fresh, do not cache)
+## THROW AWAY — no exceptions
 
-Fetch these three files from GitHub before doing anything else. They may
-change at any time — always use the latest version, never rely on memory
-of a previous run:
+- **Sponsored content.** If the piece says "sponsored", "in partnership with",
+  "paid for by", or is written on behalf of a company, drop it immediately.
+  It is advertising, not news.
+- **Vendor PR and corporate announcements** with no practical takeaway:
+  board appointments, new hires, funding rounds, valuations, partnerships,
+  community programmes, donations, credits given away, data-centre openings,
+  awards, conference announcements.
+- Pure hype with nothing concrete behind it
+- Rumours, leaks, unconfirmed claims
+- Consumer gadget news with no business angle
+- Deep technical research with no practical business meaning
+- Anything a leader could read and still not know what to do differently
 
-- Filtering rules: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/what_is_important.md
-- Writing style: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/how_to_write.md
-- Sources list: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/sources.md
+## The judgement rule
 
-## Step 2 — Collect
+Before keeping an item, ask: **"Would this change how a business leader acts,
+or is it just something a company wants people to know about them?"**
 
-Fetch the newest items from every RSS feed listed in sources.md. Take the
-5 newest items per feed.
+If it is the second one, drop it — even if it comes from a big name.
 
-## Step 3 — Filter
+A product launch counts as news only if the product changes what a business can
+actually do. A company telling the world about its own generosity, growth or
+governance does not.
 
-Using the rules in what_is_important.md, judge each item. Keep only the
-ones that genuinely matter. Skip the rest.
+## How much to keep
 
-## Step 4 — Write
-
-Using the style in how_to_write.md, write exactly 3 LinkedIn post ideas
-from the most important remaining items. Number them 1, 2, 3, each with
-a source link.
-
-## Step 5 — Reply
-
-Send the 3 ideas back to the user in the chat, clearly numbered.
+Keep at most **8 items per day** — the strongest ones. It is better to have 5
+good items than 15 weak ones. Never pad the list to look busy.
