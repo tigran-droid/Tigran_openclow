@@ -26,3 +26,4 @@ Anything listed here will not be collected again.
 - 2026-07-28 | https://openai.com/index/david-velez-robin-vince-join-openai-boards | David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC
 - 2026-07-28 | https://www.youtube.com/watch?v=Ek1NBfnnTH0 | 5 Hacks to Instantly Level Up Your AI OS
 - 2026-07-28 | https://www.youtube.com/watch?v=vY0EzTP-7EA | How I'd Make Money with Claude if my life depended on it
+- 2026-07-28 | https://www.youtube.com/watch?v=PtGQaduZwmA | Claude Chat vs Cowork vs Code: Which One Should You Use?
