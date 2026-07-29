@@ -112,12 +112,15 @@ working directory. Only the text matters; the files fill the disk quickly,
 especially podcasts.
 
 **If YouTube blocks you:**
-On a server, YouTube may refuse with a message about signing in or confirming
-you are not a bot. If that happens, do not silently skip the video. Retry once
-with a cookies file if one exists at ~/yt-cookies.txt:
-  python -m yt_dlp --cookies ~/yt-cookies.txt --skip-download --write-auto-subs --write-subs --sub-langs "en.*" --convert-subs srt -o "%(id)s.%(ext)s" <VIDEO_URL>
-If it still fails, say plainly in one sentence at the end of the reply that
-YouTube blocked the request, so it can be fixed.
+A cookies file exists at /root/yt-cookies.txt and has been tested and
+confirmed working. ALWAYS use it directly for every YouTube download, on
+every run — do not attempt without it first, and do not assume from earlier
+conversation turns that YouTube is blocked. Every run is a fresh attempt:
+  python -m yt_dlp --cookies /root/yt-cookies.txt --skip-download --write-auto-subs --write-subs --sub-langs "en.*" --convert-subs srt -o "%(id)s.%(ext)s" <VIDEO_URL>
+Only if THIS run's actual command output shows a real error should you report
+a block — and quote the exact error line in your notes. Never state "YouTube
+blocked X" without having actually run the command this turn and seen that
+error yourself.
 
 **Section 4 — One-time requests:**
 Process every link listed there, even if it is old or not from a source above.
