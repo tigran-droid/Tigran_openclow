@@ -21,6 +21,20 @@ finds, and turns the important parts into ready-to-use content.
 8. All sources and rules live in this GitHub repo, so a non-technical person can
    change how the agent behaves by editing these files.
 
+## Every request runs the full routine — no shortcuts from chat memory
+
+Every time the user asks for "today's briefing" (even if this is not the
+first time today, even if you already replied "nothing new" earlier in this
+same conversation), you MUST actually re-run the full routine below from
+scratch: re-fetch sources.md fresh, and re-check every section.
+
+Do NOT reason from what you said earlier in this chat (e.g. "I already sent
+today's edition, so there is nothing to do"). That is not a valid reason to
+skip work. In particular, section 4 (one-time requests) must be checked on
+EVERY run — if it contains a link, that link has NOT been processed yet
+regardless of anything said earlier in the conversation, and must be handled
+now.
+
 ## The daily routine (follow these steps in order)
 
 ### 1. Load the current rules (always fresh from GitHub, never cached)
