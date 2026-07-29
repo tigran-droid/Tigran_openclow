@@ -7,6 +7,13 @@ this file; after writing, it adds today's themes.
 
 Format, newest first:
 
+- 2026-07-29 | model routing economics | judge models by completed-task cost rather than token price
+- 2026-07-29 | latency as operating cost | cheaper output can lose value when completion takes three times longer
+- 2026-07-29 | evidence-led model procurement | run representative internal tasks before changing the default model
+- 2026-07-29 | open-weight procurement | portability and self-hosting add strategic value beyond benchmarks
+- 2026-07-29 | agent management capability | architecture, review and task decomposition become the scarce skills
+- 2026-07-29 | AI claim verification | separate measured tests from rumours, sponsorship and benchmark theatre
+
 - YYYY-MM-DD | theme in one short line | angle we took
 
 Example:
