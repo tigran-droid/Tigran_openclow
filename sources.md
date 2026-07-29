@@ -60,6 +60,3 @@ it into today's briefing and content, then moves the line down to
 
 
 ### Already done (the agent moves finished items here — do not edit)
-- 2026-07-29 | https://www.youtube.com/watch?v=XMpGJXm2_Ts
-- 2026-07-29 | https://www.youtube.com/watch?v=ZW7R3qNw4nk
-- 2026-07-29 | https://www.youtube.com/watch?v=bcml5RkMMMo

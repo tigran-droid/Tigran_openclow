@@ -100,10 +100,25 @@ For each channel:
 5. If one specific video genuinely has no captions, note that video and move on.
 
 **Section 3 — Podcasts:**
-Fetch each discovered feed and take new episodes. Try the same yt_dlp approach
-on the episode audio URL to get a transcript. If no transcript is possible, save
-the episode title, description and link, and say clearly that no transcript was
-available.
+Fetch each discovered feed and take new episodes. For each new episode, get the
+transcript in this order of preference:
+1. FIRST check whether a transcript already exists on the web — many podcasts
+   publish a full transcript on the episode's own page or the show's website.
+   Fetch the episode page and look for a transcript link or transcript text. If
+   found, use that. This is the best source: no audio download, no blocking.
+2. If no published transcript exists, fall back to the yt_dlp approach on the
+   episode audio URL (using the cookies file if needed, same as YouTube).
+3. If neither works, save the episode title, description and link, and say
+   clearly that no transcript was available.
+Podcast volume is low (roughly 10 per week), so it is fine to spend a little
+effort per episode to find the best transcript.
+
+**Marking things "done" — only when actually successful:**
+Only move an item to "Already done" (section 4) or record it in
+state/processed.md if you ACTUALLY got its content this run — the article text,
+or the real transcript. If a download failed (YouTube block, no captions,
+error), DO NOT mark it done. Leave it pending so it is retried next run once
+the problem is fixed. Never mark something done just because you attempted it.
 
 **Housekeeping — always clean up after collecting:**
 Once a transcript has been extracted and saved into the raw archive, delete the
