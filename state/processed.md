@@ -27,3 +27,5 @@ Anything listed here will not be collected again.
 - 2026-07-28 | https://www.youtube.com/watch?v=Ek1NBfnnTH0 | 5 Hacks to Instantly Level Up Your AI OS
 - 2026-07-28 | https://www.youtube.com/watch?v=vY0EzTP-7EA | How I'd Make Money with Claude if my life depended on it
 - 2026-07-28 | https://www.youtube.com/watch?v=PtGQaduZwmA | Claude Chat vs Cowork vs Code: Which One Should You Use?
+- 2026-07-29 | https://openai.com/index/scientific-computing-agentic-ai | Scientific computing in the age of agentic AI
+- 2026-07-29 | https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/ | Samsung’s chip workers are jumping ship to rival SK Hynix
