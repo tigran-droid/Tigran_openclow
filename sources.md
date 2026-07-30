@@ -28,10 +28,7 @@ one or two sources the content ends up being about a single article.
 Paste the channel link.
 
 <!-- example: - https://www.youtube.com/@channelname -->
-- https://www.youtube.com/@mreflow
-- https://www.youtube.com/@futurepedia_io
-- https://www.youtube.com/@nateherk
-
+https://www.youtube.com/watch?v=axGNiut8Yf0
 
 ---
 
