@@ -88,13 +88,26 @@ just the summary line. Ignore anything older.
 **Section 2 — YouTube channels:**
 A working transcript tool IS installed and confirmed: `python -m yt_dlp`.
 You MUST actually run it. NEVER say "no transcript tool is available".
+
+IMPORTANT: do NOT use `--flat-playlist` to list videos — in that mode yt-dlp
+returns "NA" for the upload date, so you cannot tell which videos are recent and
+you would wrongly skip everything. Use the channel's RSS feed instead, which has
+reliable published dates. This is the single most important rule for this
+section.
+
 For each channel:
-1. List its recent videos:
-   python -m yt_dlp --flat-playlist --playlist-end 5 --print "%(id)s | %(upload_date)s | %(title)s | %(webpage_url)s" "<CHANNEL_URL>/videos"
-2. Keep only videos uploaded in the last 24 hours whose URL is not already in
-   state/processed.md. Skip anything older, even if it looks interesting.
-3. For each new video, download the captions:
-   python -m yt_dlp --skip-download --write-auto-subs --write-subs --sub-langs "en.*" --convert-subs srt -o "%(id)s.%(ext)s" <VIDEO_URL>
+1. Find the channel's RSS feed URL (it has real dates):
+   - Check state/feeds.md first — if this channel's feed is recorded, use it.
+   - Otherwise, get the channel id from the channel page HTML:
+     curl -s "<CHANNEL_URL>/videos" | grep -oE 'channel_id=UC[A-Za-z0-9_-]+' | head -1
+     Take the UC... id and build the feed URL:
+     https://www.youtube.com/feeds/videos.xml?channel_id=UC...
+   - Record it in state/feeds.md as: `- <CHANNEL_URL> => <feed url>`
+2. Fetch that RSS feed. Each <entry> has <yt:videoId>, <title> and <published>
+   (an ISO timestamp). Keep only entries whose <published> is within the last
+   24 hours AND whose video URL is not already in state/processed.md.
+3. For each kept video, download the captions (ALWAYS with the cookies file):
+   python -m yt_dlp --cookies /root/yt-cookies.txt --skip-download --write-auto-subs --write-subs --sub-langs "en.*" --convert-subs srt -o "%(id)s.%(ext)s" "https://www.youtube.com/watch?v=<videoId>"
 4. Read the .srt file, remove numbers, timestamps and duplicate lines, and keep
    the clean spoken text as the transcript.
 5. If one specific video genuinely has no captions, note that video and move on.
