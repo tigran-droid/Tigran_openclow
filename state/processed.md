@@ -34,3 +34,4 @@ Anything listed here will not be collected again.
 - 2026-07-30 | https://www.youtube.com/watch?v=XMpGJXm2_Ts | Fable 5.1 HUGE Leak, NEW GPT Checkpoints, Anthropic vs China AI, Gemini 4 Soon, & More! AI NEWS
 - 2026-07-30 | https://www.youtube.com/watch?v=ZW7R3qNw4nk | Build Anything with Kimi K3, Here's How
 - 2026-07-30 | https://www.youtube.com/watch?v=bcml5RkMMMo | I tested Claude vs Kimi K3. What you need to know...
+- 2026-07-30 | https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/ | A fundamental flaw leaves LLMs strikingly vulnerable to attack
