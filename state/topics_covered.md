@@ -7,6 +7,13 @@ this file; after writing, it adds today's themes.
 
 Format, newest first:
 
+- 2026-07-30 | role confusion in LLMs | labels do not guarantee an agent knows who issued an instruction
+- 2026-07-30 | containment over trusted guardrails | design agent deployments on the assumption that model safeguards can fail
+- 2026-07-30 | limits of red teaming | enumerating known attacks cannot eliminate structural model weaknesses
+- 2026-07-30 | security architecture for AI agents | use permissions, isolation and approval gates as compensating controls
+- 2026-07-30 | instruction provenance testing | test whether models distinguish user, system, tool and reasoning content under attack
+- 2026-07-30 | risk-tiered agent autonomy | expand autonomy only where the consequence of forged instructions is bounded
+
 - 2026-07-30 | harness quality | model performance depends on retained reasoning, compaction and task-specific setup
 - 2026-07-30 | cost per completed task | cheap tokens can become expensive when a slower model needs more time and retries
 - 2026-07-30 | AI evaluation discipline | test models in the workflow instead of trusting leaderboards or demos
