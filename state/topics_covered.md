@@ -7,6 +7,13 @@ this file; after writing, it adds today's themes.
 
 Format, newest first:
 
+- 2026-07-30 | readiness before autonomy | prepare the operating environment before assigning valuable work
+- 2026-07-30 | staged agent deployment | start with low-consequence workloads that expose system weaknesses
+- 2026-07-30 | failure-led workflow design | use early incidents to redesign controls rather than patch symptoms
+- 2026-07-30 | environment-first AI operations | capability cannot compensate for unstable inputs and weak containment
+- 2026-07-30 | operational readiness tests | define observable conditions that must be true before scaling an agent
+- 2026-07-30 | reversible AI rollout | expand access and stakes only after cheap trials behave predictably
+
 - 2026-07-30 | model price deflation | falling inference prices reopen workflows rejected as uneconomic
 - 2026-07-30 | latency premium budgeting | pay for faster processing only where elapsed time changes business value
 - 2026-07-30 | AI cost review cadence | reprice and retest the automation backlog when model economics move

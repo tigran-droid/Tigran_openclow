@@ -36,3 +36,4 @@ Anything listed here will not be collected again.
 - 2026-07-30 | https://www.youtube.com/watch?v=bcml5RkMMMo | I tested Claude vs Kimi K3. What you need to know...
 - 2026-07-30 | https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/ | A fundamental flaw leaves LLMs strikingly vulnerable to attack
 - 2026-07-30 | https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6 | Advancing the price-performance frontier with GPT-5.6
+- 2026-07-30 | https://www.youtube.com/watch?v=axGNiut8Yf0 | Adding Fish to the Bass Pond!!
