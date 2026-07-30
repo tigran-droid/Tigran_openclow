@@ -85,15 +85,19 @@ Fetch each discovered feed. Take ONLY items published in the last 24 hours,
 whose URL is not already in state/processed.md. Get the full article text, not
 just the summary line. Ignore anything older.
 
-**Section 2 — YouTube channels:**
-A working transcript tool IS installed and confirmed: `python -m yt_dlp`.
-You MUST actually run it. NEVER say "no transcript tool is available".
+**Getting a YouTube transcript — use the Supadata API (used in sections 2 and 4):**
+Do NOT use yt-dlp or cookies for YouTube any more — they get blocked. Instead,
+for ANY YouTube video URL, call the Supadata transcript API:
+  curl -s -H "x-api-key: $SUPADATA_API_KEY" "https://api.supadata.ai/v1/youtube/transcript?url=<VIDEO_URL>&text=true"
+The response is JSON. Read the "content" field — that is the full transcript as
+plain text, ready to use. Never print the API key. If the JSON has an "error"
+field or an empty/missing "content", note that no transcript was available for
+that specific video and move on. This API is reliable and is the ONLY transcript
+method now — do not fall back to yt-dlp or cookies.
 
-IMPORTANT: do NOT use `--flat-playlist` to list videos — in that mode yt-dlp
-returns "NA" for the upload date, so you cannot tell which videos are recent and
-you would wrongly skip everything. Use the channel's RSS feed instead, which has
-reliable published dates. This is the single most important rule for this
-section.
+**Section 2 — YouTube channels:**
+IMPORTANT: do NOT use yt-dlp `--flat-playlist` to list videos — it returns "NA"
+for the date. Use the channel's RSS feed instead, which has reliable dates.
 
 For each channel:
 1. Find the channel's RSS feed URL (it has real dates):
@@ -106,11 +110,10 @@ For each channel:
 2. Fetch that RSS feed. Each <entry> has <yt:videoId>, <title> and <published>
    (an ISO timestamp). Keep only entries whose <published> is within the last
    24 hours AND whose video URL is not already in state/processed.md.
-3. For each kept video, download the captions (ALWAYS with the cookies file):
-   python -m yt_dlp --cookies /root/yt-cookies.txt --skip-download --write-auto-subs --write-subs --sub-langs "en.*" --convert-subs srt -o "%(id)s.%(ext)s" "https://www.youtube.com/watch?v=<videoId>"
-4. Read the .srt file, remove numbers, timestamps and duplicate lines, and keep
-   the clean spoken text as the transcript.
-5. If one specific video genuinely has no captions, note that video and move on.
+3. For each kept video, get its transcript via the Supadata API described above
+   (video URL: https://www.youtube.com/watch?v=<videoId>).
+4. Use the "content" field as the transcript.
+5. If a video has no transcript available, note it and move on.
 
 **Section 3 — Podcasts:**
 Fetch each discovered feed and take new episodes. For each new episode, get the
@@ -119,8 +122,8 @@ transcript in this order of preference:
    publish a full transcript on the episode's own page or the show's website.
    Fetch the episode page and look for a transcript link or transcript text. If
    found, use that. This is the best source: no audio download, no blocking.
-2. If no published transcript exists, fall back to the yt_dlp approach on the
-   episode audio URL (using the cookies file if needed, same as YouTube).
+2. If the episode is hosted on YouTube, get the transcript via the Supadata API
+   (same as sections 2 and 4).
 3. If neither works, save the episode title, description and link, and say
    clearly that no transcript was available.
 Podcast volume is low (roughly 10 per week), so it is fine to spend a little
@@ -133,27 +136,14 @@ or the real transcript. If a download failed (YouTube block, no captions,
 error), DO NOT mark it done. Leave it pending so it is retried next run once
 the problem is fixed. Never mark something done just because you attempted it.
 
-**Housekeeping — always clean up after collecting:**
-Once a transcript has been extracted and saved into the raw archive, delete the
-downloaded media and subtitle files (.srt, .vtt, .mp3, .m4a, .webm) from the
-working directory. Only the text matters; the files fill the disk quickly,
-especially podcasts.
-
-**If YouTube blocks you:**
-A cookies file exists at /root/yt-cookies.txt and has been tested and
-confirmed working. ALWAYS use it directly for every YouTube download, on
-every run — do not attempt without it first, and do not assume from earlier
-conversation turns that YouTube is blocked. Every run is a fresh attempt:
-  python -m yt_dlp --cookies /root/yt-cookies.txt --skip-download --write-auto-subs --write-subs --sub-langs "en.*" --convert-subs srt -o "%(id)s.%(ext)s" <VIDEO_URL>
-Only if THIS run's actual command output shows a real error should you report
-a block — and quote the exact error line in your notes. Never state "YouTube
-blocked X" without having actually run the command this turn and seen that
-error yourself.
-
 **Section 4 — One-time requests:**
 Process every link listed there, even if it is old or not from a source above.
-After a link is successfully processed, EDIT sources.md: remove the line from
-"One-time requests" and add it under "Already done" with today's date.
+If the link is a YouTube video, get its transcript via the Supadata API (see the
+Supadata instructions above). For articles, fetch the page text.
+After a link is successfully processed (you actually got its transcript/text),
+EDIT sources.md: remove the line from "One-time requests" and add it under
+"Already done" with today's date. If it failed, leave it pending — do not mark
+it done.
 
 ### 3b. FRESH ONLY — the hard rule (sections 1-3 only)
 
