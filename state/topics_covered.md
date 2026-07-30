@@ -7,6 +7,13 @@ this file; after writing, it adds today's themes.
 
 Format, newest first:
 
+- 2026-07-30 | model price deflation | falling inference prices reopen workflows rejected as uneconomic
+- 2026-07-30 | latency premium budgeting | pay for faster processing only where elapsed time changes business value
+- 2026-07-30 | AI cost review cadence | reprice and retest the automation backlog when model economics move
+- 2026-07-30 | workflow stage economics | assign expensive intelligence only to uncertain steps and cheap models to defined execution
+- 2026-07-30 | automation demand expansion | lower unit costs can expand usage faster than budgets shrink
+- 2026-07-30 | AI pricing governance | require independent workflow evaluations before accepting vendor efficiency claims
+
 - 2026-07-30 | role confusion in LLMs | labels do not guarantee an agent knows who issued an instruction
 - 2026-07-30 | containment over trusted guardrails | design agent deployments on the assumption that model safeguards can fail
 - 2026-07-30 | limits of red teaming | enumerating known attacks cannot eliminate structural model weaknesses
