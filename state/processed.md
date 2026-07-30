@@ -29,3 +29,8 @@ Anything listed here will not be collected again.
 - 2026-07-28 | https://www.youtube.com/watch?v=PtGQaduZwmA | Claude Chat vs Cowork vs Code: Which One Should You Use?
 - 2026-07-29 | https://openai.com/index/scientific-computing-agentic-ai | Scientific computing in the age of agentic AI
 - 2026-07-29 | https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/ | Samsung’s chip workers are jumping ship to rival SK Hynix
+- 2026-07-30 | https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/ | The AI Hype Index: Unsexy AI
+- 2026-07-30 | https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores | How enabling two settings tripled our scores on the ARC-AGI-3 benchmark
+- 2026-07-30 | https://www.youtube.com/watch?v=XMpGJXm2_Ts | Fable 5.1 HUGE Leak, NEW GPT Checkpoints, Anthropic vs China AI, Gemini 4 Soon, & More! AI NEWS
+- 2026-07-30 | https://www.youtube.com/watch?v=ZW7R3qNw4nk | Build Anything with Kimi K3, Here's How
+- 2026-07-30 | https://www.youtube.com/watch?v=bcml5RkMMMo | I tested Claude vs Kimi K3. What you need to know...
