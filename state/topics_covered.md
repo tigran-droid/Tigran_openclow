@@ -7,6 +7,13 @@ this file; after writing, it adds today's themes.
 
 Format, newest first:
 
+- 2026-07-30 | harness quality | model performance depends on retained reasoning, compaction and task-specific setup
+- 2026-07-30 | cost per completed task | cheap tokens can become expensive when a slower model needs more time and retries
+- 2026-07-30 | AI evaluation discipline | test models in the workflow instead of trusting leaderboards or demos
+- 2026-07-30 | AI system design economics | workflow architecture can outweigh model choice in capability and cost
+- 2026-07-30 | agent memory design | preserve useful history without letting context grow uncontrolled
+- 2026-07-30 | model routing scorecard | route work using quality, elapsed time, retries and total task cost
+
 - 2026-07-29 | model routing economics | judge models by completed-task cost rather than token price
 - 2026-07-29 | latency as operating cost | cheaper output can lose value when completion takes three times longer
 - 2026-07-29 | evidence-led model procurement | run representative internal tasks before changing the default model
