@@ -25,10 +25,12 @@ one or two sources the content ends up being about a single article.
 ---
 
 ## 2. YouTube channels (checked daily for new videos)
-Paste the channel link.
+Paste the channel link (a channel, not a single video).
 
 <!-- example: - https://www.youtube.com/@channelname -->
-https://www.youtube.com/watch?v=axGNiut8Yf0
+- https://www.youtube.com/@mreflow
+- https://www.youtube.com/@futurepedia_io
+- https://www.youtube.com/@nateherk
 
 ---
 
@@ -51,6 +53,7 @@ regardless of publish date, unlike sections 1-3 which only look at the last
 24 hours. On the next run, the agent reads its transcript / full text, folds
 it into today's briefing and content, then moves the line down to
 "Already done" so it is never processed twice.
+- https://www.youtube.com/watch?v=axGNiut8Yf0
 
 
 ### Already done (the agent moves finished items here — do not edit)
