@@ -85,35 +85,34 @@ Fetch each discovered feed. Take ONLY items published in the last 24 hours,
 whose URL is not already in state/processed.md. Get the full article text, not
 just the summary line. Ignore anything older.
 
-**Getting a YouTube transcript — use the Supadata API (used in sections 2 and 4):**
-Do NOT use yt-dlp or cookies for YouTube any more — they get blocked. Instead,
-for ANY YouTube video URL, call the Supadata transcript API:
-  curl -s -H "x-api-key: $SUPADATA_API_KEY" "https://api.supadata.ai/v1/youtube/transcript?url=<VIDEO_URL>&text=true"
-The response is JSON. Read the "content" field — that is the full transcript as
-plain text, ready to use. Never print the API key. If the JSON has an "error"
-field or an empty/missing "content", note that no transcript was available for
-that specific video and move on. This API is reliable and is the ONLY transcript
-method now — do not fall back to yt-dlp or cookies.
+**Section 2 — YouTube channels — RUN THE COLLECTOR SCRIPT (do not do this by hand):**
 
-**Section 2 — YouTube channels:**
-IMPORTANT: do NOT use yt-dlp `--flat-playlist` to list videos — it returns "NA"
-for the date. Use the channel's RSS feed instead, which has reliable dates.
+YouTube collection is handled by a reliable script on the server. You MUST run
+it every run — do not check channels, parse dates, or fetch transcripts
+yourself. Run this one command and use its ENTIRE standard output as your
+YouTube raw material:
 
-For each channel:
-1. Find the channel's RSS feed URL (it has real dates):
-   - Check state/feeds.md first — if this channel's feed is recorded, use it.
-   - Otherwise, get the channel id from the channel page HTML:
-     curl -s "<CHANNEL_URL>/videos" | grep -oE 'channel_id=UC[A-Za-z0-9_-]+' | head -1
-     Take the UC... id and build the feed URL:
-     https://www.youtube.com/feeds/videos.xml?channel_id=UC...
-   - Record it in state/feeds.md as: `- <CHANNEL_URL> => <feed url>`
-2. Fetch that RSS feed. Each <entry> has <yt:videoId>, <title> and <published>
-   (an ISO timestamp). Keep only entries whose <published> is within the last
-   24 hours AND whose video URL is not already in state/processed.md.
-3. For each kept video, get its transcript via the Supadata API described above
-   (video URL: https://www.youtube.com/watch?v=<videoId>).
-4. Use the "content" field as the transcript.
-5. If a video has no transcript available, note it and move on.
+  python3 /root/collect_youtube.py
+
+What the script does for you, deterministically:
+- reads every channel from sources.md
+- finds each channel's videos published in the last 26 hours (via RSS, real dates)
+- also includes every one-time YouTube link from section 4
+- fetches every transcript through the Supadata API
+- prints one block per video: title, source URL, published date, and the full
+  transcript text
+
+Rules:
+- ALWAYS run it. Never say "no new videos" or "could not read the videos"
+  without having run this script this turn and read its output.
+- The script's stdout IS the YouTube material. If a channel has a video from the
+  last 26 hours, the script will return it with its transcript — use it.
+- For now, do NOT skip a video because it is in state/processed.md. Take whatever
+  the script returns every run. (De-duplication will be added later.)
+- If a block says "[NO TRANSCRIPT AVAILABLE ...]", that one video had no
+  captions — note it and use the others.
+- The script already covers one-time YouTube links too, so you do not need to
+  fetch those separately.
 
 **Section 3 — Podcasts:**
 Fetch each discovered feed and take new episodes. For each new episode, get the
@@ -137,13 +136,12 @@ error), DO NOT mark it done. Leave it pending so it is retried next run once
 the problem is fixed. Never mark something done just because you attempted it.
 
 **Section 4 — One-time requests:**
-Process every link listed there, even if it is old or not from a source above.
-If the link is a YouTube video, get its transcript via the Supadata API (see the
-Supadata instructions above). For articles, fetch the page text.
-After a link is successfully processed (you actually got its transcript/text),
-EDIT sources.md: remove the line from "One-time requests" and add it under
-"Already done" with today's date. If it failed, leave it pending — do not mark
-it done.
+YouTube one-time links are already collected by the script in Section 2 — you do
+not need to handle them separately, and for now they are re-taken every run (do
+NOT move YouTube one-time links to "Already done" yet; de-duplication comes
+later).
+For NON-YouTube one-time links (an article, a web page), fetch the page text
+yourself and include it. Those you may move to "Already done" once fetched.
 
 ### 3b. FRESH ONLY — the hard rule (sections 1-3 only)
 
