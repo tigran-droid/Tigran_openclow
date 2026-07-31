@@ -6,6 +6,12 @@ This is how the system avoids repeating itself. Before writing, the agent reads
 this file; after writing, it adds today's themes.
 
 Format, newest first:
+- 2026-07-31 | builder density | scale AI by enabling employees to redesign work, not by centralizing every solution
+- 2026-07-31 | adoption evidence ladder | measure activation, recurring use, workflow creation and operating results separately
+- 2026-07-31 | decision preparation | automate evidence assembly while keeping accountable professionals in charge of decisions
+- 2026-07-31 | governed employee innovation | central guardrails can support decentralized workflow redesign
+- 2026-07-31 | AI capability operating model | combine leadership direction, protected experimentation time and reusable patterns
+- 2026-07-31 | workflow portfolio measurement | judge internal AI programs by sustained behavior and business outcomes, not license counts
 
 - 2026-07-30 | readiness before autonomy | prepare the operating environment before assigning valuable work
 - 2026-07-30 | staged agent deployment | start with low-consequence workloads that expose system weaknesses
