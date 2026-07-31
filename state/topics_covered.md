@@ -6,6 +6,9 @@ This is how the system avoids repeating itself. Before writing, the agent reads
 this file; after writing, it adds today's themes.
 
 Format, newest first:
+- 2026-07-31 | capability and controllability scorecards | evaluate useful performance separately from operational control
+- 2026-07-31 | limits of external AI review | vendor and government review cannot replace customer-specific deployment controls
+- 2026-07-31 | autonomous AI procurement evidence | require task, access, incident and shutdown evidence before valuable deployment
 - 2026-07-31 | EU AI proof stack | turn responsible-AI claims into layered evidence, controls and incident processes
 - 2026-07-31 | demand-led AI capacity | connect infrastructure commitments to productive use, utilization and customer demand
 - 2026-07-31 | provenance resilience | combine metadata, watermarks and verification because no single signal survives every platform
