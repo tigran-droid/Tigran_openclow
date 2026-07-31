@@ -40,3 +40,5 @@ Anything listed here will not be collected again.
 - 2026-07-31 | https://www.youtube.com/shorts/Q60VNdtyiAA | The Most Capable Humanoid Robot Yet!
 - 2026-07-31 | https://openai.com/index/unive/ | Univé builds an AI-ready workforce
 - 2026-07-31 | https://www.youtube.com/watch?v=MGt-kQXjUKU | The No.1 Skill You Should Learn in 2026 | AI Bootcamp with Dhruv Rathee
+- 2026-07-31 | https://openai.com/index/advancing-responsible-ai-across-europe/ | Advancing responsible AI across Europe
+- 2026-07-31 | https://openai.com/index/building-abundant-intelligence/ | Building abundant intelligence
