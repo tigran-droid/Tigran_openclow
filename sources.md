@@ -54,6 +54,8 @@ regardless of publish date, unlike sections 1-3 which only look at the last
 it into today's briefing and content, then moves the line down to
 "Already done" so it is never processed twice.
 
+  links `https://www.youtube.com/watch?v=MGt-kQXjUKU
+
 
 ### Already done (the agent moves finished items here — do not edit)
 - 2026-07-30 | https://www.youtube.com/watch?v=axGNiut8Yf0
