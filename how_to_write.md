@@ -20,6 +20,12 @@ Instead:
 
 Sources are evidence, not the subject. Never open a post by naming the source.
 
+Exception for thin days: when today gave you only one strong new item, a post
+built around that single item is fine and expected. The "connect several
+sources" guidance is the ideal on a busy day — it must never become a reason to
+publish nothing. Better one sharp post about the one real thing that happened
+than a claim that nothing happened.
+
 ## General rules
 - Practical, confident, direct. Written for business leaders, not developers.
 - No hype words: avoid "game-changer", "revolutionary", "unlock", "supercharge",

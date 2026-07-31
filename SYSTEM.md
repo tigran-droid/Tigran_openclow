@@ -237,12 +237,29 @@ state/topics_covered.md is the source of truth.
 Use how_to_write.md for FORMAT and chrisy_voice.md for VOICE.
 If chrisy_voice.md contains real example posts, imitate their rhythm
 and tone closely.
-Each piece must be built from a THEME (step 7), drawing evidence from several
-sources. Never write a piece that is just a report of one article or one video.
-Produce:
-- 3 LinkedIn posts (180-250 words each, full posts, 3 different themes)
-- 1 ready-to-read article (600-800 words)
-- 2 blog post ideas
+
+How much you produce depends on how much NEW material today gave you. Judge by
+the number of genuinely new, worthwhile items you collected this run:
+
+- **Rich day (3 or more new items):** synthesise across them. Produce 3 LinkedIn
+  posts (each a different theme, drawing on several sources), 1 article
+  (600-800 words), and 2 blog ideas. Do not make a post a report of one source.
+
+- **Thin day (only 1 or 2 new items):** DO NOT say "nothing worthwhile" — you
+  have material, so use it. Write directly about what you have. One strong new
+  item (for example a single important video or article) is enough for 1-2 solid
+  LinkedIn posts and 1 blog idea built around it. On a thin day it is completely
+  fine for a post to be about that single item — the "multiple sources per post"
+  rule is the ideal for rich days, not a requirement that blocks thin days.
+  Never force three unrelated themes out of one item, and never invent material,
+  but always deliver real content from whatever new material exists.
+
+- **Empty day (zero new items in the last 24 hours AND section 4 empty):** only
+  then reply with one short plain sentence saying nothing new was published.
+
+The test is simple: if you collected at least one new worthwhile item this run,
+you MUST produce content from it. "Nothing worthwhile" is only allowed when you
+genuinely collected nothing new.
 
 ### 8b. Record the themes you used
 Append today's themes to state/topics_covered.md using the GitHub API (read the
