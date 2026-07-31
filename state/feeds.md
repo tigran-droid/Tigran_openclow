@@ -12,3 +12,4 @@ does not have to search again tomorrow.
 - https://www.youtube.com/@mreflow => https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g
 - https://www.youtube.com/@futurepedia_io => https://www.youtube.com/feeds/videos.xml?channel_id=UC_RovKmk0OCbuZjA8f08opw
 - https://www.youtube.com/@nateherk => https://www.youtube.com/feeds/videos.xml?channel_id=UC2ojq-nuP8ceeHqiroeKhBA
+- https://www.youtube.com/@AIDailyBrief => https://www.youtube.com/feeds/videos.xml?channel_id=UCKelCK4ZaO6HeEI1KQjqzWA
