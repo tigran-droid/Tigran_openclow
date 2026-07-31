@@ -6,6 +6,9 @@ This is how the system avoids repeating itself. Before writing, the agent reads
 this file; after writing, it adds today's themes.
 
 Format, newest first:
+- 2026-07-31 | EU AI proof stack | turn responsible-AI claims into layered evidence, controls and incident processes
+- 2026-07-31 | demand-led AI capacity | connect infrastructure commitments to productive use, utilization and customer demand
+- 2026-07-31 | provenance resilience | combine metadata, watermarks and verification because no single signal survives every platform
 - 2026-07-31 | AI training outcome verification | judge workshops by independently repeatable work rather than attendance or demos
 - 2026-07-31 | no-code accountability | pair wider building access with testing, data rules, review thresholds and ownership
 - 2026-07-31 | practical AI curriculum design | teach scoping, evaluation and stewardship alongside tool use
