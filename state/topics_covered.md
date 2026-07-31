@@ -1,3 +1,7 @@
+- 2026-07-31 | visual polish versus operational correctness | generated software must pass task acceptance tests even when the interface looks finished
+- 2026-07-31 | workflow-specific model regression follow-up | benchmark gains do not excuse regressions in the work a team actually performs
+- 2026-07-31 | acceptance testing for generated software | test controls, rules and failure paths before treating an AI prototype as a product
+
 # Topics we have already written about
 
 - 2026-07-31 | planned-obsolescence AI architecture | design agent systems to be replaced without rebuilding governance
