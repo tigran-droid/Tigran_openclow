@@ -31,7 +31,7 @@ Paste the channel link (a channel, not a single video).
 - https://www.youtube.com/@mreflow
 - https://www.youtube.com/@futurepedia_io
 - https://www.youtube.com/@nateherk
-
+- https://www.youtube.com/@AIDailyBrief
 ---
 
 ## 3. Podcasts
