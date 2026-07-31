@@ -39,3 +39,4 @@ Anything listed here will not be collected again.
 - 2026-07-30 | https://www.youtube.com/watch?v=axGNiut8Yf0 | Adding Fish to the Bass Pond!!
 - 2026-07-31 | https://www.youtube.com/shorts/Q60VNdtyiAA | The Most Capable Humanoid Robot Yet!
 - 2026-07-31 | https://openai.com/index/unive/ | Univé builds an AI-ready workforce
+- 2026-07-31 | https://www.youtube.com/watch?v=MGt-kQXjUKU | The No.1 Skill You Should Learn in 2026 | AI Bootcamp with Dhruv Rathee
