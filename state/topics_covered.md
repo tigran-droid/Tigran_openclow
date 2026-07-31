@@ -1,5 +1,9 @@
 # Topics we have already written about
 
+- 2026-07-31 | planned-obsolescence AI architecture | design agent systems to be replaced without rebuilding governance
+- 2026-07-31 | intelligence capacity allocation | manage token spend as variable productive capacity tied to outputs
+- 2026-07-31 | apprenticeship-based AI enablement | follow outcome checks with live practice and peer knowledge transfer
+
 The agent writes here automatically after every run. Do not edit by hand.
 
 This is how the system avoids repeating itself. Before writing, the agent reads
