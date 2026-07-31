@@ -6,6 +6,9 @@ This is how the system avoids repeating itself. Before writing, the agent reads
 this file; after writing, it adds today's themes.
 
 Format, newest first:
+- 2026-07-31 | AI training outcome verification | judge workshops by independently repeatable work rather than attendance or demos
+- 2026-07-31 | no-code accountability | pair wider building access with testing, data rules, review thresholds and ownership
+- 2026-07-31 | practical AI curriculum design | teach scoping, evaluation and stewardship alongside tool use
 - 2026-07-31 | builder density | scale AI by enabling employees to redesign work, not by centralizing every solution
 - 2026-07-31 | adoption evidence ladder | measure activation, recurring use, workflow creation and operating results separately
 - 2026-07-31 | decision preparation | automate evidence assembly while keeping accountable professionals in charge of decisions
