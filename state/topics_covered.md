@@ -1,3 +1,9 @@
+- 2026-08-01 | shared agent workspaces | move from one-person chatbot use to role-based human and agent coordination
+- 2026-08-01 | action-level AI permissions | govern reading, drafting, changing and sending as separate powers
+- 2026-08-01 | model access layers | evaluate consumer apps, developer playgrounds and APIs separately
+- 2026-08-01 | human-agent workroom design | combine roles, acceptance criteria, permissions, cost visibility and ownership
+- 2026-08-01 | API-first model evaluation | test official developer access before declaring a model unavailable
+- 2026-08-01 | multi-agent review loops | use distinct reviewers and human ownership to prevent automated consensus theatre
 - 2026-07-31 | visual polish versus operational correctness | generated software must pass task acceptance tests even when the interface looks finished
 - 2026-07-31 | workflow-specific model regression follow-up | benchmark gains do not excuse regressions in the work a team actually performs
 - 2026-07-31 | acceptance testing for generated software | test controls, rules and failure paths before treating an AI prototype as a product
