@@ -44,4 +44,6 @@ Anything listed here will not be collected again.
 - 2026-07-31 | https://openai.com/index/building-abundant-intelligence/ | Building abundant intelligence
 - 2026-07-31 | https://www.youtube.com/watch?v=jYHQRP28hGM | AI turning point? OpenAI CEO speaks out
 - 2026-07-31 | https://www.youtube.com/watch?v=qUXAk4iZs4k | 6 Questions Shaping Enterprise AI
-- 2026-07-31 | https://www.youtube.com/watch?v=sUmx-Yi6TwE | AI News: Opus 5, the Slack Killer & Google Earth AI
+- 2026-07-31 | https://www.youtube.com/watch?v=sUmx-Yi6TwE | AI News: Opus 5, the Slack Killer & Google Earth AI- 2026-08-01 | https://www.youtube.com/watch?v=qXp5NHz0KSo | How To Skip The Kimi K3 Waitlist
+- 2026-08-01 | https://www.youtube.com/watch?v=sUmx-Yi6TwE | AI News: An INSANE Week… Here’s What Matters
+- 2026-08-01 | https://www.youtube.com/watch?v=qUXAk4iZs4k | 6 Questions Shaping Enterprise AI
