@@ -10,6 +10,12 @@
 
 # Topics we have already written about
 
+- 2026-08-01 | machine-checkable AI work | require proof artifacts and accountable validation when AI produces expert work
+- 2026-08-01 | judgment bottleneck | as production gets cheap, invest in people who can frame, test and own the output
+- 2026-08-01 | access versus operating capability | model access creates value only when paired with context, permissions and evaluation
+- 2026-08-01 | proof-carrying AI operations | redesign agent workflows so consequential outputs arrive with evidence and acceptance tests
+- 2026-08-01 | verification economics | budget for validated outcomes rather than raw model consumption
+- 2026-08-01 | attribution for AI-produced work | make human and machine contributions explicit without outsourcing accountability
 - 2026-07-31 | planned-obsolescence AI architecture | design agent systems to be replaced without rebuilding governance
 - 2026-07-31 | intelligence capacity allocation | manage token spend as variable productive capacity tied to outputs
 - 2026-07-31 | apprenticeship-based AI enablement | follow outcome checks with live practice and peer knowledge transfer

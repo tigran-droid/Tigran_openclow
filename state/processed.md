@@ -4,6 +4,7 @@ The agent writes here automatically. Do not edit by hand.
 Anything listed here will not be collected again.
 
 <!-- format: - YYYY-MM-DD | <url> | <title> -->
+- 2026-08-01 | https://openai.com/index/ten-advances-in-mathematics/ | Ten advances in mathematics and theoretical computer science
 - 2026-07-27 | https://www.youtube.com/watch?v=Ums8suyAG1A | This AI Technology Will Replace Millions (Here's How to Prepare)
 - 2026-07-27 | https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/ | The path to artificial superintelligence
 - 2026-07-27 | https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/ | Closing the data loop in AI-driven drug discovery
