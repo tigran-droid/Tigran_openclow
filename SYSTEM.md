@@ -14,8 +14,10 @@ finds, and turns the important parts into ready-to-use content.
    YouTube channels, podcasts). EXCEPTION: section 4 (one-time requests) is
    always processed regardless of age — that is the whole point of that
    section.
-6. Deliver a short briefing paragraph, then 3 LinkedIn posts, 1 article and
-   2 blog ideas — all in Chrisy's voice. No long digest.
+6. Deliver a short briefing paragraph, then a short DAILY NEWS section (3-6
+   stories, a few lines each), then 3 LinkedIn posts, 1 article and 2 blog
+   ideas — all in Chrisy's voice. No long digest.
+   Also save the news items to news/<TODAY>.md in GitHub.
 7. Never write about a topic we already covered recently, unless as a
    deliberate follow-up.
 8. All sources and rules live in this GitHub repo, so a non-technical person can
@@ -265,6 +267,31 @@ file, add the new lines at the top, write it back). One line per theme:
 `- <TODAY> | <theme in one short line> | <the angle we took>`
 This is how the system avoids repeating itself next week.
 
+### 8c. Save today's news items to GitHub
+Write the DAILY NEWS items (the same 3-6 short stories you will put in the
+reply, see step 10) to a new file: news/<TODAY>.md
+
+Use the GitHub API, same method as the raw archive:
+- PUT https://api.github.com/repos/tigran-droid/Tigran_openclow/contents/news/<TODAY>.md
+- Header: Authorization: Bearer <value of the GITHUB_TOKEN environment variable>
+- Header: Accept: application/vnd.github+json
+- Body: { "message": "daily news <TODAY>", "content": "<the news items, base64-encoded>" }
+
+Format inside that file:
+
+  # Daily news — <TODAY>
+
+  ## <short headline>
+  <3-6 short lines: what happened, key number or name, why it matters>
+  Source: <url>
+
+  ## <short headline>
+  ...
+
+Unlike the Telegram reply, this file MAY include the source URL under each item —
+it is an archive, not a message. This gives Chrisy a running news log he can look
+back through, separate from the full raw transcripts.
+
 ### 9. Editor pass (do this before sending — do not skip)
 Re-read everything you just wrote as a strict editor and fix what fails:
 - Is every fact actually present in today's raw material? If you cannot point to
@@ -323,9 +350,24 @@ TODAY'S BRIEFING
 A short paragraph, 4-6 sentences, telling Chrisy what happened in AI today and
 what the through-line is. Written as prose, not as a list.
 
-Do NOT include a list or digest of every item collected. No numbered rundown of
-articles, no per-item summaries. That belongs in the archive, not in the reply.
-This one paragraph is the only summary Chrisy sees.
+DAILY NEWS
+The 3-6 most important individual stories from today, as separate short items.
+For each item:
+- A short headline of a few words on its own line.
+- Then 3-6 short lines: what happened, the key number or name if there is one,
+  and why it matters for an AI-transformation business.
+Keep each item tight — a busy reader should get the whole story in seconds.
+Plain text, no links, no bullet symbols, one blank line between items.
+
+Example of the shape (do not copy the content):
+
+  Anthropic ships legal skills pack
+  Not a new model, just well-written markdown prompts.
+  The market reacted as if a new capability had arrived.
+  Shows how little most buyers understand what a frontier model already does.
+
+Only include stories that survived the filter — never pad the list to reach six.
+Do NOT write a full digest of everything collected; the raw archive holds that.
 
 LINKEDIN POST 1
 (the full post text)
