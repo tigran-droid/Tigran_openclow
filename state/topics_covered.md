@@ -1,3 +1,9 @@
+- 2026-08-01 | AI business-model redesign | agentic delivery shifts services from hours and periodic projects towards outcomes and continuity
+- 2026-08-01 | synthetic-content reputation risk | falling production cost makes editorial judgment and earned credibility more valuable
+- 2026-08-01 | physical AI task evidence | judge robotics by dexterity, variation handling and operational reliability rather than humanoid theatre
+- 2026-08-01 | external AI transformation | use internal agent deployment as the first step towards redesigning customer value
+- 2026-08-01 | continuous assurance services | redesign periodic professional work around persistent evidence and human escalation
+- 2026-08-01 | corporate AI-slop controls | protect trust with editorial acceptance tests instead of rewarding output volume
 - 2026-08-01 | shared agent workspaces | move from one-person chatbot use to role-based human and agent coordination
 - 2026-08-01 | action-level AI permissions | govern reading, drafting, changing and sending as separate powers
 - 2026-08-01 | model access layers | evaluate consumer apps, developer playgrounds and APIs separately
