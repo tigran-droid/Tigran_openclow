@@ -44,6 +44,20 @@ website. The agent finds the real feed behind it by itself.
 
 ---
 
+## 5. X / Twitter accounts (checked daily for new posts)
+Paste the person's X profile — any of these forms works:
+@username, username, or https://x.com/username
+
+The agent checks each account every day and takes their posts from the last
+26 hours. Their posts land in the same daily raw archive as the YouTube
+transcripts.
+
+<!-- example: - @karpathy -->
+<!-- example: - https://x.com/sama -->
+
+
+---
+
 ## 4. One-time requests (single links, processed once)
 Use this when you want ONE specific video, article or episode included in
 today's summary — not a whole channel, just this one link.

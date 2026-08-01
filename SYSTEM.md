@@ -116,6 +116,27 @@ Rules:
 - The script already covers one-time YouTube links too, so you do not need to
   fetch those separately.
 
+**Section 5 — X / Twitter accounts — RUN THE COLLECTOR SCRIPT (do not do this by hand):**
+
+X collection is handled by a reliable script on the server, exactly like
+YouTube. You MUST run it every run. Run this one command and use its ENTIRE
+standard output as your X raw material:
+
+  python3 /root/collect_x.py
+
+What it does deterministically:
+- reads every account from section 5 of sources.md
+- fetches each account's recent posts
+- keeps only posts from the last 26 hours
+- prints one block per post: author, source URL, published date, and the text
+
+Rules:
+- ALWAYS run it. Never claim "no new posts" without having run it this turn.
+- Treat these posts as source material like any other: a thought leader's post
+  is evidence, not a headline to repeat. Apply what_is_important.md to them too.
+- If the script prints an error about a missing key or an account, note it and
+  continue with everything else.
+
 **Section 3 — Podcasts:**
 Fetch each discovered feed and take new episodes. For each new episode, get the
 transcript in this order of preference:
