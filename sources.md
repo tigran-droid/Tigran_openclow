@@ -43,9 +43,19 @@ reliable, and many feeds include the episode transcript, which we use directly.
 OR: paste any normal podcast link (Spotify, Apple Podcasts, or the show's own
 website) and the agent will find the feed behind it.
 
-https://anchor.fm/s/f7cac464/podcast/rss
+IMPORTANT: start each line with "- " or the agent will not see it.
+Also check the show is not already in section 2 as a YouTube channel — YouTube
+gives us the full transcript, a podcast feed usually only gives show notes.
+
 <!-- example (RSS, preferred): - https://feeds.megaphone.fm/showname -->
 <!-- example (normal link):    - https://podcasts.apple.com/us/podcast/name/id123456789 -->
+
+<!-- NOTE: The AI Daily Brief is already followed on YouTube in section 2,
+     where we get the full transcript. Its podcast feed only carries show
+     notes, so adding it here would duplicate the same show with less content.
+     Uncomment the line below only if you want it anyway.
+- https://anchor.fm/s/f7cac464/podcast/rss
+-->
 
 
 ---
