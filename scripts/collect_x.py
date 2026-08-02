@@ -26,6 +26,8 @@ API_KEY = os.environ.get("TWITTERAPI_IO_KEY", "").strip()
 REPO_RAW = "https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main"
 WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", "26"))
 MAX_PER_ACCOUNT = int(os.environ.get("MAX_PER_ACCOUNT", "20"))
+MIN_WORDS = int(os.environ.get("MIN_WORDS", "12"))
+SKIP_RETWEETS = os.environ.get("SKIP_RETWEETS", "1") != "0"
 UA = {"User-Agent": "Mozilla/5.0 (content-agent collector)"}
 
 
@@ -151,10 +153,20 @@ def main():
             time.sleep(1.5)   # be polite, avoid rate limits
         log(f"@{handle}")
         kept = 0
+        skipped_rt = skipped_short = 0
         for p in fetch_user_posts(handle):
             if not within_window(p["created"]):
                 continue
-            if not p["text"]:
+            text = p["text"]
+            if not text:
+                continue
+            # retweets are someone else's content, usually truncated with "…"
+            if SKIP_RETWEETS and re.match(r"^RT\s+@", text):
+                skipped_rt += 1
+                continue
+            # one-liners like "team humanity" carry no usable substance
+            if len(text.split()) < MIN_WORDS:
+                skipped_short += 1
                 continue
             print(f"\n## @{handle} — post")
             print(f"Source: {p['url']}")

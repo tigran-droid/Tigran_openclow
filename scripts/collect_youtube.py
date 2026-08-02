@@ -98,7 +98,7 @@ def transcript(video_url):
     if not SUPADATA_KEY:
         return None, "SUPADATA_API_KEY is not set"
     api = ("https://api.supadata.ai/v1/youtube/transcript?url="
-           + urllib.parse.quote(video_url, safe="") + "&text=true")
+           + urllib.parse.quote(video_url, safe="") + "&text=true&lang=en")
     try:
         data = json.loads(fetch(api, headers={"x-api-key": SUPADATA_KEY}))
     except Exception as e:
