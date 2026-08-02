@@ -54,6 +54,8 @@ transcripts.
 
 <!-- example: - @karpathy -->
 <!-- example: - https://x.com/sama -->
+- @karpathy
+- @sama
 
 
 ---
