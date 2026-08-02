@@ -138,16 +138,28 @@ Rules:
   continue with everything else.
 
 **Section 3 — Podcasts:**
-Fetch each discovered feed and take new episodes. For each new episode, get the
-transcript in this order of preference:
-1. FIRST check whether a transcript already exists on the web — many podcasts
-   publish a full transcript on the episode's own page or the show's website.
-   Fetch the episode page and look for a transcript link or transcript text. If
-   found, use that. This is the best source: no audio download, no blocking.
-2. If the episode is hosted on YouTube, get the transcript via the Supadata API
+Chrisy may paste either a normal podcast page link OR the RSS feed URL directly.
+If it already looks like a feed (ends in .xml/.rss, or contains /feed or /rss),
+use it as-is — do not waste time on feed discovery.
+
+Fetch each feed and take episodes published in the last 24 hours. For each new
+episode, get the transcript in this order of preference:
+
+1. FIRST look inside the RSS entry itself for a transcript tag. Modern podcast
+   feeds carry it, for example:
+     <podcast:transcript url="https://..." type="text/vtt" />
+   If present, fetch that URL directly — it is the cleanest, fastest source, and
+   needs no audio and no third-party API. Strip any timestamps/cue numbers and
+   use the plain spoken text.
+2. If there is no transcript tag, check the episode page linked in the feed
+   (<link>) for a published transcript on the show's website.
+3. If the episode is also on YouTube, get the transcript via the Supadata API
    (same as sections 2 and 4).
-3. If neither works, save the episode title, description and link, and say
-   clearly that no transcript was available.
+4. If none of those work, save the episode title, the full description/show
+   notes from the feed, and the link, and say plainly that no transcript was
+   available.
+
+Never download the audio file — we do not transcribe audio ourselves.
 Podcast volume is low (roughly 10 per week), so it is fine to spend a little
 effort per episode to find the best transcript.
 

@@ -35,11 +35,16 @@ Paste the channel link (a channel, not a single video).
 ---
 
 ## 3. Podcasts
-Paste any normal podcast link — Spotify, Apple Podcasts, or the show's own
-website. The agent finds the real feed behind it by itself.
+Two ways to add a podcast — both work:
 
-<!-- example: - https://open.spotify.com/show/SOMESHOWID -->
-<!-- example: - https://podcasts.apple.com/us/podcast/name/id123456789 -->
+BEST: paste the podcast's RSS feed URL directly if you have it. Faster and more
+reliable, and many feeds include the episode transcript, which we use directly.
+
+OR: paste any normal podcast link (Spotify, Apple Podcasts, or the show's own
+website) and the agent will find the feed behind it.
+
+<!-- example (RSS, preferred): - https://feeds.megaphone.fm/showname -->
+<!-- example (normal link):    - https://podcasts.apple.com/us/podcast/name/id123456789 -->
 
 
 ---
