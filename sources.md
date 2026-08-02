@@ -56,6 +56,8 @@ transcripts.
 <!-- example: - https://x.com/sama -->
 - @karpathy
 - @sama
+- @emollick
+- @EugenioFierro3
 
 
 ---
