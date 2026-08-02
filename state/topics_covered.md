@@ -1,3 +1,9 @@
+- 2026-08-02 | value-based AI automation pricing | price measurable client outcomes rather than the hours faster delivery removed
+- 2026-08-02 | governed ephemeral software | treat cheap bespoke applications as bounded assets with tests, owners and expiry
+- 2026-08-02 | conversational software creation | wider building access requires stronger testing, ownership and maintenance
+- 2026-08-02 | AI automation commercial architecture | separate build, maintenance, consumption, expansion and measurement
+- 2026-08-02 | commercial layers for AI services | structure proposals around business baselines and objective milestones
+- 2026-08-02 | disposable software governance | create a lightweight control path for one-purpose generated applications
 - 2026-08-01 | AI business-model redesign | agentic delivery shifts services from hours and periodic projects towards outcomes and continuity
 - 2026-08-01 | synthetic-content reputation risk | falling production cost makes editorial judgment and earned credibility more valuable
 - 2026-08-01 | physical AI task evidence | judge robotics by dexterity, variation handling and operational reliability rather than humanoid theatre
