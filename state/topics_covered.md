@@ -1,3 +1,9 @@
+- 2026-08-02 | after-state evidence | make post-launch measurement part of delivery so renewals and expansion rest on proof
+- 2026-08-02 | error-cost automation economics | value automation against avoided operational loss, not only hours saved
+- 2026-08-02 | native perception bottleneck | generated worlds expose the gap between producing an artifact and inspecting it efficiently
+- 2026-08-02 | conversational prototyping follow-up | spoken software creation widens access while making acceptance criteria more important
+- 2026-08-02 | client-owned AI utilities | keep production consumption on client accounts while pricing design, testing and stewardship separately
+- 2026-08-02 | objective AI delivery milestones | tie staged payments to observable system behaviour rather than subjective completion language
 - 2026-08-02 | value-based AI automation pricing | price measurable client outcomes rather than the hours faster delivery removed
 - 2026-08-02 | governed ephemeral software | treat cheap bespoke applications as bounded assets with tests, owners and expiry
 - 2026-08-02 | conversational software creation | wider building access requires stronger testing, ownership and maintenance
