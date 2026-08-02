@@ -43,6 +43,7 @@ reliable, and many feeds include the episode transcript, which we use directly.
 OR: paste any normal podcast link (Spotify, Apple Podcasts, or the show's own
 website) and the agent will find the feed behind it.
 
+https://anchor.fm/s/f7cac464/podcast/rss
 <!-- example (RSS, preferred): - https://feeds.megaphone.fm/showname -->
 <!-- example (normal link):    - https://podcasts.apple.com/us/podcast/name/id123456789 -->
 
