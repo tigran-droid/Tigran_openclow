@@ -54,3 +54,18 @@ Anything listed here will not be collected again.
 - 2026-08-01 | https://www.youtube.com/watch?v=sUmx-Yi6TwE | AI News: An INSANE Week… Here’s What Matters
 
 - 2026-08-01 | https://www.youtube.com/watch?v=qUXAk4iZs4k | 6 Questions Shaping Enterprise AI
+- 2026-08-02 | https://www.youtube.com/watch?v=PaNIJ9l2NOE | We’re getting closer to “Jarvis” everyday!
+- 2026-08-02 | https://www.youtube.com/watch?v=Lg5TYWPSg6M | 18 Months of Pricing AI Automations in 21 Mins
+- 2026-08-02 | https://x.com/karpathy/status/2083749667410727319 | @karpathy
+- 2026-08-02 | https://x.com/sama/status/2083560847889023219 | @sama
+- 2026-08-02 | https://x.com/sama/status/2083553085993951362 | @sama
+- 2026-08-02 | https://x.com/sama/status/2083552732225417342 | @sama
+- 2026-08-02 | https://x.com/emollick/status/2083772653156925650 | @emollick
+- 2026-08-02 | https://x.com/emollick/status/2083637197157101708 | @emollick
+- 2026-08-02 | https://x.com/emollick/status/2083633444685295764 | @emollick
+- 2026-08-02 | https://x.com/emollick/status/2083625021868499165 | @emollick
+- 2026-08-02 | https://x.com/emollick/status/2083618569703632971 | @emollick
+- 2026-08-02 | https://x.com/emollick/status/2083564537995776141 | @emollick
+- 2026-08-02 | https://x.com/emollick/status/2083559601312505863 | @emollick
+- 2026-08-02 | https://x.com/EugenioFierro3/status/2083805980593111412 | @EugenioFierro3
+- 2026-08-02 | https://x.com/EugenioFierro3/status/2083607885460729873 | @EugenioFierro3
