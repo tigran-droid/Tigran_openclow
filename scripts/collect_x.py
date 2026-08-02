@@ -19,7 +19,7 @@ Usage:  python3 collect_x.py
         WINDOW_HOURS=48 python3 collect_x.py
 """
 
-import os, re, sys, json, urllib.request, urllib.parse
+import os, re, sys, json, time, urllib.request, urllib.parse, urllib.error
 from datetime import datetime, timezone, timedelta
 
 API_KEY = os.environ.get("TWITTERAPI_IO_KEY", "").strip()
@@ -64,7 +64,12 @@ def parse_accounts(md):
         h = re.sub(r"^https?://(www\.)?(x|twitter)\.com/", "", h)
         h = h.split("?")[0].split("/")[0]
         h = h.lstrip("@")
-        if h and not h.startswith("<!--"):
+        # skip markdown separators, comments and anything that is not a handle
+        if not h or h.startswith("<!--") or set(h) <= set("-_"):
+            continue
+        if not re.fullmatch(r"[A-Za-z0-9_]{1,15}", h):
+            continue
+        if h not in accounts:
             accounts.append(h)
     return accounts
 
@@ -91,10 +96,23 @@ def fetch_user_posts(handle):
         return []
     url = ("https://api.twitterapi.io/twitter/user/last_tweets?userName="
            + urllib.parse.quote(handle))
-    try:
-        data = json.loads(fetch(url, headers={"X-API-Key": API_KEY}))
-    except Exception as e:
-        log(f"  ! api error for @{handle}: {e}")
+    data = None
+    for attempt in range(4):
+        try:
+            data = json.loads(fetch(url, headers={"X-API-Key": API_KEY}))
+            break
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < 3:
+                wait = 3 * (attempt + 1)
+                log(f"  . rate limited on @{handle}, retrying in {wait}s")
+                time.sleep(wait)
+                continue
+            log(f"  ! api error for @{handle}: {e}")
+            return []
+        except Exception as e:
+            log(f"  ! api error for @{handle}: {e}")
+            return []
+    if data is None:
         return []
 
     # tweets may sit at top level or under "data"
@@ -128,7 +146,9 @@ def main():
     log(f"accounts: {len(accounts)} -> {accounts}")
 
     total = 0
-    for handle in accounts:
+    for i, handle in enumerate(accounts):
+        if i:
+            time.sleep(1.5)   # be polite, avoid rate limits
         log(f"@{handle}")
         kept = 0
         for p in fetch_user_posts(handle):
