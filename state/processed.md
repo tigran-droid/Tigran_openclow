@@ -69,3 +69,24 @@ Anything listed here will not be collected again.
 - 2026-08-02 | https://x.com/emollick/status/2083559601312505863 | @emollick
 - 2026-08-02 | https://x.com/EugenioFierro3/status/2083805980593111412 | @EugenioFierro3
 - 2026-08-02 | https://x.com/EugenioFierro3/status/2083607885460729873 | @EugenioFierro3
+- 2026-08-05 | https://www.youtube.com/watch?v=_HhnzIDnVnk | You Can Now Search Your Own Memory
+- 2026-08-05 | https://www.youtube.com/watch?v=97Y5cz7H8SM | Claude Design Just Unlocked AI Motion Graphics
+- 2026-08-05 | https://www.youtube.com/watch?v=7WZ6XldxX0U | 5000 Hours of Building AI in Just 17 Minutes
+- 2026-08-05 | https://www.youtube.com/watch?v=dSNgCgQYYFY | Everything You Need to Know about AI Tokens
+- 2026-08-05 | https://www.youtube.com/watch?v=nWdL7fvOUXA | How Significant Are AI's Latest Math Breakthroughs?
+- 2026-08-05 | https://x.com/sama/status/2084663673570971990 | @sama — post
+- 2026-08-05 | https://x.com/emollick/status/2084826713922355207 | @emollick — post
+- 2026-08-05 | https://x.com/emollick/status/2084806293617807448 | @emollick — post
+- 2026-08-05 | https://x.com/emollick/status/2084804785853616603 | @emollick — post
+- 2026-08-05 | https://x.com/EugenioFierro3/status/2084778559848010125 | @EugenioFierro3 — post
+- 2026-08-05 | https://x.com/EugenioFierro3/status/2084765323136286880 | @EugenioFierro3 — post
+- 2026-08-05 | https://x.com/EugenioFierro3/status/2084761206468833652 | @EugenioFierro3 — post
+- 2026-08-05 | https://x.com/EugenioFierro3/status/2084755928977432795 | @EugenioFierro3 — post
+- 2026-08-05 | https://x.com/EugenioFierro3/status/2084741629890412618 | @EugenioFierro3 — post
+- 2026-08-05 | https://x.com/EugenioFierro3/status/2084737862289789289 | @EugenioFierro3 — post
+- 2026-08-05 | https://x.com/EugenioFierro3/status/2084714686801441071 | @EugenioFierro3 — post
+- 2026-08-05 | https://x.com/EugenioFierro3/status/2084708101194739884 | @EugenioFierro3 — post
+- 2026-08-05 | https://x.com/EugenioFierro3/status/2084668464829014196 | @EugenioFierro3 — post
+- 2026-08-05 | https://x.com/EugenioFierro3/status/2084641849419985224 | @EugenioFierro3 — post
+- 2026-08-05 | https://x.com/EugenioFierro3/status/2084628139875954822 | @EugenioFierro3 — post
+- 2026-08-05 | https://x.com/EugenioFierro3/status/2084621336882610612 | @EugenioFierro3 — post
