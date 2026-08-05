@@ -1,3 +1,9 @@
+- 2026-08-05 | evaluation environments as production attack surface | agent tests need production-grade containment and named ownership
+- 2026-08-05 | token portfolio governance | protect learning, measure accepted output and eliminate unattended spin
+- 2026-08-05 | controllable creative generation | structured editable assets preserve human direction and brand systems
+- 2026-08-05 | AI evaluation security follow-up | capability testing becomes privileged production work when agents can act externally
+- 2026-08-05 | learning-safe AI budgets | replace blunt usage caps with cost-per-accepted-task controls
+- 2026-08-05 | business receipts for AI capability | prove transformation with baselines, accepted outcomes and portable evidence
 - 2026-08-02 | after-state evidence | make post-launch measurement part of delivery so renewals and expansion rest on proof
 - 2026-08-02 | error-cost automation economics | value automation against avoided operational loss, not only hours saved
 - 2026-08-02 | native perception bottleneck | generated worlds expose the gap between producing an artifact and inspecting it efficiently
