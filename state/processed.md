@@ -90,3 +90,22 @@ Anything listed here will not be collected again.
 - 2026-08-05 | https://x.com/EugenioFierro3/status/2084641849419985224 | @EugenioFierro3 — post
 - 2026-08-05 | https://x.com/EugenioFierro3/status/2084628139875954822 | @EugenioFierro3 — post
 - 2026-08-05 | https://x.com/EugenioFierro3/status/2084621336882610612 | @EugenioFierro3 — post
+- 2026-08-06 | https://www.youtube.com/watch?v=yg_ZF8pPvIE | Can Open Models Solve Corporate AI Washing
+- 2026-08-06 | https://x.com/emollick/status/2085219237182726166 | @emollick
+- 2026-08-06 | https://x.com/emollick/status/2085212700561285460 | @emollick
+- 2026-08-06 | https://x.com/emollick/status/2085182466122272957 | @emollick
+- 2026-08-06 | https://x.com/emollick/status/2085174123743842448 | @emollick
+- 2026-08-06 | https://x.com/emollick/status/2085055055237914802 | @emollick
+- 2026-08-06 | https://x.com/emollick/status/2085034843805528268 | @emollick
+- 2026-08-06 | https://x.com/emollick/status/2084996581288288497 | @emollick
+- 2026-08-06 | https://x.com/EugenioFierro3/status/2085269618185191654 | @EugenioFierro3
+- 2026-08-06 | https://x.com/EugenioFierro3/status/2085121282895425642 | @EugenioFierro3
+- 2026-08-06 | https://x.com/EugenioFierro3/status/2085117546416525517 | @EugenioFierro3
+- 2026-08-06 | https://x.com/EugenioFierro3/status/2085068062429008367 | @EugenioFierro3
+- 2026-08-06 | https://x.com/EugenioFierro3/status/2085051161569092041 | @EugenioFierro3
+- 2026-08-06 | https://x.com/EugenioFierro3/status/2085047291086332350 | @EugenioFierro3
+- 2026-08-06 | https://x.com/EugenioFierro3/status/2085040931187675431 | @EugenioFierro3
+- 2026-08-06 | https://x.com/EugenioFierro3/status/2085035717369995605 | @EugenioFierro3
+- 2026-08-06 | https://x.com/EugenioFierro3/status/2085033023263654388 | @EugenioFierro3
+- 2026-08-06 | https://x.com/EugenioFierro3/status/2085026215140663391 | @EugenioFierro3
+- 2026-08-06 | https://x.com/EugenioFierro3/status/2085018954272006605 | @EugenioFierro3
