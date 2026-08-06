@@ -1,3 +1,9 @@
+- 2026-08-06 | model task economics | measure accepted outcomes rather than token price
+- 2026-08-06 | recoverable agent runtimes | durable state and execution records make agents operational
+- 2026-08-06 | instructions versus controls | enforce critical rules with permissions tests and approval gates
+- 2026-08-06 | model-portable AI operating systems | build context workflows and evaluations to survive model replacement
+- 2026-08-06 | cost per accepted AI task | include retries review latency and recovery in model choice
+- 2026-08-06 | agent recoverability | evaluate checkpoints logs permissions and restart behaviour before production
 - 2026-08-05 | evaluation environments as production attack surface | agent tests need production-grade containment and named ownership
 - 2026-08-05 | token portfolio governance | protect learning, measure accepted output and eliminate unattended spin
 - 2026-08-05 | controllable creative generation | structured editable assets preserve human direction and brand systems
