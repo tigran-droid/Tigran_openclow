@@ -1,3 +1,9 @@
+- 2026-08-07 | infrastructure consent | data-centre projects need transparent local legitimacy, not inevitability arguments
+- 2026-08-07 | community benefit as infrastructure cost | budget grid protection, transparency and local value into AI buildouts
+- 2026-08-07 | AI adoption after free frontier access | unlimited model access shifts the bottleneck from licences to operating capability
+- 2026-08-07 | human variation in AI-generated work | prompts and judgment preserve strategic diversity even when syntax converges
+- 2026-08-07 | collaborative agent workrooms follow-up | shared agent environments need explicit roles, critique rules and human acceptance
+- 2026-08-07 | public legitimacy for AI infrastructure | treat approvals as democratic operating work rather than public relations
 - 2026-08-06 | model task economics | measure accepted outcomes rather than token price
 - 2026-08-06 | recoverable agent runtimes | durable state and execution records make agents operational
 - 2026-08-06 | instructions versus controls | enforce critical rules with permissions tests and approval gates
