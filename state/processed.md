@@ -109,3 +109,20 @@ Anything listed here will not be collected again.
 - 2026-08-06 | https://x.com/EugenioFierro3/status/2085033023263654388 | @EugenioFierro3
 - 2026-08-06 | https://x.com/EugenioFierro3/status/2085026215140663391 | @EugenioFierro3
 - 2026-08-06 | https://x.com/EugenioFierro3/status/2085018954272006605 | @EugenioFierro3
+- 2026-08-07 | https://www.youtube.com/watch?v=FjalStmjUpw | Jack Dorsey Launches Free Slack But For AI Agents
+- 2026-08-07 | https://www.youtube.com/watch?v=NClayXM8pU0 | Give ChatGPT and Claude the Same Memory
+- 2026-08-07 | https://www.youtube.com/watch?v=pIbi-dYCYeU | Why the Data Center Debate Has Little to Do with AI
+- 2026-08-07 | https://x.com/sama/status/2085454964814753990 | @sama — post
+- 2026-08-07 | https://x.com/emollick/status/2085592855007871137 | @emollick — post
+- 2026-08-07 | https://x.com/emollick/status/2085582623909265546 | @emollick — post
+- 2026-08-07 | https://x.com/emollick/status/2085580116143292850 | @emollick — post
+- 2026-08-07 | https://x.com/emollick/status/2085557443166146951 | @emollick — post
+- 2026-08-07 | https://x.com/emollick/status/2085553951034745154 | @emollick — post
+- 2026-08-07 | https://x.com/emollick/status/2085430224074760225 | @emollick — post
+- 2026-08-07 | https://x.com/emollick/status/2085421134535610768 | @emollick — post
+- 2026-08-07 | https://x.com/EugenioFierro3/status/2085596755278610696 | @EugenioFierro3 — post
+- 2026-08-07 | https://x.com/EugenioFierro3/status/2085590974164570244 | @EugenioFierro3 — post
+- 2026-08-07 | https://x.com/EugenioFierro3/status/2085339338934473030 | @EugenioFierro3 — post
+- 2026-08-07 | https://x.com/EugenioFierro3/status/2085336571553685780 | @EugenioFierro3 — post
+- 2026-08-07 | https://x.com/EugenioFierro3/status/2085284496006336644 | @EugenioFierro3 — post
+- 2026-08-07 | https://x.com/EugenioFierro3/status/2085276176302366732 | @EugenioFierro3 — post
