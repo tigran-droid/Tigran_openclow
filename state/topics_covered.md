@@ -1,3 +1,9 @@
+- 2026-08-08 | agent containment as operating design | permissions logs and incident response must ship with capability
+- 2026-08-08 | open frontier cyber access | broad access requires staged release and enforceable controls
+- 2026-08-08 | multi-agent coordination governance | messaging helps only when ownership and acceptance stay explicit
+- 2026-08-08 | synthetic media provenance | treat generated video as an evidence and approval problem
+- 2026-08-08 | frontier model tiering | choose models by risk and accepted task rather than prestige
+- 2026-08-08 | authenticity in AI-assisted work | disclose the workflow boundary and keep human judgment accountable
 - 2026-08-07 | infrastructure consent | data-centre projects need transparent local legitimacy, not inevitability arguments
 - 2026-08-07 | community benefit as infrastructure cost | budget grid protection, transparency and local value into AI buildouts
 - 2026-08-07 | AI adoption after free frontier access | unlimited model access shifts the bottleneck from licences to operating capability
