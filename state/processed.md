@@ -126,3 +126,9 @@ Anything listed here will not be collected again.
 - 2026-08-07 | https://x.com/EugenioFierro3/status/2085336571553685780 | @EugenioFierro3 — post
 - 2026-08-07 | https://x.com/EugenioFierro3/status/2085284496006336644 | @EugenioFierro3 — post
 - 2026-08-07 | https://x.com/EugenioFierro3/status/2085276176302366732 | @EugenioFierro3 — post
+- 2026-08-08 | https://www.youtube.com/watch?v=ACYAYsVMmT8 | AI News: The AI Stories Everyone's Freaking Out About
+- 2026-08-08 | https://x.com/sama/status/2085862292311396515 | @sama — Astra access and cyber safety
+- 2026-08-08 | https://x.com/emollick/status/2085956565157253272 | @emollick — OpenAI agent security incident
+- 2026-08-08 | https://x.com/emollick/status/2085745490566562276 | @emollick — open-weight cyber risk
+- 2026-08-08 | https://x.com/EugenioFierro3/status/2085827345198338396 | @EugenioFierro3 — Claude Code cross-session messaging
+- 2026-08-08 | https://x.com/EugenioFierro3/status/2085708656348140001 | @EugenioFierro3 — Claude biology classifier update
