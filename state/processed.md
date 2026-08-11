@@ -138,3 +138,5 @@ Anything listed here will not be collected again.
 - 2026-08-11 | https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/ | AI professors are negotiating the new realities of academic research
 - 2026-08-11 | https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/ | AI for science needs reasoning, not just data
 - 2026-08-11 | https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/ | These startups are chasing the next big thing in LLMs
+- 2026-08-11 | https://www.youtube.com/watch?v=LVAHYV4Xrto | How to Build a One Person AI Business (Using Claude Code)
+- 2026-08-11 | https://openai.com/index/building-an-ai-native-finance-function | What building an AI-native finance function taught me
