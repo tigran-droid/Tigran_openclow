@@ -1,3 +1,9 @@
+- 2026-08-11 | executable agent organization | design ownership handoffs and failure routes before multiplying agents
+- 2026-08-11 | prototype speed versus business proof | one-day builds accelerate validation but do not remove customer security or iteration work
+- 2026-08-11 | model architecture replaceability | keep context and evaluations portable as transformer alternatives diversify
+- 2026-08-11 | graph engineering operating model | give every agent a contract and every consequential boundary a human owner
+- 2026-08-11 | agent handoff audit | inspect context accountability and evidence at every system edge
+- 2026-08-11 | procurement under architecture fragmentation | buy against accepted workflow outcomes rather than allegiance to one model family
 - 2026-08-08 | agent containment as operating design | permissions logs and incident response must ship with capability
 - 2026-08-08 | open frontier cyber access | broad access requires staged release and enforceable controls
 - 2026-08-08 | multi-agent coordination governance | messaging helps only when ownership and acceptance stay explicit
