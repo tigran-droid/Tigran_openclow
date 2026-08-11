@@ -1,3 +1,9 @@
+- 2026-08-11 | decision-first AI workflow design | begin with a consequential decision and work backwards through evidence permissions and ownership
+- 2026-08-11 | approval fatigue in AI operations | constant human prompts become theatre so controls must reserve attention for consequential exceptions
+- 2026-08-11 | evidence-led AI service ladder | earn expansion through education audit one focused project and a proven result
+- 2026-08-11 | CFO-led AI operating design | use finance discipline to connect workflow redesign accountability and measurable accepted work
+- 2026-08-11 | staged AI transformation engagements | move from discovery to proof before offering permanent transformation mandates
+- 2026-08-11 | consequence-based human oversight | place human judgment at high-context high-impact boundaries rather than every routine action
 - 2026-08-11 | executable agent organization | design ownership handoffs and failure routes before multiplying agents
 - 2026-08-11 | prototype speed versus business proof | one-day builds accelerate validation but do not remove customer security or iteration work
 - 2026-08-11 | model architecture replaceability | keep context and evaluations portable as transformer alternatives diversify
