@@ -1,3 +1,31 @@
+<!-- ────────────────────────────────────────────────────────────
+     Hi Chris 👋   (how_to_write.md)
+
+     WHAT THIS FILE DOES
+     This controls the FORMAT of what you get — how many posts, how long, how they are built.
+     Change it if you want a different mix or different lengths.
+     ──────────────────────────────────────────────────────────── -->
+
+## ✏️ Your quick changes
+
+Write small changes here in plain English. You do not need to find the right
+place in the file below — just write what you want and the agent will apply it.
+These notes take priority over everything else in this file.
+
+Examples of what you could write:
+  e.g. "add one emoji at the start of each LinkedIn post"
+  e.g. "make the posts shorter, around 150 words"
+  e.g. "give me 5 LinkedIn posts and skip the article"
+  e.g. "end every post with a question"
+
+Write yours below this line (delete anything you no longer want):
+
+<!-- START OF YOUR NOTES -->
+
+<!-- END OF YOUR NOTES -->
+
+---
+
 # How to write the content (format rules)
 
 This file controls the STRUCTURE of what we produce.

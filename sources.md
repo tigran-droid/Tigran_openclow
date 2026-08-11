@@ -1,3 +1,30 @@
+<!-- ────────────────────────────────────────────────────────────
+     Hi Chris 👋   (sources.md)
+
+     WHAT THIS FILE DOES
+     This is your source list — everything the agent follows.
+     Add or remove links below. Every line must start with a dash and a space.
+     ──────────────────────────────────────────────────────────── -->
+
+## ✏️ Your quick changes
+
+Write small changes here in plain English. You do not need to find the right
+place in the file below — just write what you want and the agent will apply it.
+These notes take priority over everything else in this file.
+
+Examples of what you could write:
+  e.g. "ignore anything about crypto"
+  e.g. "check the YouTube channels twice a day"
+  e.g. "pause the X accounts for now"
+
+Write yours below this line (delete anything you no longer want):
+
+<!-- START OF YOUR NOTES -->
+
+<!-- END OF YOUR NOTES -->
+
+---
+
 # Sources — Chrisy's control panel
 
 This is the list the agent follows every day.

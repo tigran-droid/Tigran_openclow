@@ -1,3 +1,30 @@
+<!-- ────────────────────────────────────────────────────────────
+     Hi Chris 👋   (SYSTEM.md)
+
+     WHAT THIS FILE DOES
+     This is the agent's full daily routine — the brain of the whole system.
+     It is the most technical file. Prefer the quick-changes box below over editing the steps.
+     ──────────────────────────────────────────────────────────── -->
+
+## ✏️ Your quick changes
+
+Write small changes here in plain English. You do not need to find the right
+place in the file below — just write what you want and the agent will apply it.
+These notes take priority over everything else in this file.
+
+Examples of what you could write:
+  e.g. "send the briefing at 9am instead of 8am"
+  e.g. "look back 48 hours instead of 24"
+  e.g. "skip the article on Fridays"
+
+Write yours below this line (delete anything you no longer want):
+
+<!-- START OF YOUR NOTES -->
+
+<!-- END OF YOUR NOTES -->
+
+---
+
 # AI Content Agent — System Definition
 
 ## Purpose
@@ -55,6 +82,31 @@ again with a different timestamp before trusting it.
 - How to summarize: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/how_to_summarize.md
 - Format rules: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/how_to_write.md
 - Chrisy's voice: https://raw.githubusercontent.com/tigran-droid/Tigran_openclow/main/chrisy_voice.md
+
+### 1b. Read Chris's quick-change notes FIRST (highest priority)
+
+Every rules file has a section near the top called "✏️ Your quick changes",
+with the notes between `<!-- START OF YOUR NOTES -->` and
+`<!-- END OF YOUR NOTES -->`.
+
+That box is where Chris writes small changes in plain English instead of hunting
+through the file. Treat whatever he writes there as a direct instruction from
+him, and apply it:
+
+- **His notes override the detailed rules further down in the SAME file.**
+  If a note says "make the posts 150 words" and the rules below say 180-250,
+  follow the note.
+- Apply notes from every file: sources.md, what_is_important.md,
+  how_to_summarize.md, how_to_write.md, chrisy_voice.md and this file.
+- A note may be informal or partial ("add an icon to the posts", "less policy
+  stuff"). Interpret it sensibly and apply it to that file's area. Do not ask
+  for clarification — make the most reasonable reading and act.
+- If the box is empty, ignore it. Never invent notes.
+- Never edit or delete his notes. They are his, not yours. The only exception is
+  if he explicitly asks you in chat to update them.
+- If a note is genuinely impossible or would break the system (for example
+  "post directly to LinkedIn" when we have no such access), do the closest thing
+  you can, and say so in ONE short sentence at the end of message [1/7].
 
 ### 2. Find the real feed behind each link (do this first)
 

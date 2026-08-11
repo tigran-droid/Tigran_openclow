@@ -1,3 +1,30 @@
+<!-- ────────────────────────────────────────────────────────────
+     Hi Chris 👋   (what_is_important.md)
+
+     WHAT THIS FILE DOES
+     This is the filter — it decides what gets kept and what gets binned.
+     If the briefing keeps showing things you do not care about, change this file.
+     ──────────────────────────────────────────────────────────── -->
+
+## ✏️ Your quick changes
+
+Write small changes here in plain English. You do not need to find the right
+place in the file below — just write what you want and the agent will apply it.
+These notes take priority over everything else in this file.
+
+Examples of what you could write:
+  e.g. "focus more on tools and how-to content, less on policy"
+  e.g. "always keep anything about legal or law firms"
+  e.g. "drop funding announcements completely"
+
+Write yours below this line (delete anything you no longer want):
+
+<!-- START OF YOUR NOTES -->
+
+<!-- END OF YOUR NOTES -->
+
+---
+
 # What is important — the filter
 
 This decides what we keep and what we throw away. Chrisy edits this freely.

@@ -1,3 +1,30 @@
+<!-- ────────────────────────────────────────────────────────────
+     Hi Chris 👋   (how_to_summarize.md)
+
+     WHAT THIS FILE DOES
+     This controls how each source is summarised before anything is written.
+     Change it if the summaries miss the point or feel too shallow.
+     ──────────────────────────────────────────────────────────── -->
+
+## ✏️ Your quick changes
+
+Write small changes here in plain English. You do not need to find the right
+place in the file below — just write what you want and the agent will apply it.
+These notes take priority over everything else in this file.
+
+Examples of what you could write:
+  e.g. "always pull out the exact numbers"
+  e.g. "shorter summaries, three sentences max"
+  e.g. "note when a claim comes from a vendor"
+
+Write yours below this line (delete anything you no longer want):
+
+<!-- START OF YOUR NOTES -->
+
+<!-- END OF YOUR NOTES -->
+
+---
+
 # How to summarize collected material
 
 This controls how raw material (articles, transcripts, episodes) is turned into

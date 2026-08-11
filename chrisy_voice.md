@@ -1,3 +1,30 @@
+<!-- ────────────────────────────────────────────────────────────
+     Hi Chris 👋   (chrisy_voice.md)
+
+     WHAT THIS FILE DOES
+     This is your writing voice — the agent copies the tone and rhythm from here.
+     The real posts at the bottom matter most. Add more of your own any time.
+     ──────────────────────────────────────────────────────────── -->
+
+## ✏️ Your quick changes
+
+Write small changes here in plain English. You do not need to find the right
+place in the file below — just write what you want and the agent will apply it.
+These notes take priority over everything else in this file.
+
+Examples of what you could write:
+  e.g. "be a bit more provocative in the opening line"
+  e.g. "use fewer numbers, more plain statements"
+  e.g. "never start a post with a question"
+
+Write yours below this line (delete anything you no longer want):
+
+<!-- START OF YOUR NOTES -->
+
+<!-- END OF YOUR NOTES -->
+
+---
+
 # Chrisy's voice — how I write
 
 This file was written by studying Chrisy's real LinkedIn posts. The examples at
