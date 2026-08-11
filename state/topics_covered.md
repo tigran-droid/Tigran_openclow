@@ -1,3 +1,9 @@
+- 2026-08-11 | cohort-paced AI product launch | treat the first ten customers as a learning instrument before widening distribution
+- 2026-08-11 | full ownership economics for AI products | cheap inference excludes support billing security maintenance and failure response
+- 2026-08-11 | software moat migration | as interfaces become easy to copy advantage moves into customer knowledge trust and feedback
+- 2026-08-11 | disciplined learning under cheap building | faster production makes validation restraint and customer attention more valuable
+- 2026-08-11 | activation before acquisition | measure the first useful result and cancellation reasons before buying more reach
+- 2026-08-11 | lifecycle cost of generated applications | evaluate long-lived operating obligations rather than celebrating prototype cost
 - 2026-08-11 | decision-first AI workflow design | begin with a consequential decision and work backwards through evidence permissions and ownership
 - 2026-08-11 | approval fatigue in AI operations | constant human prompts become theatre so controls must reserve attention for consequential exceptions
 - 2026-08-11 | evidence-led AI service ladder | earn expansion through education audit one focused project and a proven result
