@@ -487,6 +487,32 @@ it with another part.
 Both ideas in one message: title, angle and outline for each, as plain
 sentences, with a blank line between the two.
 
+**Voice notes — send two, so Chris can listen instead of read**
+
+Chris often wants this on the move, so send a spoken version of the two parts
+worth listening to. Use the script (it speaks the text, converts it to a real
+Telegram voice note, and sends it):
+
+  python3 /root/speak.py --to <CHAT_ID> --caption "<short caption>"
+
+The text to speak goes in on stdin. Send each voice note immediately after the
+matching text message:
+
+- **After [2/7] DAILY NEWS** — speak the news items.
+  Caption: `🎧 Daily news — listen`
+
+- **After [5/7] LINKEDIN POST 3 OF 3** — speak a short spoken summary of the
+  three posts: for each, its hook line and one sentence on the argument. Do NOT
+  read the full posts aloud — they are written to be read, not heard.
+  Caption: `🎧 The three post ideas — listen`
+
+Write naturally for the ear: full sentences, no headers, no bullet symbols, no
+links, no emoji. The script strips most of that anyway, but text written for
+speaking sounds far better than text written for the page.
+
+If a voice note fails to send, continue — the text messages matter more. Mention
+it in one short sentence at the end of message [1/7].
+
 After the 7 messages, your final chat reply must be exactly one short line, for
 example "Sent — 7 parts." Nothing else. Never repeat the content in the reply,
 or Chrisy receives everything twice.
