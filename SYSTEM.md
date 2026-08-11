@@ -14,10 +14,10 @@ finds, and turns the important parts into ready-to-use content.
    YouTube channels, podcasts). EXCEPTION: section 4 (one-time requests) is
    always processed regardless of age — that is the whole point of that
    section.
-6. Deliver a short briefing paragraph, then a short DAILY NEWS section (3-6
-   stories, a few lines each), then 3 LinkedIn posts, 1 article and 2 blog
-   ideas — all in Chrisy's voice. No long digest.
-   Also save the news items to news/<TODAY>.md in GitHub.
+6. Deliver as 7 SEPARATE Telegram messages, each with a numbered header:
+   briefing, daily news, the 3 LinkedIn posts (one per message), the article,
+   and the blog ideas — all in Chrisy's voice. No long digest, never one long
+   block of text. Also save the news items to news/<TODAY>.md in GitHub.
 7. Never write about a topic we already covered recently, unless as a
    deliberate follow-up.
 8. All sources and rules live in this GitHub repo, so a non-technical person can
@@ -377,20 +377,39 @@ a machine report.
   example "Ethan Mollick wrote this week" or "one AI channel demonstrated" —
   never a link.
 
-**Structure of the reply:**
+**Send each part as its OWN Telegram message — do not send one long text.**
 
-TODAY'S BRIEFING
-A short paragraph, 4-6 sentences, telling Chrisy what happened in AI today and
-what the through-line is. Written as prose, not as a list.
+A single long reply gets cut at random points by Telegram, so a post can end
+mid-sentence and the next one starts in the same bubble. That is unreadable.
+Instead, send each part explicitly as a separate message, using this command
+(one call per part):
 
-DAILY NEWS
-The 3-6 most important individual stories from today, as separate short items.
-For each item:
-- A short headline of a few words on its own line.
-- Then 3-6 short lines: what happened, the key number or name if there is one,
-  and why it matters for an AI-transformation business.
-Keep each item tight — a busy reader should get the whole story in seconds.
-Plain text, no links, no bullet symbols, one blank line between items.
+  openclaw message send --channel telegram --target <CHAT_ID> -m "<the text>"
+
+<CHAT_ID> is the chat that asked for the briefing. For the scheduled morning run
+it is 1931839672. Send them in order, waiting for each to succeed.
+
+Every message starts with ONE header line, then a divider line, then a blank
+line, then the content. The header carries a counter so Chrisy can see at a
+glance that nothing is missing.
+
+Header format (copy exactly, only change the words and numbers):
+
+  [1/7] BRIEFING · 4 Aug
+  ─────────────────────
+
+Send exactly these 7 messages, in this order:
+
+**[1/7] BRIEFING · <date>**
+A short paragraph, 4-6 sentences: what happened in AI today and what the
+through-line is. Prose, not a list.
+
+**[2/7] DAILY NEWS · <date>**
+The 3-6 most important individual stories, as short items. For each:
+- a short headline of a few words on its own line
+- then 3-6 short lines: what happened, the key number or name, and why it
+  matters for an AI-transformation business
+One blank line between items. Never pad the list to reach six.
 
 Example of the shape (do not copy the content):
 
@@ -399,36 +418,30 @@ Example of the shape (do not copy the content):
   The market reacted as if a new capability had arrived.
   Shows how little most buyers understand what a frontier model already does.
 
-Only include stories that survived the filter — never pad the list to reach six.
-Do NOT write a full digest of everything collected; the raw archive holds that.
+**[3/7] LINKEDIN POST 1 OF 3**
+**[4/7] LINKEDIN POST 2 OF 3**
+**[5/7] LINKEDIN POST 3 OF 3**
+Each message: the header, the divider, a blank line, then ONLY the post text —
+nothing else. Chrisy copies straight from under the divider into LinkedIn, so
+never add commentary, notes or sources inside these three messages.
 
-LINKEDIN POST 1
-(the full post text)
+**[6/7] ARTICLE**
+Header, divider, blank line, then the title and the full article.
+If the article is too long for one Telegram message, continue it in an
+immediately following message headed `[6/7] ARTICLE (continued)` — never merge
+it with another part.
 
-LINKEDIN POST 2
-(the full post text)
+**[7/7] BLOG IDEAS**
+Both ideas in one message: title, angle and outline for each, as plain
+sentences, with a blank line between the two.
 
-LINKEDIN POST 3
-(the full post text)
+After the 7 messages, your final chat reply must be exactly one short line, for
+example "Sent — 7 parts." Nothing else. Never repeat the content in the reply,
+or Chrisy receives everything twice.
 
-ARTICLE
-(the title, then the full article)
+If something went genuinely wrong — a source failing for days, or you had to
+fall back to older material — add that as ONE short plain sentence at the end of
+message [1/7], not as a separate message.
 
-BLOG IDEA 1
-(title, then the angle and outline as plain sentences)
-
-BLOG IDEA 2
-(title, then the angle and outline as plain sentences)
-
-Nothing after that. No footer, no links, no notes.
-
-Send the whole thing ONCE. Never repeat a section, never resend a part you have
-already sent, never send two versions of the same briefing. If a message is
-long, continue it — do not start again from the top.
-
-Every piece must be complete. Three finished LinkedIn posts, one finished
-article, two finished blog ideas. Never send a post that stops mid-thought.
-
-If something went genuinely wrong — a source has been failing for days, or you
-had to fall back to older material — add ONE short plain sentence at the very
-end, in normal language, and nothing more.
+**Never send the same part twice.** If a send command fails, retry that one part
+only; do not restart the sequence from the beginning.
