@@ -132,3 +132,9 @@ Anything listed here will not be collected again.
 - 2026-08-08 | https://x.com/emollick/status/2085745490566562276 | @emollick — open-weight cyber risk
 - 2026-08-08 | https://x.com/EugenioFierro3/status/2085827345198338396 | @EugenioFierro3 — Claude Code cross-session messaging
 - 2026-08-08 | https://x.com/EugenioFierro3/status/2085708656348140001 | @EugenioFierro3 — Claude biology classifier update
+
+- 2026-08-11 | https://www.youtube.com/watch?v=IVx8OSMbTss | Build & Sell AI SaaS Products (2 HOUR COURSE)
+- 2026-08-11 | https://www.youtube.com/watch?v=iPveX4yQ68w | What the Heck is Graph Engineering?
+- 2026-08-11 | https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/ | AI professors are negotiating the new realities of academic research
+- 2026-08-11 | https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/ | AI for science needs reasoning, not just data
+- 2026-08-11 | https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/ | These startups are chasing the next big thing in LLMs
