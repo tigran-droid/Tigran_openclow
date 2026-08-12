@@ -140,3 +140,9 @@ Anything listed here will not be collected again.
 - 2026-08-11 | https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/ | These startups are chasing the next big thing in LLMs
 - 2026-08-11 | https://www.youtube.com/watch?v=LVAHYV4Xrto | How to Build a One Person AI Business (Using Claude Code)
 - 2026-08-11 | https://openai.com/index/building-an-ai-native-finance-function | What building an AI-native finance function taught me
+- 2026-08-12 | https://www.youtube.com/watch?v=PQBYZQqan2g | Grok Bot is For Real. What You Need to Know.
+- 2026-08-12 | https://www.youtube.com/watch?v=bzSN73XXiC4 | I Build Features Just By Talking to My Code
+- 2026-08-12 | https://www.youtube.com/watch?v=LVAHYV4Xrto | How to Build a One Person AI Business (Using Claude Code)
+- 2026-08-12 | https://www.youtube.com/watch?v=Laws8go7v98 | 41 Stats About AI Adoption
+- 2026-08-12 | https://openai.com/index/testing-ads-in-chatgpt | Testing ads in ChatGPT
+- 2026-08-12 | https://openai.com/index/daybreak-models-are-now-available-on-aws | Daybreak models are now available on AWS
