@@ -1,3 +1,9 @@
+- 2026-08-12 | AI adoption evidence gap | replace activity dashboards with cost quality and accepted-work measures
+- 2026-08-12 | shadow AI disclosure penalty | give capable employees a governed route to share useful workflows
+- 2026-08-12 | agent management as work | train people to direct delegated systems without surrendering judgment
+- 2026-08-12 | operating evidence for AI transformation | prove business change through one end-to-end workflow evidence chain
+- 2026-08-12 | shadow AI paradox | show how strict policy can reduce both safety and organisational learning
+- 2026-08-12 | agent manager capability | define completion authority review recovery and human ownership as a job framework
 - 2026-08-11 | cohort-paced AI product launch | treat the first ten customers as a learning instrument before widening distribution
 - 2026-08-11 | full ownership economics for AI products | cheap inference excludes support billing security maintenance and failure response
 - 2026-08-11 | software moat migration | as interfaces become easy to copy advantage moves into customer knowledge trust and feedback
