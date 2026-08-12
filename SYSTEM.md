@@ -429,17 +429,31 @@ a machine report.
   example "Ethan Mollick wrote this week" or "one AI channel demonstrated" —
   never a link.
 
-**Send each part as its OWN Telegram message — do not send one long text.**
+**Do not send the messages yourself. Write them to files and run one command.**
 
 A single long reply gets cut at random points by Telegram, so a post can end
-mid-sentence and the next one starts in the same bubble. That is unreadable.
-Instead, send each part explicitly as a separate message, using this command
-(one call per part):
+mid-sentence and the next one starts in the same bubble. Sending the parts by
+hand has its own failure: the run ends as soon as the last post is out, and
+anything meant to follow is silently dropped.
 
-  openclaw message send --channel telegram --target <CHAT_ID> -m "<the text>"
+So you write the brief, and `deliver.py` sends it. Write each part as a plain
+text file in `/root/brief/`, exactly as Chrisy should read it, header line and
+divider included:
+
+  01-briefing.txt    02-news.txt     03-post1.txt    04-post2.txt
+  05-post3.txt       06-article.txt  07-blog-ideas.txt
+  voice-news.txt     voice-posts.txt
+
+Empty the folder first (`rm -f /root/brief/*.txt`) so nothing from yesterday can
+be sent again. Then, once every file is written:
+
+  python3 /root/deliver.py --to <CHAT_ID> --dir /root/brief
 
 <CHAT_ID> is the chat that asked for the briefing. For the scheduled morning run
-it is 1931839672. Send them in order, waiting for each to succeed.
+it is 1931839672. The script sends the seven parts in order, splits the article
+if it is too long for one message, and sends each voice note straight after the
+part it belongs to. It prints one line saying what went out — read it, and if it
+reports a failure, say so in your final reply.
 
 Every message starts with ONE header line, then a divider line, then a blank
 line, then the content. The header carries a counter so Chrisy can see at a
@@ -450,13 +464,14 @@ Header format (copy exactly, only change the words and numbers):
   [1/7] BRIEFING · 4 Aug
   ─────────────────────
 
-Send exactly these 7 messages, in this order:
+Write exactly these 7 files. The name in brackets after each part is the file
+it goes in:
 
-**[1/7] BRIEFING · <date>**
+**[1/7] BRIEFING · <date>**  → `01-briefing.txt`
 A short paragraph, 4-6 sentences: what happened in AI today and what the
 through-line is. Prose, not a list.
 
-**[2/7] DAILY NEWS · <date>**
+**[2/7] DAILY NEWS · <date>**  → `02-news.txt`
 The 3-6 most important individual stories, as short items. For each:
 - a short headline of a few words on its own line
 - then 3-6 short lines: what happened, the key number or name, and why it
@@ -470,48 +485,39 @@ Example of the shape (do not copy the content):
   The market reacted as if a new capability had arrived.
   Shows how little most buyers understand what a frontier model already does.
 
-**[3/7] LINKEDIN POST 1 OF 3**
-**[4/7] LINKEDIN POST 2 OF 3**
-**[5/7] LINKEDIN POST 3 OF 3**
-Each message: the header, the divider, a blank line, then ONLY the post text —
+**[3/7] LINKEDIN POST 1 OF 3**  → `03-post1.txt`
+**[4/7] LINKEDIN POST 2 OF 3**  → `04-post2.txt`
+**[5/7] LINKEDIN POST 3 OF 3**  → `05-post3.txt`
+Each file: the header, the divider, a blank line, then ONLY the post text —
 nothing else. Chrisy copies straight from under the divider into LinkedIn, so
 never add commentary, notes or sources inside these three messages.
 
-**[6/7] ARTICLE**
+**[6/7] ARTICLE**  → `06-article.txt`
 Header, divider, blank line, then the title and the full article.
-If the article is too long for one Telegram message, continue it in an
-immediately following message headed `[6/7] ARTICLE (continued)` — never merge
-it with another part.
+Write it in full and do not worry about length — deliver.py splits it at a
+paragraph break if Telegram cannot take it in one message.
 
-**[7/7] BLOG IDEAS**
-Both ideas in one message: title, angle and outline for each, as plain
+**[7/7] BLOG IDEAS**  → `07-blog-ideas.txt`
+Both ideas in one file: title, angle and outline for each, as plain
 sentences, with a blank line between the two.
 
-**Voice notes — send two, so Chris can listen instead of read**
+**Voice notes — write two, so Chris can listen instead of read**
 
-Chris often wants this on the move, so send a spoken version of the two parts
-worth listening to. Use the script (it speaks the text, converts it to a real
-Telegram voice note, and sends it):
+Chris often wants this on the move, so he gets a spoken version of the two parts
+worth listening to. You do not send these — you write the words, and deliver.py
+speaks them and attaches each one directly after the part it belongs to.
 
-  python3 /root/speak.py --to <CHAT_ID> --caption "<short caption>"
+- `voice-news.txt` — the news items, spoken. Goes out after [2/7].
+- `voice-posts.txt` — a short spoken summary of the three posts: for each, its
+  hook line and one sentence on the argument. Do NOT write out the full posts
+  here — they are written to be read, not heard. Goes out after [5/7].
 
-The text to speak goes in on stdin. Send each voice note immediately after the
-matching text message:
+Write naturally for the ear: full sentences, no headers, no counters, no bullet
+symbols, no links, no emoji. Text written for speaking sounds far better than
+text written for the page.
 
-- **After [2/7] DAILY NEWS** — speak the news items.
-  Caption: `🎧 Daily news — listen`
-
-- **After [5/7] LINKEDIN POST 3 OF 3** — speak a short spoken summary of the
-  three posts: for each, its hook line and one sentence on the argument. Do NOT
-  read the full posts aloud — they are written to be read, not heard.
-  Caption: `🎧 The three post ideas — listen`
-
-Write naturally for the ear: full sentences, no headers, no bullet symbols, no
-links, no emoji. The script strips most of that anyway, but text written for
-speaking sounds far better than text written for the page.
-
-If a voice note fails to send, continue — the text messages matter more. Mention
-it in one short sentence at the end of message [1/7].
+These two files are as much a part of the brief as the seven messages. If one is
+missing, Chris simply does not get it — nothing will warn you.
 
 After the 7 messages, your final chat reply must be exactly one short line, for
 example "Sent — 7 parts." Nothing else. Never repeat the content in the reply,
