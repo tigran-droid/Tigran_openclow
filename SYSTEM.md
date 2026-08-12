@@ -41,10 +41,12 @@ finds, and turns the important parts into ready-to-use content.
    YouTube channels, podcasts). EXCEPTION: section 4 (one-time requests) is
    always processed regardless of age — that is the whole point of that
    section.
-6. Deliver as 7 SEPARATE Telegram messages, each with a numbered header:
-   briefing, daily news, the 3 LinkedIn posts (one per message), the article,
-   and the blog ideas — all in Chrisy's voice. No long digest, never one long
-   block of text. Also save the news items to news/<TODAY>.md in GitHub.
+6. Write the brief as 7 numbered parts — briefing, daily news, the 3 LinkedIn
+   posts (one each), the article, the blog ideas — plus 2 spoken versions, all
+   in Chrisy's voice. You never send them yourself: you write them to files and
+   deliver.py sends them as separate Telegram messages (step 10). No long
+   digest, never one long block of text. Also save the news items to
+   news/<TODAY>.md in GitHub.
 7. Never write about a topic we already covered recently, unless as a
    deliberate follow-up.
 8. All sources and rules live in this GitHub repo, so a non-technical person can
@@ -519,13 +521,19 @@ text written for the page.
 These two files are as much a part of the brief as the seven messages. If one is
 missing, Chris simply does not get it — nothing will warn you.
 
-After the 7 messages, your final chat reply must be exactly one short line, for
-example "Sent — 7 parts." Nothing else. Never repeat the content in the reply,
-or Chrisy receives everything twice.
-
 If something went genuinely wrong — a source failing for days, or you had to
 fall back to older material — add that as ONE short plain sentence at the end of
-message [1/7], not as a separate message.
+part [1/7], not as a separate part.
 
-**Never send the same part twice.** If a send command fails, retry that one part
-only; do not restart the sequence from the beginning.
+**Do not send any part yourself, ever.** Not with `openclaw message send`, not
+with the message tool, not "just the first one to check". Every part goes out
+through deliver.py and only through deliver.py. Sending one by hand and letting
+the script send the rest means Chrisy gets it twice.
+
+Nothing has been delivered until deliver.py has run. Writing the files is not
+delivery. If the run ends before that command, Chrisy receives nothing at all —
+so write the files, then run it, in the same run, before you reply anything.
+
+Your final chat reply is exactly one short line repeating what the script
+printed, for example "Sent — 7 parts and 2 voice notes." Nothing else. Never
+repeat the content in the reply, or Chrisy receives everything twice.
