@@ -146,3 +146,8 @@ Anything listed here will not be collected again.
 - 2026-08-12 | https://www.youtube.com/watch?v=Laws8go7v98 | 41 Stats About AI Adoption
 - 2026-08-12 | https://openai.com/index/testing-ads-in-chatgpt | Testing ads in ChatGPT
 - 2026-08-12 | https://openai.com/index/daybreak-models-are-now-available-on-aws | Daybreak models are now available on AWS
+- 2026-08-13 | https://www.youtube.com/watch?v=qK4nV_LnXxQ | Making An Actually Fun 3D Game with AI
+- 2026-08-13 | https://www.youtube.com/watch?v=XNQBCRcwXV4 | I Deleted All My Claude Skills... And Claude Got Smarter
+- 2026-08-13 | https://www.youtube.com/watch?v=uIDHqX4SReI | Why AI Will IMPROVE Writing
+- 2026-08-13 | https://www.youtube.com/watch?v=kckD1hgkYvk | Grok Bot Finally Makes AI Agents Easy
+- 2026-08-13 | https://www.youtube.com/watch?v=Gw6fGg-oO94 | AI Optimism Has a Trust Problem
