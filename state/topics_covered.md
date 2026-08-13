@@ -1,3 +1,9 @@
+- 2026-08-13 | judgment after cheap generation | code speed moves the bottleneck into product decisions and acceptance
+- 2026-08-13 | agent context pruning | remove instructions that cannot prove they improve accepted work
+- 2026-08-13 | ease versus agent trust | simple setup must be paired with permissions evidence and recovery
+- 2026-08-13 | production cheap judgment scarce | measure the full loop from generated draft to accepted outcome
+- 2026-08-13 | prototype-to-production gap | govern generated software through testing ownership and maintenance
+- 2026-08-13 | context maintenance | treat pruning and before-after evaluation as recurring agent operations
 - 2026-08-12 | AI adoption evidence gap | replace activity dashboards with cost quality and accepted-work measures
 - 2026-08-12 | shadow AI disclosure penalty | give capable employees a governed route to share useful workflows
 - 2026-08-12 | agent management as work | train people to direct delegated systems without surrendering judgment
