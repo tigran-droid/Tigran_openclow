@@ -56,9 +56,11 @@ Paste the channel link (a channel, not a single video).
 
 <!-- example: - https://www.youtube.com/@channelname -->
 - https://www.youtube.com/@mreflow
-- https://www.youtube.com/@futurepedia_io
+- https://www.youtube.com/@aishowpod
 - https://www.youtube.com/@nateherk
 - https://www.youtube.com/@AIDailyBrief
+- https://www.youtube.com/@peterdiamandis
+- https://www.youtube.com/@CognitiveRevolutionPodcast
 ---
 
 ## 3. Podcasts
