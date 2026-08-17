@@ -19,6 +19,7 @@ header line and divider included):
 
   voice-news.txt       spoken after 02-news.txt
   voice-posts.txt      spoken after 05-post3.txt
+  voice-article.txt    spoken after 06-article.txt
 
 Text messages are required — a missing one is an error. Voice files are optional:
 if one is absent it is skipped, and if speaking fails the text delivery still
@@ -33,8 +34,9 @@ CHUNK_TARGET = 3800          # leave room for the "(continued)" marker
 
 # Which voice file follows which message, and the caption Chrisy sees.
 VOICE_AFTER = {
-    "02-news.txt":  ("voice-news.txt",  "🎧 Daily news — listen"),
-    "05-post3.txt": ("voice-posts.txt", "🎧 The three post ideas — listen"),
+    "02-news.txt":    ("voice-news.txt",    "🎧 [2/7] Daily news — spoken"),
+    "05-post3.txt":   ("voice-posts.txt",   "🎧 [5/7] The three posts — spoken"),
+    "06-article.txt": ("voice-article.txt", "🎧 [6/7] The article — spoken"),
 }
 
 REQUIRED = ["01-briefing.txt", "02-news.txt", "03-post1.txt", "04-post2.txt",
@@ -107,6 +109,7 @@ def main():
 
     parts = sorted(glob.glob(os.path.join(a.dir, "[0-9][0-9]-*.txt")))
     sent_text = sent_voice = failed = 0
+    missing_voice = []
 
     for path in parts:
         name = os.path.basename(path)
@@ -125,14 +128,26 @@ def main():
         voice = VOICE_AFTER.get(name)
         if voice:
             vpath = os.path.join(a.dir, voice[0])
-            if os.path.isfile(vpath) and send_voice(vpath, a.to, voice[1]):
+            if not os.path.isfile(vpath):
+                # Silently skipping meant Chrisy lost a voice note with nothing
+                # to show it had ever been expected.
+                print(f"  {voice[0]}: MISSING — {name} goes out with no audio",
+                      file=sys.stderr)
+                missing_voice.append(voice[0])
+            elif send_voice(vpath, a.to, voice[1]):
                 sent_voice += 1
+            else:
+                failed += 1
 
     summary = f"Sent {sent_text} text messages and {sent_voice} voice notes."
+    if missing_voice:
+        summary += (f" WARNING: {len(missing_voice)} voice note(s) were never "
+                    f"written, so those parts went out silent: "
+                    f"{', '.join(missing_voice)}.")
     if failed:
         summary += f" {failed} message(s) failed to send."
     print(summary)
-    return 1 if failed else 0
+    return 1 if (failed or missing_voice) else 0
 
 
 if __name__ == "__main__":

@@ -42,11 +42,11 @@ finds, and turns the important parts into ready-to-use content.
    always processed regardless of age — that is the whole point of that
    section.
 6. Write the brief as 7 numbered parts — briefing, daily news, the 3 LinkedIn
-   posts (one each), the article, the blog ideas — plus 2 spoken versions, all
-   in Chrisy's voice. You never send them yourself: you write them to files and
-   deliver.py sends them as separate Telegram messages (step 10). No long
-   digest, never one long block of text. Also save the news items to
-   news/<TODAY>.md in GitHub.
+   posts (one each), the article, the blog ideas — plus 3 spoken versions (news,
+   posts, article), all in Chrisy's voice. You never send them yourself: you
+   write them to files and one delivery command sends them as separate Telegram
+   messages (step 10). No long digest, never one long block of text. Also save
+   the news items to news/<TODAY>.md in GitHub.
 7. Never write about a topic we already covered recently, unless as a
    deliberate follow-up.
 8. All sources and rules live in this GitHub repo, so a non-technical person can
@@ -59,12 +59,22 @@ first time today, even if you already replied "nothing new" earlier in this
 same conversation), you MUST actually re-run the full routine below from
 scratch: re-fetch sources.md fresh, and re-check every section.
 
-Do NOT reason from what you said earlier in this chat (e.g. "I already sent
-today's edition, so there is nothing to do"). That is not a valid reason to
-skip work. In particular, section 4 (one-time requests) must be checked on
-EVERY run — if it contains a link, that link has NOT been processed yet
-regardless of anything said earlier in the conversation, and must be handled
-now.
+Do NOT reason from what you said earlier in this chat, and do NOT reason from
+what is visible in the chat history. Every one of these is a refusal, not an
+answer, and all of them are forbidden:
+
+- "I already sent today's edition, so there is nothing to do"
+- "Today's briefing is already in the chat above"
+- pointing at earlier messages and summarising them instead of running
+- re-stating today's theme from memory rather than re-collecting
+
+If the user asks again, they want it run again. Run it. A second delivery of the
+same day is fine and expected; refusing to run is not. Produce the parts and
+deliver them exactly as on the first request.
+
+In particular, section 4 (one-time requests) must be checked on EVERY run — if
+it contains a link, that link has NOT been processed yet regardless of anything
+said earlier in the conversation, and must be handled now.
 
 ## The daily routine (follow these steps in order)
 
@@ -449,9 +459,11 @@ So you write the brief, and `deliver.py` sends it. Write each part as a plain
 text file in `/root/brief/`, exactly as Chrisy should read it, header line and
 divider included:
 
-  01-briefing.txt    02-news.txt     03-post1.txt    04-post2.txt
-  05-post3.txt       06-article.txt  07-blog-ideas.txt
-  voice-news.txt     voice-posts.txt
+  01-briefing.txt    02-news.txt      03-post1.txt    04-post2.txt
+  05-post3.txt       06-article.txt   07-blog-ideas.txt
+  voice-news.txt     voice-posts.txt  voice-article.txt
+
+That is ten files: seven parts and three voice notes. All ten every run.
 
 Empty the folder first (`rm -f /root/brief/*.txt`) so nothing from yesterday can
 be sent again. Then, once every file is written, run exactly this:
@@ -464,8 +476,10 @@ parts in order, splits the article if it is too long for one message, and sends
 each voice note straight after the part it belongs to.
 
 It runs the sending in a session of its own, so all the messages finish even if
-you stop waiting, and it prints the real result when they are done — normally
-"Sent 8 text messages and 2 voice notes." Wait for it and read what it says.
+you stop waiting, and when they are done it prints one summary line counting the
+text messages and voice notes that actually went out. Wait for it, then read
+that line. Do not assume what it will say — the counts vary, because a long
+article is split into two messages.
 
 Do not call `deliver.py` directly. On 17 Aug that call was cut off after 4 of 9
 messages because the run ended while the script was still sending, and Chrisy
@@ -473,67 +487,91 @@ would have received the briefing, the news, one voice note and one post only.
 
 Every message starts with ONE header line, then a divider line, then a blank
 line, then the content. The header carries a counter so Chrisy can see at a
-glance that nothing is missing.
+glance that nothing is missing, and an icon so he can find a part instantly
+when scrolling back through the chat.
 
-Header format (copy exactly, only change the words and numbers):
+Header format — two lines, then a blank line. Copy the divider exactly as it is;
+it is the same length in all seven messages so the set looks like one document:
 
-  [1/7] BRIEFING · 4 Aug
-  ─────────────────────
+  [1/7] 📋 BRIEFING · 4 Aug
+  ━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Use exactly these seven headers, each with its own icon:
+
+  [1/7] 📋 BRIEFING · <date>
+  [2/7] 📰 DAILY NEWS · <date>
+  [3/7] ✍️ LINKEDIN POST 1 OF 3
+  [4/7] ✍️ LINKEDIN POST 2 OF 3
+  [5/7] ✍️ LINKEDIN POST 3 OF 3
+  [6/7] 📄 ARTICLE
+  [7/7] 💡 BLOG IDEAS
+
+Those icons are the only emoji anywhere in the brief. Never put one in the body
+of a message, in a LinkedIn post, or in a voice note.
 
 Write exactly these 7 files. The name in brackets after each part is the file
 it goes in:
 
-**[1/7] BRIEFING · <date>**  → `01-briefing.txt`
+**[1/7] 📋 BRIEFING · <date>**  → `01-briefing.txt`
 A short paragraph, 4-6 sentences: what happened in AI today and what the
 through-line is. Prose, not a list.
 
-**[2/7] DAILY NEWS · <date>**  → `02-news.txt`
+**[2/7] 📰 DAILY NEWS · <date>**  → `02-news.txt`
 The 3-6 most important individual stories, as short items. For each:
-- a short headline of a few words on its own line
+- a short headline of a few words on its own line, opened with `▸ `
 - then 3-6 short lines: what happened, the key number or name, and why it
   matters for an AI-transformation business
 One blank line between items. Never pad the list to reach six.
 
 Example of the shape (do not copy the content):
 
-  Anthropic ships legal skills pack
+  ▸ Anthropic ships legal skills pack
   Not a new model, just well-written markdown prompts.
   The market reacted as if a new capability had arrived.
   Shows how little most buyers understand what a frontier model already does.
 
-**[3/7] LINKEDIN POST 1 OF 3**  → `03-post1.txt`
-**[4/7] LINKEDIN POST 2 OF 3**  → `04-post2.txt`
-**[5/7] LINKEDIN POST 3 OF 3**  → `05-post3.txt`
+**[3/7] ✍️ LINKEDIN POST 1 OF 3**  → `03-post1.txt`
+**[4/7] ✍️ LINKEDIN POST 2 OF 3**  → `04-post2.txt`
+**[5/7] ✍️ LINKEDIN POST 3 OF 3**  → `05-post3.txt`
 Each file: the header, the divider, a blank line, then ONLY the post text —
-nothing else. Chrisy copies straight from under the divider into LinkedIn, so
-never add commentary, notes or sources inside these three messages.
+nothing else. No `▸` markers here. Chrisy copies straight from under the divider
+into LinkedIn, so never add commentary, notes or sources inside these three
+messages.
 
-**[6/7] ARTICLE**  → `06-article.txt`
-Header, divider, blank line, then the title and the full article.
-Write it in full and do not worry about length — deliver.py splits it at a
-paragraph break if Telegram cannot take it in one message.
+**[6/7] 📄 ARTICLE**  → `06-article.txt`
+Header, divider, blank line, then the title on its own line, a blank line, then
+the full article. Write it in full and do not worry about length — the delivery
+script splits it at a paragraph break if Telegram cannot take it in one message.
 
-**[7/7] BLOG IDEAS**  → `07-blog-ideas.txt`
-Both ideas in one file: title, angle and outline for each, as plain
-sentences, with a blank line between the two.
+**[7/7] 💡 BLOG IDEAS**  → `07-blog-ideas.txt`
+Both ideas in one file. Open each title with `▸ `, then its angle and outline as
+plain sentences, with a blank line between the two ideas.
 
-**Voice notes — write two, so Chris can listen instead of read**
+**Voice notes — write all three, so Chris can listen instead of read**
 
-Chris often wants this on the move, so he gets a spoken version of the two parts
-worth listening to. You do not send these — you write the words, and deliver.py
+Chris often wants this on the move, so every part worth hearing gets a spoken
+version. You do not send these — you write the words, and the delivery script
 speaks them and attaches each one directly after the part it belongs to.
+
+Write exactly these three files:
 
 - `voice-news.txt` — the news items, spoken. Goes out after [2/7].
 - `voice-posts.txt` — a short spoken summary of the three posts: for each, its
   hook line and one sentence on the argument. Do NOT write out the full posts
   here — they are written to be read, not heard. Goes out after [5/7].
+- `voice-article.txt` — the article, spoken. Start by saying the title as a
+  sentence, then read the argument through. Keep it under about 5,000 characters
+  (roughly six minutes); if the article is longer, speak it as a faithful
+  condensation rather than cutting off mid-thought.
 
 Write naturally for the ear: full sentences, no headers, no counters, no bullet
-symbols, no links, no emoji. Text written for speaking sounds far better than
-text written for the page.
+symbols, no `▸`, no links, no emoji, no divider lines. Text written for speaking
+sounds far better than text written for the page.
 
-These two files are as much a part of the brief as the seven messages. If one is
-missing, Chris simply does not get it — nothing will warn you.
+All three are as much a part of the brief as the seven messages. **A part must
+never go out silent.** If you skip one, the delivery script now says so out loud
+in its summary — `WARNING: 1 voice note(s) were never written` — and you must
+repeat that warning in your reply rather than report a clean delivery.
 
 If something went genuinely wrong — a source failing for days, or you had to
 fall back to older material — add that as ONE short plain sentence at the end of
@@ -553,8 +591,10 @@ it actually printed on screen. Nothing else. Do not write that line from memory,
 do not tidy it up, and never state a count you have not read. If no summary line
 appeared, say delivery was not confirmed — a wrong count is worse than no count.
 
-On 17 Aug the reply "Sent — 7 parts and 2 voice notes" was copied out of an
-example sentence in this file while only 4 messages had actually gone out. That
-is why there is no example of a success line here to copy.
+On 17 Aug this file carried a sample success sentence as an illustration. The
+reply that went out was that sample, word for word, while only 4 of 9 messages
+had actually been sent. That is why no specimen of a success line appears
+anywhere in this file: a plausible sentence sitting in the instructions gets
+repeated instead of the truth.
 
 Never repeat the content in the reply, or Chrisy receives everything twice.
