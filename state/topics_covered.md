@@ -1,3 +1,9 @@
+- 2026-08-17 | delegation portfolio | score recurring work before choosing what AI should deputize, duet or defend
+- 2026-08-17 | cost per accepted outcome | include review corrections and failures instead of comparing token prices
+- 2026-08-17 | observed work as sensitive data | govern what agents may watch retain reuse and delete
+- 2026-08-17 | delegation operating system | combine task scoring economics architecture and governance
+- 2026-08-17 | AI delegation scorecard | audit teachability checkability stakes and personal dependence
+- 2026-08-17 | model economics in practice | benchmark real workflows rather than nominal compute prices
 - 2026-08-17 | observational AI governance | govern what agents may watch retain and repeat
 - 2026-08-17 | task-level deputization scoring | delegate recurring work only when teaching checking and failure costs support it
 - 2026-08-17 | qualitative AI evaluation | design human judgment as structured evidence rather than abandoning measurement
