@@ -1,3 +1,9 @@
+- 2026-08-17 | AI workflow continuity | portability recovery and ownership determine whether capability deserves scale
+- 2026-08-17 | reproducible AI analysis | preserve prompts alternatives and human revisions as evidence
+- 2026-08-17 | agent execution architecture follow-up | choose local temporary or persistent environments by access state and recovery
+- 2026-08-17 | AI lifecycle operating model | combine evidence containment continuity and recovery after the demo
+- 2026-08-17 | AI workflow exit planning | prepare data instruction model and vendor portability before dependency grows
+- 2026-08-17 | evidence trails for AI decisions | match prompt records qualitative review and provenance to consequence
 - 2026-08-17 | delegation portfolio | score recurring work before choosing what AI should deputize, duet or defend
 - 2026-08-17 | cost per accepted outcome | include review corrections and failures instead of comparing token prices
 - 2026-08-17 | observed work as sensitive data | govern what agents may watch retain reuse and delete
