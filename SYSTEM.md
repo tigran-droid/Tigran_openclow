@@ -465,8 +465,20 @@ divider included:
 
 That is ten files: seven parts and three voice notes. All ten every run.
 
-Empty the folder first (`rm -f /root/brief/*.txt`) so nothing from yesterday can
-be sent again. Then, once every file is written, run exactly this:
+**Write all ten from scratch, every run. Never reuse a file that is already
+there.** Start by emptying the folder — `rm -f /root/brief/*.txt` — before you
+write anything. Any file sitting in `/root/brief` belongs to an earlier run: its
+text is old, and so is its layout, so sending it means Chris gets yesterday's
+brief in yesterday's format. On 17 Aug the folder was not emptied, the seven
+parts were copied instead of written, and the delivery went out with the old
+headers and no article voice note.
+
+Do not inspect the folder to see what is already written, and do not copy from
+it. The delivery script moves each delivered set into `/root/brief/last-sent/`
+precisely so there is nothing here to reuse; if you find files anyway, delete
+them.
+
+Then, once every file is written, run exactly this:
 
   sh /root/deliver_and_verify.sh <CHAT_ID>
 
