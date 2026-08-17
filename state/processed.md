@@ -151,3 +151,10 @@ Anything listed here will not be collected again.
 - 2026-08-13 | https://www.youtube.com/watch?v=uIDHqX4SReI | Why AI Will IMPROVE Writing
 - 2026-08-13 | https://www.youtube.com/watch?v=kckD1hgkYvk | Grok Bot Finally Makes AI Agents Easy
 - 2026-08-13 | https://www.youtube.com/watch?v=Gw6fGg-oO94 | AI Optimism Has a Trust Problem
+- 2026-08-17 | https://www.youtube.com/watch?v=GtnZzy6tERA | How to Help AI Do Your Work Better
+- 2026-08-17 | https://x.com/emollick/status/2089233231853785118 | @emollick — agent computer architectures
+- 2026-08-17 | https://x.com/emollick/status/2089185499197911391 | @emollick — local open-weight video generation
+- 2026-08-17 | https://x.com/emollick/status/2089156476568842516 | @emollick — disease claims versus trials and approval
+- 2026-08-17 | https://x.com/emollick/status/2089100618648404216 | @emollick — exporting 5,302 bookmarks with a browser agent
+- 2026-08-17 | https://x.com/emollick/status/2089042815405686919 | @emollick — qualitative evaluation for non-verifiable work
+- 2026-08-17 | https://x.com/emollick/status/2089003775755190570 | @emollick — AI Overviews changing the web
