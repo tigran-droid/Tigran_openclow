@@ -166,3 +166,8 @@ Anything listed here will not be collected again.
 - 2026-08-17 | https://x.com/emollick/status/2089100618648404216 | @emollick — exporting 5,302 bookmarks with a browser agent
 - 2026-08-17 | https://x.com/emollick/status/2089042815405686919 | @emollick — qualitative evaluation for non-verifiable work
 - 2026-08-17 | https://x.com/emollick/status/2089003775755190570 | @emollick — AI Overviews changing the web
+
+- 2026-08-17 | https://www.youtube.com/watch?v=9ZKeu_7k9ik | Why AI Models Keep Breaking Containment
+- 2026-08-17 | https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/ | What happens when a kid’s robot best friend dies?
+- 2026-08-17 | https://x.com/emollick/status/2089351996016918825 | Ethan Mollick X post
+- 2026-08-17 | https://x.com/emollick/status/2089330959405535433 | Ethan Mollick X post
