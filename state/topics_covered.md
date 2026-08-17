@@ -1,3 +1,9 @@
+- 2026-08-17 | observational AI governance | govern what agents may watch retain and repeat
+- 2026-08-17 | task-level deputization scoring | delegate recurring work only when teaching checking and failure costs support it
+- 2026-08-17 | qualitative AI evaluation | design human judgment as structured evidence rather than abandoning measurement
+- 2026-08-17 | process knowledge as sensitive data | protect demonstrations and ambient work history as operational infrastructure
+- 2026-08-17 | agent computer architecture | compare local temporary and persistent environments through access continuity and recovery
+- 2026-08-17 | non-verifiable output assessment | combine blinded review with revision acceptance and actual-use measures
 - 2026-08-13 | judgment after cheap generation | code speed moves the bottleneck into product decisions and acceptance
 - 2026-08-13 | agent context pruning | remove instructions that cannot prove they improve accepted work
 - 2026-08-13 | ease versus agent trust | simple setup must be paired with permissions evidence and recovery
