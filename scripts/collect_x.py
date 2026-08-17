@@ -28,6 +28,10 @@ WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", "26"))
 MAX_PER_ACCOUNT = int(os.environ.get("MAX_PER_ACCOUNT", "20"))
 MIN_WORDS = int(os.environ.get("MIN_WORDS", "12"))
 SKIP_RETWEETS = os.environ.get("SKIP_RETWEETS", "1") != "0"
+
+# Handles whose fetch failed at the API level. Kept separate from "no posts"
+# so the footer can tell a broken pipeline apart from a quiet day.
+API_FAILURES = []
 UA = {"User-Agent": "Mozilla/5.0 (content-agent collector)"}
 
 
@@ -95,6 +99,7 @@ def fetch_user_posts(handle):
     """Provider-specific. Returns list of dicts: text, url, created (datetime)."""
     if not API_KEY:
         log("  ! TWITTERAPI_IO_KEY is not set")
+        API_FAILURES.append(f"@{handle} (no API key)")
         return []
     url = ("https://api.twitterapi.io/twitter/user/last_tweets?userName="
            + urllib.parse.quote(handle))
@@ -110,9 +115,11 @@ def fetch_user_posts(handle):
                 time.sleep(wait)
                 continue
             log(f"  ! api error for @{handle}: {e}")
+            API_FAILURES.append(f"@{handle} ({e})")
             return []
         except Exception as e:
             log(f"  ! api error for @{handle}: {e}")
+            API_FAILURES.append(f"@{handle} ({e})")
             return []
     if data is None:
         return []
@@ -178,7 +185,14 @@ def main():
         total += kept
 
     print(f"\n<!-- x collector done: {total} post(s) collected -->")
-    log(f"DONE: {total} post(s)")
+    if API_FAILURES:
+        # Deliberately loud. "0 collected" alone reads exactly like a quiet day.
+        print(f"<!-- COLLECTION FAILURE: the X API failed on "
+              f"{len(API_FAILURES)} account(s): {', '.join(API_FAILURES)}. "
+              f"This is a BROKEN PIPELINE, not a quiet day. Do NOT report this "
+              f"as 'nothing new was published' - report the failure. -->")
+    log(f"DONE: {total} post(s)"
+        + (f", {len(API_FAILURES)} API FAILURE(S)" if API_FAILURES else ""))
 
 
 if __name__ == "__main__":

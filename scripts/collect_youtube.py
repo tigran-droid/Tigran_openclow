@@ -16,7 +16,7 @@ Usage:  python3 collect_youtube.py            (default window 26 hours)
         WINDOW_HOURS=48 python3 collect_youtube.py
 """
 
-import os, re, sys, json, urllib.request, urllib.parse
+import os, re, sys, json, time, urllib.request, urllib.parse, urllib.error
 from datetime import datetime, timezone, timedelta
 
 SUPADATA_KEY = os.environ.get("SUPADATA_API_KEY", "").strip()
@@ -99,10 +99,23 @@ def transcript(video_url):
         return None, "SUPADATA_API_KEY is not set"
     api = ("https://api.supadata.ai/v1/youtube/transcript?url="
            + urllib.parse.quote(video_url, safe="") + "&text=true&lang=en")
-    try:
-        data = json.loads(fetch(api, headers={"x-api-key": SUPADATA_KEY}))
-    except Exception as e:
-        return None, f"api error: {e}"
+    # Supadata rate-limits bursts. A 429 is not "no transcript" - wait and retry,
+    # the same way collect_x.py does. Without this a single 429 silently turned
+    # a normal day into "nothing new was published" (17 Aug).
+    data = None
+    for attempt in range(1, 4):
+        try:
+            data = json.loads(fetch(api, headers={"x-api-key": SUPADATA_KEY}))
+            break
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < 3:
+                wait = attempt * 20
+                log(f"  . rate limited, retrying in {wait}s")
+                time.sleep(wait)
+                continue
+            return None, f"api error: {e}"
+        except Exception as e:
+            return None, f"api error: {e}"
     if isinstance(data, dict) and data.get("content"):
         return data["content"], None
     err = (data or {}).get("error") if isinstance(data, dict) else None
@@ -122,7 +135,9 @@ def emit(title, url, published, source_kind):
     else:
         print(f"\n[NO TRANSCRIPT AVAILABLE — {err}]\n")
         log(f"  - no transcript ({err}): {title[:50]}")
-        return False
+        # "api error" means our pipeline broke; anything else means the video
+        # genuinely has no transcript. The agent must be able to tell these apart.
+        return "api-error" if (err or "").startswith("api error") else False
 
 
 def main():
@@ -135,24 +150,40 @@ def main():
 
     print(f"# YouTube raw material — collected {datetime.now(timezone.utc).isoformat()}")
     got = 0
+    api_failed = 0
 
     log(f"channels: {len(secs['channels'])}")
     for ch in secs["channels"]:
         log(f"channel {ch}")
         for vid, title, pub in channel_recent(ch):
             if within_window(pub):
-                if emit(title, f"https://www.youtube.com/watch?v={vid}", pub, "channel video (last %dh)" % WINDOW_HOURS):
+                r = emit(title, f"https://www.youtube.com/watch?v={vid}", pub, "channel video (last %dh)" % WINDOW_HOURS)
+                if r is True:
                     got += 1
+                elif r == "api-error":
+                    api_failed += 1
 
     log(f"one-time: {len(secs['onetime'])}")
     for link in secs["onetime"]:
         if "youtube.com" in link or "youtu.be" in link:
             log(f"one-time {link}")
-            if emit("one-time request", link, "n/a", "one-time YouTube request"):
+            r = emit("one-time request", link, "n/a", "one-time YouTube request")
+            if r is True:
                 got += 1
+            elif r == "api-error":
+                api_failed += 1
 
     print(f"\n<!-- collector done: {got} transcript(s) collected -->")
-    log(f"DONE: {got} transcript(s)")
+    if api_failed:
+        # Deliberately loud and unambiguous. "0 collected" on its own reads
+        # exactly like a quiet news day, which is how a broken API key got
+        # reported to the client as "nothing new was published" (17 Aug).
+        print(f"<!-- COLLECTION FAILURE: the transcript API failed on "
+              f"{api_failed} video(s) that were inside the window. This is a "
+              f"BROKEN PIPELINE, not a quiet day. Do NOT report this as "
+              f"'nothing new was published' - report the failure. -->")
+    log(f"DONE: {got} transcript(s)"
+        + (f", {api_failed} API FAILURE(S)" if api_failed else ""))
 
 
 if __name__ == "__main__":

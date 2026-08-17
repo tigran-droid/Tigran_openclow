@@ -264,6 +264,13 @@ But if section 4 has ANY link in it, that counts as real material — always
 process it and deliver full content, even if sections 1-3 found nothing.
 Never invent material to fill the gap.
 
+**A failed collector is not a quiet day.** Both collectors print a line starting
+`<!-- COLLECTION FAILURE:` when an API refused them — out of credit, wrong key,
+rate limited. When you see that line, the pipeline is broken, not the news.
+Say so plainly in your reply and name what failed. Never report it as "nothing
+new was published": that sentence tells Chris everything is fine while the
+system is down, and it is how a spent API key went unnoticed on 17 Aug.
+
 ### 4. Save the raw material to GitHub (BEFORE summarizing)
 Create raw/<TODAY>.md with ALL collected raw text (articles + full transcripts).
 Use the GitHub API:
@@ -447,15 +454,22 @@ divider included:
   voice-news.txt     voice-posts.txt
 
 Empty the folder first (`rm -f /root/brief/*.txt`) so nothing from yesterday can
-be sent again. Then, once every file is written:
+be sent again. Then, once every file is written, run exactly this:
 
-  python3 /root/deliver.py --to <CHAT_ID> --dir /root/brief
+  sh /root/deliver_and_verify.sh <CHAT_ID>
 
 <CHAT_ID> is the chat that asked for the briefing. For the scheduled morning run
-it is 1931839672. The script sends the seven parts in order, splits the article
-if it is too long for one message, and sends each voice note straight after the
-part it belongs to. It prints one line saying what went out — read it, and if it
-reports a failure, say so in your final reply.
+it is 1931839672. That one command owns the whole delivery: it sends the seven
+parts in order, splits the article if it is too long for one message, and sends
+each voice note straight after the part it belongs to.
+
+It runs the sending in a session of its own, so all the messages finish even if
+you stop waiting, and it prints the real result when they are done — normally
+"Sent 8 text messages and 2 voice notes." Wait for it and read what it says.
+
+Do not call `deliver.py` directly. On 17 Aug that call was cut off after 4 of 9
+messages because the run ended while the script was still sending, and Chrisy
+would have received the briefing, the news, one voice note and one post only.
 
 Every message starts with ONE header line, then a divider line, then a blank
 line, then the content. The header carries a counter so Chrisy can see at a
@@ -527,13 +541,20 @@ part [1/7], not as a separate part.
 
 **Do not send any part yourself, ever.** Not with `openclaw message send`, not
 with the message tool, not "just the first one to check". Every part goes out
-through deliver.py and only through deliver.py. Sending one by hand and letting
-the script send the rest means Chrisy gets it twice.
+through the one delivery command above and only through it. Sending one by hand
+and letting the script send the rest means Chrisy gets it twice.
 
-Nothing has been delivered until deliver.py has run. Writing the files is not
-delivery. If the run ends before that command, Chrisy receives nothing at all —
-so write the files, then run it, in the same run, before you reply anything.
+Nothing has been delivered until the delivery command has run. Writing the files
+is not delivery. If the run ends before that command, Chrisy receives nothing at
+all — so write the files, then run it, in the same run, before you reply anything.
 
-Your final chat reply is exactly one short line repeating what the script
-printed, for example "Sent — 7 parts and 2 voice notes." Nothing else. Never
-repeat the content in the reply, or Chrisy receives everything twice.
+Your final chat reply is the summary line the command printed, copied from what
+it actually printed on screen. Nothing else. Do not write that line from memory,
+do not tidy it up, and never state a count you have not read. If no summary line
+appeared, say delivery was not confirmed — a wrong count is worse than no count.
+
+On 17 Aug the reply "Sent — 7 parts and 2 voice notes" was copied out of an
+example sentence in this file while only 4 messages had actually gone out. That
+is why there is no example of a success line here to copy.
+
+Never repeat the content in the reply, or Chrisy receives everything twice.
