@@ -171,3 +171,12 @@ Anything listed here will not be collected again.
 - 2026-08-17 | https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/ | What happens when a kid’s robot best friend dies?
 - 2026-08-17 | https://x.com/emollick/status/2089351996016918825 | Ethan Mollick X post
 - 2026-08-17 | https://x.com/emollick/status/2089330959405535433 | Ethan Mollick X post
+- 2026-08-18 | https://www.youtube.com/watch?v=9ZKeu_7k9ik | Why AI Models Keep "Breaking Containment"
+- 2026-08-18 | https://www.youtube.com/watch?v=p6PHswkp9E8 | There is $10 trillion in AI data center capex that can't be built
+- 2026-08-18 | https://www.youtube.com/watch?v=KsQiMWnFmYw | What Just Happened?
+- 2026-08-18 | https://x.com/emollick/status/2089512978575950080 | @emollick — post
+- 2026-08-18 | https://x.com/emollick/status/2089488934082363397 | @emollick — post
+- 2026-08-18 | https://x.com/emollick/status/2089351996016918825 | @emollick — post
+- 2026-08-18 | https://x.com/emollick/status/2089334464232968679 | @emollick — post
+- 2026-08-18 | https://x.com/emollick/status/2089330959405535433 | @emollick — post
+- 2026-08-18 | https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/ | What Flock’s defenders are missing
