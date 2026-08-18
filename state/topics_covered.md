@@ -1,3 +1,9 @@
+- 2026-08-18 | independent AI audit rights | protected access and publication matter more than an independence label
+- 2026-08-18 | usable evidence for agent oversight | live detection and reconstructable records beat unreviewable log volume
+- 2026-08-18 | purpose-bound AI governance | verified exceptions time-limited access and narrow retention outperform policy fields
+- 2026-08-18 | AI assurance architecture | combine independent review permissions evidence and incident recovery
+- 2026-08-18 | independent AI audit test | assess access evidence selection publication and escalation rights
+- 2026-08-18 | agent log failure | design detection reconstruction and incident readiness before retention volume grows
 - 2026-08-17 | AI workflow continuity | portability recovery and ownership determine whether capability deserves scale
 - 2026-08-17 | reproducible AI analysis | preserve prompts alternatives and human revisions as evidence
 - 2026-08-17 | agent execution architecture follow-up | choose local temporary or persistent environments by access state and recovery
