@@ -1,3 +1,9 @@
+- 2026-08-19 | AI measurement blind spots | vendor and activity reports omit consequential real use
+- 2026-08-19 | execution versus open-ended judgment | automate research engineering while retaining accountable reframing
+- 2026-08-19 | agent operating clarity | context routing logs and acceptance matter more than agent count
+- 2026-08-19 | human ownership of the question | place experts at ambiguous framing rejection and acceptance boundaries
+- 2026-08-19 | privacy-safe workflow evidence | measure consequential events without surveilling every conversation
+- 2026-08-19 | expert work after cheap execution | redesign roles around taste backtracking and responsibility
 - 2026-08-18 | independent AI audit rights | protected access and publication matter more than an independence label
 - 2026-08-18 | usable evidence for agent oversight | live detection and reconstructable records beat unreviewable log volume
 - 2026-08-18 | purpose-bound AI governance | verified exceptions time-limited access and narrow retention outperform policy fields
