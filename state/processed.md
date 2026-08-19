@@ -180,3 +180,25 @@ Anything listed here will not be collected again.
 - 2026-08-18 | https://x.com/emollick/status/2089334464232968679 | @emollick — post
 - 2026-08-18 | https://x.com/emollick/status/2089330959405535433 | @emollick — post
 - 2026-08-18 | https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/ | What Flock’s defenders are missing
+
+- 2026-08-19 | https://www.youtube.com/watch?v=IeT5Jn7d1aM | Exclusive BTS of my Automated AI System (LIVE)
+- 2026-08-19 | https://www.youtube.com/watch?v=nAydWbI6Bi0 | Ep. 232: Claude Watermarking, AI’s Environmental Impact, &amp; OpenAI Talent Drama
+- 2026-08-19 | https://www.youtube.com/watch?v=TMPUUyQC5aM | A Week of Grok Bot Lessons in 10 Mins
+- 2026-08-19 | https://www.youtube.com/watch?v=lM3KWEmBdMg | Practice Any Hard Conversation Before It Matters
+- 2026-08-19 | https://www.youtube.com/watch?v=zpS6JGJNaGg | How to Sell Claude Workflows (Without Starting an Agency)
+- 2026-08-19 | https://www.youtube.com/watch?v=Zq8e3xX02u8 | How People Are Fixing AI's Problems
+- 2026-08-19 | https://www.youtube.com/watch?v=_q3yhihZKSg | Dario Amodei Breaks His Social Media Silence
+- 2026-08-19 | https://www.youtube.com/watch?v=Iyk0tWweXfg | What Do Humans Keep When AI Out-Thinks Us at Everything?
+- 2026-08-19 | https://www.youtube.com/watch?v=Slle5_AxBzs | China’s Endgame: ASI Timelines, US-China Relations, and the $1.7T AI Bubble With Alvin Graylin | 281
+- 2026-08-19 | https://www.youtube.com/watch?v=Yl1DeMQsobU | Conquerors Always Do the Same Four Things
+- 2026-08-19 | https://www.youtube.com/watch?v=3pARXYcWZ28 | Watching &amp; Learning from Agents with CEOs of Arthur &amp; Datacamp
+- 2026-08-19 | https://x.com/sama/status/2089787807611195475 | @sama — post
+- 2026-08-19 | https://x.com/emollick/status/2089914722464223706 | @emollick — post
+- 2026-08-19 | https://x.com/emollick/status/2089859591597142031 | @emollick — post
+- 2026-08-19 | https://x.com/emollick/status/2089819700033102273 | @emollick — post
+- 2026-08-19 | https://x.com/emollick/status/2089757546064077087 | @emollick — post
+- 2026-08-19 | https://x.com/emollick/status/2089685655534129663 | @emollick — post
+- 2026-08-19 | https://x.com/EugenioFierro3/status/2089721085151322376 | @EugenioFierro3 — post
+- 2026-08-19 | https://x.com/EugenioFierro3/status/2089696438062096405 | @EugenioFierro3 — post
+- 2026-08-19 | https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/ | We still don’t know how people are really using AI
+- 2026-08-19 | https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/ | AI’s recursive self-improvement might not come so quickly after all
