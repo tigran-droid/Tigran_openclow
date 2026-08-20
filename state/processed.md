@@ -202,3 +202,18 @@ Anything listed here will not be collected again.
 - 2026-08-19 | https://x.com/EugenioFierro3/status/2089696438062096405 | @EugenioFierro3 — post
 - 2026-08-19 | https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/ | We still don’t know how people are really using AI
 - 2026-08-19 | https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/ | AI’s recursive self-improvement might not come so quickly after all
+- 2026-08-20 | https://www.youtube.com/watch?v=r-ORCmsRHOE | Your New Backup Brain Is Here
+- 2026-08-20 | https://www.youtube.com/watch?v=f40AKMHebrY | The AI Engineering Skills Map for Knowledge Workers
+- 2026-08-20 | https://www.youtube.com/watch?v=gYjI7NkHiVs | "The Dead Internet Theory Is Now Reality"
+- 2026-08-20 | https://www.youtube.com/watch?v=o34tf5rCVSI | Are We Already at 70% Longevity Escape Velocity?
+- 2026-08-20 | https://www.youtube.com/watch?v=8KDQyUYkf9U | Elon's Next Move: A Flying Car in 6-12 Months?
+- 2026-08-20 | https://www.youtube.com/watch?v=iDQ-vSamQeU | AI for Emergency Response + OpenAI's Real-Time Voice Lead
+- 2026-08-20 | https://x.com/emollick/status/2090293321142874168 | @emollick — post
+- 2026-08-20 | https://x.com/emollick/status/2090271010452881713 | @emollick — post
+- 2026-08-20 | https://x.com/emollick/status/2090259024939798658 | @emollick — post
+- 2026-08-20 | https://x.com/emollick/status/2090083512653160832 | @emollick — post
+- 2026-08-20 | https://x.com/emollick/status/2090059088323375527 | @emollick — post
+- 2026-08-20 | https://x.com/EugenioFierro3/status/2090080648383934553 | @EugenioFierro3 — post
+- 2026-08-20 | https://x.com/EugenioFierro3/status/2090075581689782728 | @EugenioFierro3 — post
+- 2026-08-20 | https://x.com/EugenioFierro3/status/2090064630659887534 | @EugenioFierro3 — post
+- 2026-08-20 | https://openai.com/index/offering-zero-data-retention-for-frontier-models | Offering Zero Data Retention for frontier models
