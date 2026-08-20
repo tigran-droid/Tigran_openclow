@@ -1,3 +1,9 @@
+- 2026-08-20 | knowledge-worker AI curriculum | train capability mapping context prototyping and judgment instead of interfaces
+- 2026-08-20 | customer-grounded model evaluation | model savings count only when users still accept the work
+- 2026-08-20 | environment-native agent verification | require agents to see test and prove results where work is experienced
+- 2026-08-20 | complete AI operating loop | combine domain judgment context evaluation verification and ownership
+- 2026-08-20 | capability curriculum design | turn real workflows into training for durable AI operating skills
+- 2026-08-20 | evaluation blind-spot diagnosis | treat corrections rejections and informal complaints as model evidence
 - 2026-08-19 | AI measurement blind spots | vendor and activity reports omit consequential real use
 - 2026-08-19 | execution versus open-ended judgment | automate research engineering while retaining accountable reframing
 - 2026-08-19 | agent operating clarity | context routing logs and acceptance matter more than agent count
