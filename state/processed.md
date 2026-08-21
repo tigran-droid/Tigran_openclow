@@ -217,3 +217,17 @@ Anything listed here will not be collected again.
 - 2026-08-20 | https://x.com/EugenioFierro3/status/2090075581689782728 | @EugenioFierro3 — post
 - 2026-08-20 | https://x.com/EugenioFierro3/status/2090064630659887534 | @EugenioFierro3 — post
 - 2026-08-20 | https://openai.com/index/offering-zero-data-retention-for-frontier-models | Offering Zero Data Retention for frontier models
+- 2026-08-21 | https://www.youtube.com/watch?v=O-8TbMFOAfg | Claude’s Text Watermark Could Follow It Everywhere
+- 2026-08-21 | https://www.youtube.com/watch?v=rhv61m8n3Nc | This AI Cloned Me in 15 Seconds
+- 2026-08-21 | https://www.youtube.com/watch?v=tgjYMym_0-c | Sell These 5 Most In Demand AI Automations in 2026
+- 2026-08-21 | https://www.youtube.com/watch?v=efyXCQSu-bU | The AI Backlash Is Getting Stupider But Also Smarter
+- 2026-08-21 | https://www.youtube.com/watch?v=gxWljHM8vBo | &quot;The Most Profitable Actors in Hollywood Will Be Dead Ones&quot;
+- 2026-08-21 | https://www.youtube.com/watch?v=EjGa2e4rpew | &quot;Ideology In, Civilization Out&quot;
+- 2026-08-21 | https://www.youtube.com/watch?v=-vacqMHspWI | Power Is Cheap. GPUs Are the Bottleneck.
+- 2026-08-21 | https://www.youtube.com/watch?v=Vpa9WKjMIIk | &quot;I Told Google to Open Source Gemini Three Years Ago&quot;
+- 2026-08-21 | https://www.youtube.com/watch?v=FoVl_9m30HE | AI Accountants &amp; the End of the Kernel Era?
+- 2026-08-21 | https://x.com/emollick/status/2090683545068978254 | @emollick — post
+- 2026-08-21 | https://x.com/emollick/status/2090593783779860928 | @emollick — post
+- 2026-08-21 | https://x.com/emollick/status/2090584263196328113 | @emollick — post
+- 2026-08-21 | https://x.com/emollick/status/2090491832736072155 | @emollick — post
+- 2026-08-21 | https://x.com/emollick/status/2090489669234405546 | @emollick — post
