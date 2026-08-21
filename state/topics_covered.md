@@ -1,3 +1,9 @@
+- 2026-08-21 | boring automation portfolio | rank narrow workflows by buyer handoff and measurable accepted outcome
+- 2026-08-21 | AI interface operating model | map tasks permissions evidence and ownership across changing AI surfaces
+- 2026-08-21 | text watermark accountability follow-up | separate machine provenance from human authorship and approval
+- 2026-08-21 | practical AI automation portfolio | specialise in one process and measure the full operating loop
+- 2026-08-21 | boring automation scorecard | prioritise operational proof over theatrical demos
+- 2026-08-21 | AI task and permission map | keep task contracts portable across fragmented interfaces
 - 2026-08-20 | knowledge-worker AI curriculum | train capability mapping context prototyping and judgment instead of interfaces
 - 2026-08-20 | customer-grounded model evaluation | model savings count only when users still accept the work
 - 2026-08-20 | environment-native agent verification | require agents to see test and prove results where work is experienced
