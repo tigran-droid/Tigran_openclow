@@ -231,3 +231,28 @@ Anything listed here will not be collected again.
 - 2026-08-21 | https://x.com/emollick/status/2090584263196328113 | @emollick — post
 - 2026-08-21 | https://x.com/emollick/status/2090491832736072155 | @emollick — post
 - 2026-08-21 | https://x.com/emollick/status/2090489669234405546 | @emollick — post
+
+- 2026-08-22 | https://www.youtube.com/watch?v=1m5Ee9QbLF0 | This Pyramid Could Be Your Next Intern
+- 2026-08-22 | https://www.youtube.com/watch?v=EfGF7QbJItA | AI News: OpenAI Pauses, AI Cancer Vaccine, and Qwen3.8
+- 2026-08-22 | https://www.youtube.com/watch?v=_kK_4cOYF4o | This Stealth Model Makes Claude Code Free. Here's How.
+- 2026-08-22 | https://www.youtube.com/watch?v=yCACmFTiCto | Turn Claude Into a One Person Marketing Team in 38 Mins
+- 2026-08-22 | https://www.youtube.com/watch?v=946SQc5D5RE | How to Make AI Writing Suck Less
+- 2026-08-22 | https://www.youtube.com/watch?v=o5PzgHXXjjQ | 9 AI Techniques You Probably Haven't Tried
+- 2026-08-22 | https://www.youtube.com/watch?v=g44AcSXSatM | &quot;He Fired Everyone&quot;: Elon's Brutal Grok Reset
+- 2026-08-22 | https://www.youtube.com/watch?v=pOO4cugUnqM | The Jeff Bezos Rule That's About to Break the Internet
+- 2026-08-22 | https://www.youtube.com/watch?v=TaJH0D2FKN8 | OpenAI Pauses Frontier Training, Elon's 100X Prediction Lands, Robot Beats Usain Bolt | EP#282
+- 2026-08-22 | https://www.youtube.com/watch?v=x1SL9pyYKGs | The AI sector is now worth more than America's entire GDP
+- 2026-08-22 | https://www.youtube.com/watch?v=AlP3Y44qZuU | $1 Billion for a Reactor That Doesn't Exist Yet
+- 2026-08-22 | https://www.youtube.com/watch?v=tfCsLkFA8iA | Google Has &quot;Big Company Smell&quot;
+- 2026-08-22 | https://x.com/emollick/status/2091001394534707474 | @emollick — post
+- 2026-08-22 | https://x.com/emollick/status/2090926132790985153 | @emollick — post
+- 2026-08-22 | https://x.com/emollick/status/2090867191511986622 | @emollick — post
+- 2026-08-22 | https://x.com/emollick/status/2090683545068978254 | @emollick — post
+- 2026-08-22 | https://x.com/EugenioFierro3/status/2090949414919549315 | @EugenioFierro3 — post
+- 2026-08-22 | https://x.com/EugenioFierro3/status/2090944982509138227 | @EugenioFierro3 — post
+- 2026-08-22 | https://x.com/EugenioFierro3/status/2090787757312336215 | @EugenioFierro3 — post
+- 2026-08-22 | https://x.com/EugenioFierro3/status/2090779831684190661 | @EugenioFierro3 — post
+- 2026-08-22 | https://x.com/EugenioFierro3/status/2090772975335157917 | @EugenioFierro3 — post
+- 2026-08-22 | https://x.com/EugenioFierro3/status/2090769574899728429 | @EugenioFierro3 — post
+- 2026-08-22 | https://x.com/EugenioFierro3/status/2090766209415262599 | @EugenioFierro3 — post
+- 2026-08-22 | https://x.com/EugenioFierro3/status/2090763219904159949 | @EugenioFierro3 — post
