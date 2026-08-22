@@ -1,3 +1,9 @@
+- 2026-08-22 | invisible personal AI adoption | separate public sentiment from actual workflow dependence
+- 2026-08-22 | task-level local model choice | choose models by privacy economics review and accepted outcomes
+- 2026-08-22 | capability through controlled outputs | expose narrow artifacts evidence and human acceptance instead of raw power
+- 2026-08-22 | intelligence abundance operating gap | advantage moves to context permissions evidence evaluation and ownership
+- 2026-08-22 | hidden AI adoption map | map trust official usage and real dependency separately
+- 2026-08-22 | raw model access is not a product | productise frontier capability through narrow reviewable workflows
 - 2026-08-21 | boring automation portfolio | rank narrow workflows by buyer handoff and measurable accepted outcome
 - 2026-08-21 | AI interface operating model | map tasks permissions evidence and ownership across changing AI surfaces
 - 2026-08-21 | text watermark accountability follow-up | separate machine provenance from human authorship and approval
