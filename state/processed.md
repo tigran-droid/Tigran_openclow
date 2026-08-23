@@ -256,3 +256,10 @@ Anything listed here will not be collected again.
 - 2026-08-22 | https://x.com/EugenioFierro3/status/2090769574899728429 | @EugenioFierro3 — post
 - 2026-08-22 | https://x.com/EugenioFierro3/status/2090766209415262599 | @EugenioFierro3 — post
 - 2026-08-22 | https://x.com/EugenioFierro3/status/2090763219904159949 | @EugenioFierro3 — post
+
+- 2026-08-23 | https://www.youtube.com/watch?v=QUI6Ug4cHnE | I Built The Ultimate Claude Website Design Skill (steal this)
+- 2026-08-23 | https://www.youtube.com/watch?v=-t4RC5JmnTk | Why Everyone Suddenly Hates AI Data Centers
+- 2026-08-23 | https://www.youtube.com/watch?v=DUt08z6OyV4 | We Attack Ourselves Every Night for Three Hours
+- 2026-08-23 | https://x.com/emollick/status/2091364843831906416 | Consumer AI for hard-to-navigate systems
+- 2026-08-23 | https://x.com/emollick/status/2091207070951395337 | Agents completing low-risk forms
+- 2026-08-23 | https://x.com/emollick/status/2091182096605696341 | Personalized explanations over ELI5
