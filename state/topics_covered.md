@@ -1,3 +1,9 @@
+- 2026-08-23 | reusable expert skills | encode the decision process and keep humans at acceptance
+- 2026-08-23 | continuous adversarial assurance | pair compliance evidence with nightly live-system testing
+- 2026-08-23 | infrastructure consent follow-up | turn legitimacy into enforceable costs rules and local agency
+- 2026-08-23 | continuous proof for AI systems | require reusable judgment live tests personal context and consent
+- 2026-08-23 | skill as durable company asset | distinguish repeatable expert method from depreciating output
+- 2026-08-23 | governance at operating speed | retest whenever code models data or permissions change
 - 2026-08-22 | invisible personal AI adoption | separate public sentiment from actual workflow dependence
 - 2026-08-22 | task-level local model choice | choose models by privacy economics review and accepted outcomes
 - 2026-08-22 | capability through controlled outputs | expose narrow artifacts evidence and human acceptance instead of raw power
