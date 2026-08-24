@@ -1,3 +1,9 @@
+- 2026-08-24 | workflow invention beyond efficiency | use automation as the entry point then redesign work around new capability
+- 2026-08-24 | harness-level procurement | compare completion speed quality reliability and review rather than model names
+- 2026-08-24 | organisational clock speed | let machines maintain live status and reserve human meetings for judgment
+- 2026-08-24 | AI transformation after efficiency | redesign handoffs context and accountability after the first saved hour
+- 2026-08-24 | machine customers | prepare products and pricing for rational agent buyers and headless use
+- 2026-08-24 | asymmetric ageing of AI research | treat negative capability claims from old models as perishable evidence
 - 2026-08-23 | reusable expert skills | encode the decision process and keep humans at acceptance
 - 2026-08-23 | continuous adversarial assurance | pair compliance evidence with nightly live-system testing
 - 2026-08-23 | infrastructure consent follow-up | turn legitimacy into enforceable costs rules and local agency
