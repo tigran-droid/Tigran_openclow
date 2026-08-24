@@ -263,3 +263,11 @@ Anything listed here will not be collected again.
 - 2026-08-23 | https://x.com/emollick/status/2091364843831906416 | Consumer AI for hard-to-navigate systems
 - 2026-08-23 | https://x.com/emollick/status/2091207070951395337 | Agents completing low-risk forms
 - 2026-08-23 | https://x.com/emollick/status/2091182096605696341 | Personalized explanations over ELI5
+- 2026-08-24 | https://www.youtube.com/watch?v=UsfCe5fJK6A | 100 Hours Testing Deepseek Harness vs. Claude Code. What You Need to Know.
+- 2026-08-24 | https://www.youtube.com/watch?v=m8x-gYMYFCg | The Future of AI and Work
+- 2026-08-24 | https://www.youtube.com/watch?v=oJCIGr8ctq8 | Ship of Theseus: How the Transformer Actually Gets Replaced
+- 2026-08-24 | https://www.youtube.com/watch?v=aGdAgUo_BgY | Compute Is the New Oil — Literally
+- 2026-08-24 | https://www.youtube.com/watch?v=xMTMJEYOQac | A Fusion Reactor Small Enough to Fit in a Backpack
+- 2026-08-24 | https://x.com/emollick/status/2091734781935456365 | @emollick — mathematics capability reaction
+- 2026-08-24 | https://x.com/emollick/status/2091720399406923882 | @emollick — AI replies flatten niche conversation
+- 2026-08-24 | https://x.com/emollick/status/2091562657623265727 | @emollick — how older-model research claims age
