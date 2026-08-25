@@ -271,3 +271,18 @@ Anything listed here will not be collected again.
 - 2026-08-24 | https://x.com/emollick/status/2091734781935456365 | @emollick — mathematics capability reaction
 - 2026-08-24 | https://x.com/emollick/status/2091720399406923882 | @emollick — AI replies flatten niche conversation
 - 2026-08-24 | https://x.com/emollick/status/2091562657623265727 | @emollick — how older-model research claims age
+
+- 2026-08-25 | https://www.youtube.com/watch?v=ZY628bslSYY | This AI Creates Insane 3D Worlds
+- 2026-08-25 | https://www.youtube.com/watch?v=ZzHsJW10iq4 | Everything Goldman Sachs Taught Me About AI (In 10 minutes)
+- 2026-08-25 | https://www.youtube.com/watch?v=UMDxpXGGdMs | No AI Won't Take All Our Jobs. Here's What WILL Happen.
+- 2026-08-25 | https://www.youtube.com/watch?v=p7gccD5bSlo | OpenAI just voluntarily paused some of its frontier AI training
+- 2026-08-25 | https://www.youtube.com/watch?v=6fi8jUXKeSY | Cloud AI @Arm &amp; a View from China
+- 2026-08-25 | https://x.com/emollick/status/2091995606516441405 | @emollick — post
+- 2026-08-25 | https://x.com/emollick/status/2091973930810548261 | @emollick — post
+- 2026-08-25 | https://x.com/emollick/status/2091965473558552732 | @emollick — post
+- 2026-08-25 | https://x.com/emollick/status/2091947166545674368 | @emollick — post
+- 2026-08-25 | https://x.com/emollick/status/2091893964311855222 | @emollick — post
+- 2026-08-25 | https://x.com/EugenioFierro3/status/2091902713726414868 | @EugenioFierro3 — post
+- 2026-08-25 | https://x.com/EugenioFierro3/status/2091895203149832688 | @EugenioFierro3 — post
+- 2026-08-25 | https://x.com/EugenioFierro3/status/2091840709376483834 | @EugenioFierro3 — post
+- 2026-08-25 | https://openai.com/index/gpt-5-6-in-kiro/ | Advancing price-performance for developers with GPT-5.6 in Kiro
