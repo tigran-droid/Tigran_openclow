@@ -1,3 +1,9 @@
+- 2026-08-25 | deterministic and probabilistic workflow boundary | keep known facts in code and use AI at the interpretive edge
+- 2026-08-25 | irregular-task agent adoption | begin with draining exceptions that AI can prepare for human decision
+- 2026-08-25 | structured context economics | measure accepted work after requirements tests retries and review
+- 2026-08-25 | three-layer AI operating model | separate fixed rules interpretation and consequential ownership
+- 2026-08-25 | exception queue discovery | find AI opportunities in postponed messy work rather than repetition alone
+- 2026-08-25 | consequence-matched agent approval | increase checkpoints with audience money records and irreversibility
 - 2026-08-24 | workflow invention beyond efficiency | use automation as the entry point then redesign work around new capability
 - 2026-08-24 | harness-level procurement | compare completion speed quality reliability and review rather than model names
 - 2026-08-24 | organisational clock speed | let machines maintain live status and reserve human meetings for judgment
