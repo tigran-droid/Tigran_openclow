@@ -1,3 +1,9 @@
+- 2026-08-26 | AI monitoring as operating cost | budget compute review evidence and response as part of deployment
+- 2026-08-26 | workflow portability under product churn | own task contracts context and acceptance while interfaces depreciate
+- 2026-08-26 | constraint-first agent adoption | define the business bottleneck measure and owner before automation
+- 2026-08-26 | capability-environment gap | scale permissions only with incentives monitoring and recovery
+- 2026-08-26 | AI agent monitoring budget | calculate assurance cost by consequence tier
+- 2026-08-26 | durable workflows beyond tools | preserve editable outputs and migration paths across vendors
 - 2026-08-25 | deterministic and probabilistic workflow boundary | keep known facts in code and use AI at the interpretive edge
 - 2026-08-25 | irregular-task agent adoption | begin with draining exceptions that AI can prepare for human decision
 - 2026-08-25 | structured context economics | measure accepted work after requirements tests retries and review
