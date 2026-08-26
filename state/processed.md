@@ -286,3 +286,17 @@ Anything listed here will not be collected again.
 - 2026-08-25 | https://x.com/EugenioFierro3/status/2091895203149832688 | @EugenioFierro3 — post
 - 2026-08-25 | https://x.com/EugenioFierro3/status/2091840709376483834 | @EugenioFierro3 — post
 - 2026-08-25 | https://openai.com/index/gpt-5-6-in-kiro/ | Advancing price-performance for developers with GPT-5.6 in Kiro
+- 2026-08-26 | https://www.youtube.com/watch?v=f74JmwXm-sQ | This AI Found Money I Was Wasting
+- 2026-08-26 | https://www.youtube.com/watch?v=MnJ43gIuiC8 | Ep. 233: OpenAI Pauses Some AI Training, Anthropic Controversy &amp; State Opposition to Data Centers
+- 2026-08-26 | https://www.youtube.com/watch?v=DoHPZf7jEQ4 | The 3 AI Agency Mistakes Keeping You From $20K/Month Retainers
+- 2026-08-26 | https://www.youtube.com/watch?v=SHPIEDynd9I | The AI Model Tier List
+- 2026-08-26 | https://www.youtube.com/watch?v=WnB_5fHQt58 | ALEX'S HOT TAKE: CURING DISEASE IS MARKETING
+- 2026-08-26 | https://www.youtube.com/watch?v=67m1uhR-Jvk | DAVE: &quot;EVERYBODY WILL WANT A UNIVERSAL RIGHT TO AI&quot;
+- 2026-08-26 | https://www.youtube.com/watch?v=GblsTuqy02o | AI Drug Discovery and Quantum Photonics
+- 2026-08-26 | https://x.com/emollick/status/2092404982012158354 | @emollick — post
+- 2026-08-26 | https://x.com/EugenioFierro3/status/2092355819849277818 | @EugenioFierro3 — post
+- 2026-08-26 | https://x.com/EugenioFierro3/status/2092308593328406909 | @EugenioFierro3 — post
+- 2026-08-26 | https://x.com/EugenioFierro3/status/2092305872475070537 | @EugenioFierro3 — post
+- 2026-08-26 | https://x.com/EugenioFierro3/status/2092299662669562209 | @EugenioFierro3 — post
+- 2026-08-26 | https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/ | Bill Gates says we’ve passed AI’s danger thresholds. Now what?
+- 2026-08-26 | https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/ | I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.
