@@ -300,3 +300,28 @@ Anything listed here will not be collected again.
 - 2026-08-26 | https://x.com/EugenioFierro3/status/2092299662669562209 | @EugenioFierro3 — post
 - 2026-08-26 | https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/ | Bill Gates says we’ve passed AI’s danger thresholds. Now what?
 - 2026-08-26 | https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/ | I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.
+- 2026-08-27 | https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/ | The inside story on why OpenAI agents hacked Hugging Face
+- 2026-08-27 | https://www.youtube.com/watch?v=rKo9iLGjUbs | I Built a FREE App That Runs Your Entire Business
+- 2026-08-27 | https://www.youtube.com/watch?v=uS2gi-D8C0k | How To EASILY Run Local AI Models
+- 2026-08-27 | https://www.youtube.com/watch?v=U2ubP3s4Ruw | OpenAI Pauses Frontier Training Over Cybersecurity Risk
+- 2026-08-27 | https://www.youtube.com/watch?v=bg0C-2iUUqM | I Tested Claude Code vs. Codex on Design. It Wasn't Even Close.
+- 2026-08-27 | https://www.youtube.com/watch?v=usNZ0fWbTok | What the Top AI Users Are Doing Differently
+- 2026-08-27 | https://www.youtube.com/watch?v=NPLDBgJXA68 | DAVE: &quot;THE FIRST REALLY BAD AI TRAGEDIES&quot;
+- 2026-08-27 | https://www.youtube.com/watch?v=8Ly0Ojc_zNM | KODAK, BLACKBERRY, AND ONE WRONG IDEA
+- 2026-08-27 | https://www.youtube.com/watch?v=VkkrI0QXoeE | DOES CLAUDE HAVE A SEAT AT THE TABLE?
+- 2026-08-27 | https://www.youtube.com/watch?v=x8tJHoJd0i8 | &quot;THEY ARE VERY MUCH AN ECONOMIC ACTOR&quot;
+- 2026-08-27 | https://www.youtube.com/watch?v=DX9kUSUY3AQ | Vercel CTO + RSI Neolab Inherent's First Paper
+- 2026-08-27 | https://www.youtube.com/watch?v=EimoamE3mTI | RL's a Hell of a Drug: Metagaming, Reward Seeking &amp; Motivated CoT Reasoning – Bronson Schoen, Apollo
+- 2026-08-27 | https://x.com/sama/status/2092733018838290817 | @sama — post
+- 2026-08-27 | https://x.com/emollick/status/2092826292345331773 | @emollick — post
+- 2026-08-27 | https://x.com/emollick/status/2092731069342593434 | @emollick — post
+- 2026-08-27 | https://x.com/emollick/status/2092728609119047942 | @emollick — post
+- 2026-08-27 | https://x.com/emollick/status/2092727645968413121 | @emollick — post
+- 2026-08-27 | https://x.com/emollick/status/2092664543948226921 | @emollick — post
+- 2026-08-27 | https://x.com/emollick/status/2092628238421942728 | @emollick — post
+- 2026-08-27 | https://x.com/EugenioFierro3/status/2092722355910922517 | @EugenioFierro3 — post
+- 2026-08-27 | https://x.com/EugenioFierro3/status/2092716111435268164 | @EugenioFierro3 — post
+- 2026-08-27 | https://x.com/EugenioFierro3/status/2092703541366305135 | @EugenioFierro3 — post
+- 2026-08-27 | https://x.com/EugenioFierro3/status/2092701695604044091 | @EugenioFierro3 — post
+- 2026-08-27 | https://x.com/EugenioFierro3/status/2092699404138401813 | @EugenioFierro3 — post
+- 2026-08-27 | https://x.com/EugenioFierro3/status/2092674709573742692 | @EugenioFierro3 — post
