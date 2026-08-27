@@ -1,3 +1,9 @@
+- 2026-08-27 | agent stop conditions | persistence needs explicit escalation and interruption
+- 2026-08-27 | delegation divide | advanced AI use changes the unit of work rather than the prompt
+- 2026-08-27 | operating redesign speed | productivity delay is a management choice not a law of technology
+- 2026-08-27 | agent control problem | autonomy must be legible interruptible and accountable
+- 2026-08-27 | agent stop-condition playbook | define success boundaries escalation and recovery by consequence
+- 2026-08-27 | delegation training | teach outcomes context permissions evidence review and ownership
 - 2026-08-26 | AI monitoring as operating cost | budget compute review evidence and response as part of deployment
 - 2026-08-26 | workflow portability under product churn | own task contracts context and acceptance while interfaces depreciate
 - 2026-08-26 | constraint-first agent adoption | define the business bottleneck measure and owner before automation
