@@ -325,3 +325,22 @@ Anything listed here will not be collected again.
 - 2026-08-27 | https://x.com/EugenioFierro3/status/2092701695604044091 | @EugenioFierro3 — post
 - 2026-08-27 | https://x.com/EugenioFierro3/status/2092699404138401813 | @EugenioFierro3 — post
 - 2026-08-27 | https://x.com/EugenioFierro3/status/2092674709573742692 | @EugenioFierro3 — post
+- 2026-08-28 | https://www.youtube.com/watch?v=Z93MPi8ZO3A | This Company Will Buy Your AI Training Data
+- 2026-08-28 | https://www.youtube.com/watch?v=QCBKRp1jEMA | Ep. 234: How HubSpot Is Reimagining the Entire Customer Journey With AI Agents
+- 2026-08-28 | https://www.youtube.com/watch?v=gQef3d3erOs | Set Up a Personal Hermes in 14 Mins (no VPS or mac mini)
+- 2026-08-28 | https://www.youtube.com/watch?v=DLkLmcsvtow | How Governments Already Stop People From Buying Uranium
+- 2026-08-28 | https://www.youtube.com/watch?v=ASDOdh-BtOE | &quot;Should Idiots Have Superintelligence?&quot;
+- 2026-08-28 | https://www.youtube.com/watch?v=0mOXQ4_kY04 | Sam Altman: Singularity Slow-Down, Emad Runs 18 Grokbots, Waymo Slashes Hardware 83% | EP #283
+- 2026-08-28 | https://www.youtube.com/watch?v=tVqM3f9Izro | WHAT ARE AI MIND VIRUSES?
+- 2026-08-28 | https://www.youtube.com/watch?v=Ay2G6qj86xo | DAVE'S $50,000 MISTAKE
+- 2026-08-28 | https://x.com/sama/status/2093060670472241368 | @sama — post
+- 2026-08-28 | https://x.com/emollick/status/2093082102312923351 | @emollick — post
+- 2026-08-28 | https://x.com/emollick/status/2093060075870925311 | @emollick — post
+- 2026-08-28 | https://x.com/emollick/status/2093045682785378666 | @emollick — post
+- 2026-08-28 | https://x.com/emollick/status/2092994716954394999 | @emollick — post
+- 2026-08-28 | https://x.com/emollick/status/2092967957647216804 | @emollick — post
+- 2026-08-28 | https://x.com/EugenioFierro3/status/2093030295771431155 | @EugenioFierro3 — post
+- 2026-08-28 | https://x.com/EugenioFierro3/status/2093024823005847602 | @EugenioFierro3 — post
+- 2026-08-28 | https://x.com/EugenioFierro3/status/2093018562600296677 | @EugenioFierro3 — post
+- 2026-08-28 | https://x.com/EugenioFierro3/status/2093016335160668526 | @EugenioFierro3 — post
+- 2026-08-28 | https://x.com/EugenioFierro3/status/2093014145352253815 | @EugenioFierro3 — post
