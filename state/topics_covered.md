@@ -1,3 +1,9 @@
+- 2026-08-28 | institutional AI productivity | redesign customer journeys around constraints measures and ownership
+- 2026-08-28 | automation versus augmentation | distinguish removing work from improving human judgment
+- 2026-08-28 | unstable machine customers | test agent decisions across information order models and memory
+- 2026-08-28 | constraint-led AI transformation | start with a measurable bottleneck before selecting an agent
+- 2026-08-28 | agent monoculture risk | use independent checks stop conditions and reversible execution
+- 2026-08-28 | machine customer testing | measure decision stability rather than assume agent rationality
 - 2026-08-27 | agent stop conditions | persistence needs explicit escalation and interruption
 - 2026-08-27 | delegation divide | advanced AI use changes the unit of work rather than the prompt
 - 2026-08-27 | operating redesign speed | productivity delay is a management choice not a law of technology
