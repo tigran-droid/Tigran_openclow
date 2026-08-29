@@ -1,3 +1,9 @@
+- 2026-08-29 | AI-assisted authorship | define authorship through judgment evidence approval and responsibility
+- 2026-08-29 | generated software ownership | distinguish cheap prototypes from long-term operating obligations
+- 2026-08-29 | open-model governance burden | move assurance controls closer to every operator
+- 2026-08-29 | responsibility after abundant production | design ownership before scaling AI capability
+- 2026-08-29 | AI authorship accountability test | audit who formed checked approved and owns a claim
+- 2026-08-29 | build-versus-buy after code generation | compare total ownership rather than visible feature cost
 - 2026-08-28 | institutional AI productivity | redesign customer journeys around constraints measures and ownership
 - 2026-08-28 | automation versus augmentation | distinguish removing work from improving human judgment
 - 2026-08-28 | unstable machine customers | test agent decisions across information order models and memory
