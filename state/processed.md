@@ -344,3 +344,20 @@ Anything listed here will not be collected again.
 - 2026-08-28 | https://x.com/EugenioFierro3/status/2093018562600296677 | @EugenioFierro3 — post
 - 2026-08-28 | https://x.com/EugenioFierro3/status/2093016335160668526 | @EugenioFierro3 — post
 - 2026-08-28 | https://x.com/EugenioFierro3/status/2093014145352253815 | @EugenioFierro3 — post
+- 2026-08-29 | https://www.youtube.com/watch?v=2_UcYzbYnAI | This Robot Is Faster Than Usain Bolt?!
+- 2026-08-29 | https://www.youtube.com/watch?v=TInwQglNkzo | AI News: OpenAI Made a Massive Move Against NVIDIA
+- 2026-08-29 | https://www.youtube.com/watch?v=hETm5oWyiAo | Anthropic's IPO and the Public Fight Over What Dario Believes
+- 2026-08-29 | https://www.youtube.com/watch?v=PYjbeY8sGLs | I Cloned Calendly and Now It’s Free Forever
+- 2026-08-29 | https://www.youtube.com/watch?v=L3zN4nvV2rs | 5 Rules for AI Writing
+- 2026-08-29 | https://www.youtube.com/watch?v=I_NeKjoOUDw | We're Building a Digital Twin for Civilization
+- 2026-08-29 | https://www.youtube.com/watch?v=nRdlfiJqPmM | Is the Hyperscaler Just a Financing System?
+- 2026-08-29 | https://www.youtube.com/watch?v=yYD2JYRZMwA | Why Would Anyone Lock In a 6-Year-Old GPU Until 2029?
+- 2026-08-29 | https://www.youtube.com/watch?v=8yqsP6Ysny4 | An Open-Source Model Just Matched a Closed Frontier Lab on Cyberattacks
+- 2026-08-29 | https://www.youtube.com/watch?v=OQL6UitpI-Y | AI:AM Highlights: Recursive Self-Improvement, Rushed and Vibe-Coded?
+- 2026-08-29 | https://x.com/emollick/status/2093530834124800046 | @emollick — AI Overviews and Wikipedia
+- 2026-08-29 | https://x.com/emollick/status/2093399712208494741 | @emollick — open-model risk evidence
+- 2026-08-29 | https://x.com/emollick/status/2093362761925284279 | @emollick — creativity boom
+- 2026-08-29 | https://x.com/EugenioFierro3/status/2093355695940731374 | @EugenioFierro3 — Gemini Live agentic upgrades
+- 2026-08-29 | https://x.com/EugenioFierro3/status/2093353539221217397 | @EugenioFierro3 — Photoshop Markup
+- 2026-08-29 | https://x.com/EugenioFierro3/status/2093349988495397360 | @EugenioFierro3 — synthetic performer complaints
+- 2026-08-29 | https://x.com/EugenioFierro3/status/2093345842925060172 | @EugenioFierro3 — Meta XR Operator
