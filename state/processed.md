@@ -361,3 +361,13 @@ Anything listed here will not be collected again.
 - 2026-08-29 | https://x.com/EugenioFierro3/status/2093353539221217397 | @EugenioFierro3 — Photoshop Markup
 - 2026-08-29 | https://x.com/EugenioFierro3/status/2093349988495397360 | @EugenioFierro3 — synthetic performer complaints
 - 2026-08-29 | https://x.com/EugenioFierro3/status/2093345842925060172 | @EugenioFierro3 — Meta XR Operator
+- 2026-08-30 | https://www.youtube.com/watch?v=CJ8kgbXtaEo | Pennsylvania Signs the Strictest Data Center Rules in the Country
+- 2026-08-30 | https://www.youtube.com/watch?v=iYqlJlQ5gSc | How We Deal with Rogue AI
+- 2026-08-30 | https://www.youtube.com/watch?v=u9WFlQSp_Fc | Governments Are Bracing for AI &quot;Swarm Attacks&quot;
+- 2026-08-30 | https://www.youtube.com/watch?v=a350Bx_Rbms | If We're in a Simulation, Do This
+- 2026-08-30 | https://www.youtube.com/watch?v=tfBEWh9ibfU | NVIDIA's $96.2B Quarter, China's 200,000 Fake Accounts, &amp; OpenAI's New Chip | EP #284
+- 2026-08-30 | https://www.youtube.com/watch?v=iJEPJ4hCibU | &quot;Everything Is Cooked&quot;: A PhD's Take on Studying Biology
+- 2026-08-30 | https://www.youtube.com/watch?v=0c37cadPAak | &quot;We Don't Use Google Search Anymore&quot;
+- 2026-08-30 | https://x.com/emollick/status/2093823173619769806 | @emollick — post
+- 2026-08-30 | https://x.com/emollick/status/2093819069552021740 | @emollick — post
+- 2026-08-30 | https://x.com/emollick/status/2093747487433478296 | @emollick — post
