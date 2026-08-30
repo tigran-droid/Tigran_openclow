@@ -1,3 +1,9 @@
+- 2026-08-30 | authority semantics in agent systems | conversational language cannot grant technical permission
+- 2026-08-30 | infrastructure consent follow-up | Pennsylvania turns community legitimacy into a permit condition
+- 2026-08-30 | training and inference market split | custom chips make workflow architecture a strategic choice
+- 2026-08-30 | enforceable agent authority | verified identity and scoped permissions must sit outside model conversation
+- 2026-08-30 | production agent authority maps | classify read change send and delegation powers before deployment
+- 2026-08-30 | full-stack AI workflow benchmarking | measure model hardware latency energy review and accepted outcomes together
 - 2026-08-29 | AI-assisted authorship | define authorship through judgment evidence approval and responsibility
 - 2026-08-29 | generated software ownership | distinguish cheap prototypes from long-term operating obligations
 - 2026-08-29 | open-model governance burden | move assurance controls closer to every operator
