@@ -1,3 +1,9 @@
+- 2026-08-31 | proactive human escalation follow-up | agents need enforceable routes to ask before goals outrun judgment
+- 2026-08-31 | preserving judgment in automated work | keep expertise diversity and interesting decisions human
+- 2026-08-31 | specialist agent organisation follow-up | hierarchy needs ownership evidence permissions and escalation
+- 2026-08-31 | Twilight Factory operating model | automate routine execution while designing human involvement
+- 2026-08-31 | human escalation map | route approval expertise variation and consequential choices explicitly
+- 2026-08-31 | governed agent organisation | task contracts and visible handoffs prevent automated dysfunction
 - 2026-08-30 | authority semantics in agent systems | conversational language cannot grant technical permission
 - 2026-08-30 | infrastructure consent follow-up | Pennsylvania turns community legitimacy into a permit condition
 - 2026-08-30 | training and inference market split | custom chips make workflow architecture a strategic choice
