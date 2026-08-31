@@ -371,3 +371,10 @@ Anything listed here will not be collected again.
 - 2026-08-30 | https://x.com/emollick/status/2093823173619769806 | @emollick — post
 - 2026-08-30 | https://x.com/emollick/status/2093819069552021740 | @emollick — post
 - 2026-08-30 | https://x.com/emollick/status/2093747487433478296 | @emollick — post
+- 2026-08-31 | https://www.oneusefulthing.org/p/agency-and-agents | Agency and Agents
+- 2026-08-31 | https://www.youtube.com/watch?v=4hKJ9X6rGFo | Build & Sell Grok Bots (2 Hour Course)
+- 2026-08-31 | https://x.com/emollick/status/2094302639072715023 | Why rule-based AI morality fails
+- 2026-08-31 | https://x.com/emollick/status/2094291157098356880 | AI labs need better mode documentation
+- 2026-08-31 | https://x.com/emollick/status/2094289571521466555 | Corrections to Hugging Face incident reporting
+- 2026-08-31 | https://x.com/emollick/status/2094252462114750834 | Cybersecurity concern after Hugging Face incident
+- 2026-08-31 | https://x.com/emollick/status/2094220429405647016 | Agents need to reach out to humans
