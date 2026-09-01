@@ -378,3 +378,13 @@ Anything listed here will not be collected again.
 - 2026-08-31 | https://x.com/emollick/status/2094289571521466555 | Corrections to Hugging Face incident reporting
 - 2026-08-31 | https://x.com/emollick/status/2094252462114750834 | Cybersecurity concern after Hugging Face incident
 - 2026-08-31 | https://x.com/emollick/status/2094220429405647016 | Agents need to reach out to humans
+- 2026-09-01 | https://www.youtube.com/watch?v=NyfYxpXiw_0 | Every Grok Bot Concept Explained for Normal People
+- 2026-09-01 | https://www.youtube.com/watch?v=oOypWmORZRk | Where to Start AI Coding if You Are Not Yet
+- 2026-09-01 | https://www.youtube.com/watch?v=-QwEuAFDMSc | OpenFace post-mortem and What Is Left for Startups
+- 2026-09-01 | https://x.com/emollick/status/2094529228033175743 | Universal jailbreak prompt injections
+- 2026-09-01 | https://x.com/emollick/status/2094512309087445243 | Fourteen-stage AI CAPTCHA
+- 2026-09-01 | https://x.com/emollick/status/2094492868358344940 | The first golden age of AI writing is over
+- 2026-09-01 | https://x.com/emollick/status/2094474505250832599 | Political ideas around AI capabilities
+- 2026-09-01 | https://x.com/EugenioFierro3/status/2094486930553507865 | Nvidia and Hugging Face acquisition rumour
+- 2026-09-01 | https://x.com/EugenioFierro3/status/2094482977396810104 | Instagram synthetic profile labels
+- 2026-09-01 | https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/ | The Hugging Face hack could indicate cultural issues at OpenAI
