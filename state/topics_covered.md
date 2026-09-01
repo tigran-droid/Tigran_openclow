@@ -1,3 +1,9 @@
+- 2026-09-01 | escalation culture in agent incidents | controls work only when people can stop inconvenient work
+- 2026-09-01 | domain experts building software | capability means recognising and building software-shaped solutions
+- 2026-09-01 | AI writing after fluency abundance | evidence ownership and point of view become the differentiators
+- 2026-09-01 | capability and operating discipline | scale building and governance together
+- 2026-09-01 | agent stop-work system | define signals authority protection evidence and restart
+- 2026-09-01 | knowledge-work software map | classify build pattern and delivery class before investing
 - 2026-08-31 | proactive human escalation follow-up | agents need enforceable routes to ask before goals outrun judgment
 - 2026-08-31 | preserving judgment in automated work | keep expertise diversity and interesting decisions human
 - 2026-08-31 | specialist agent organisation follow-up | hierarchy needs ownership evidence permissions and escalation
