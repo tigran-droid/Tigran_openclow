@@ -388,3 +388,27 @@ Anything listed here will not be collected again.
 - 2026-09-01 | https://x.com/EugenioFierro3/status/2094486930553507865 | Nvidia and Hugging Face acquisition rumour
 - 2026-09-01 | https://x.com/EugenioFierro3/status/2094482977396810104 | Instagram synthetic profile labels
 - 2026-09-01 | https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/ | The Hugging Face hack could indicate cultural issues at OpenAI
+- 2026-09-02 | https://www.youtube.com/watch?v=-goIBDS9UNU | The One-Prompt Dashboard Trick
+- 2026-09-02 | https://www.youtube.com/watch?v=dBedPOPotyo | Ep. 235: OpenAI-Hugging Face Hack Involved 100s of Agents, & Bill Gates Now Pessimistic on Jobs
+- 2026-09-02 | https://www.youtube.com/watch?v=FFWtxjvW2ts | Fable 5.1 FINALLY Kills AI Website Slop
+- 2026-09-02 | https://www.youtube.com/watch?v=8IyORt-7rOQ | Fable 5.1 Just Dropped. It Looks Unreal.
+- 2026-09-02 | https://www.youtube.com/watch?v=Lbax7_pW2Nw | Anthropic is Teaching Claude to be Evil (real results)
+- 2026-09-02 | https://www.youtube.com/watch?v=mLaO3L0dLlw | How To Navigate the Next Wave of AI Competition
+- 2026-09-02 | https://www.youtube.com/watch?v=22BEhU4Rp5I | EMAD: "MODELS FOR ME, NOT FOR THEE"
+- 2026-09-02 | https://www.youtube.com/watch?v=ELiJ5aGEbRY | ALEX: HOW FAR AHEAD IS THE MODEL YOU CAN'T SEE?
+- 2026-09-02 | https://www.youtube.com/watch?v=fhUN1_FT0zk | "ANTHROPIC IS SMOKING THEIR OWN SUPPLY"
+- 2026-09-02 | https://www.youtube.com/watch?v=8FDFCUngrAg | Write, Change, Recall, Forget: MongoDB's Pete Johnson on How Retrieval Drives Agent Performance
+- 2026-09-02 | https://x.com/sama/status/2094934592062959832 | @sama — post
+- 2026-09-02 | https://x.com/emollick/status/2094983856424358023 | @emollick — post
+- 2026-09-02 | https://x.com/emollick/status/2094979123768910003 | @emollick — post
+- 2026-09-02 | https://x.com/emollick/status/2094905781111955634 | @emollick — post
+- 2026-09-02 | https://x.com/emollick/status/2094888723242536971 | @emollick — post
+- 2026-09-02 | https://x.com/emollick/status/2094860076028657926 | @emollick — post
+- 2026-09-02 | https://x.com/emollick/status/2094801560291213733 | @emollick — post
+- 2026-09-02 | https://x.com/EugenioFierro3/status/2094861307920986321 | @EugenioFierro3 — post
+- 2026-09-02 | https://x.com/EugenioFierro3/status/2094856920725131355 | @EugenioFierro3 — post
+- 2026-09-02 | https://x.com/EugenioFierro3/status/2094786825323753834 | @EugenioFierro3 — post
+- 2026-09-02 | https://x.com/EugenioFierro3/status/2094779670990368803 | @EugenioFierro3 — post
+- 2026-09-02 | https://openai.com/index/path-to-astra/ | Path to Astra: critical capabilities and frontier safeguards
+- 2026-09-02 | https://www.anthropic.com/claude-fable-and-mythos-5-1 | Claude Fable 5.1 and Mythos 5.1
+- 2026-09-02 | https://www.anthropic.com/news/enterprise-frontier-safeguards | Developing Enterprise Frontier Safeguards with our customers
