@@ -1,3 +1,9 @@
+- 2026-09-02 | accepted-outcome agent economics | compare total cost per completed trusted workflow
+- 2026-09-02 | consequence-matched AI controls | useful governance interrupts the right actions
+- 2026-09-02 | software interface disappearance | systems thinking becomes more valuable than tool fluency
+- 2026-09-02 | AI procurement beyond token price | include review retries controls and accepted value
+- 2026-09-02 | accepted-outcome cost model | recalculate full workflow economics as models change
+- 2026-09-02 | useful friction in agent workflows | map approvals stop conditions and restart authority
 - 2026-09-01 | escalation culture in agent incidents | controls work only when people can stop inconvenient work
 - 2026-09-01 | domain experts building software | capability means recognising and building software-shaped solutions
 - 2026-09-01 | AI writing after fluency abundance | evidence ownership and point of view become the differentiators
