@@ -1,3 +1,9 @@
+- 2026-09-03 | The smartest model can still be the wrong model | route work by reliable outcome per euro and minute
+- 2026-09-03 | Agents need an organization, not a bigger prompt | design memory, delegation, permissions and recovery
+- 2026-09-03 | AI governance is becoming a product feature | architecture creates behaviour where policies only express intention
+- 2026-09-03 | Stop choosing one AI model for everything | build a model portfolio and deliberate escalation
+- 2026-09-03 | The AI model routing playbook | assign work by difficulty, value, latency and risk
+- 2026-09-03 | Governance that lives in the workflow | turn policy into permissions, approvals and evidence
 - 2026-09-02 | accepted-outcome agent economics | compare total cost per completed trusted workflow
 - 2026-09-02 | consequence-matched AI controls | useful governance interrupts the right actions
 - 2026-09-02 | software interface disappearance | systems thinking becomes more valuable than tool fluency
