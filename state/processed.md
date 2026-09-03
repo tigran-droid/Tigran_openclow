@@ -412,3 +412,31 @@ Anything listed here will not be collected again.
 - 2026-09-02 | https://openai.com/index/path-to-astra/ | Path to Astra: critical capabilities and frontier safeguards
 - 2026-09-02 | https://www.anthropic.com/claude-fable-and-mythos-5-1 | Claude Fable 5.1 and Mythos 5.1
 - 2026-09-02 | https://www.anthropic.com/news/enterprise-frontier-safeguards | Developing Enterprise Frontier Safeguards with our customers
+- 2026-09-03 | https://www.youtube.com/watch?v=Po_Dh7WLgmM | The Most Overhyped and Underhyped New AI Models
+- 2026-09-03 | https://www.youtube.com/watch?v=FBVNS1l5Vb8 | How Anthropic ACTUALLY Prompts Fable 5.1
+- 2026-09-03 | https://www.youtube.com/watch?v=CDUclXojmDg | Why Fable 5.1 Is Worth the Upgrade
+- 2026-09-03 | https://www.youtube.com/watch?v=9IYTGvNOmLk | OpenClaw 2.0 Shows Where AI Agents Are Going Next
+- 2026-09-03 | https://www.youtube.com/watch?v=GVnvnp6ODFU | Why All The Spaceports Are In Red States
+- 2026-09-03 | https://www.youtube.com/watch?v=yBcsTco_7BY | China's Press Is More Honest About Tech Than Ours
+- 2026-09-03 | https://www.youtube.com/watch?v=JywXvB8PpTs | OpenAI Cuts Off Elon's Cursor, Humanity's First Star Probe, and Trump's Nuclear Mars Ship | EP #285
+- 2026-09-03 | https://www.youtube.com/watch?v=L63vie8pgJ4 | TSMC Is A Sitting Duck
+- 2026-09-03 | https://www.youtube.com/watch?v=KYFsrEAOK8Q | Is Anthropic Actually Winning the AI Race?
+- 2026-09-03 | https://www.youtube.com/watch?v=zKSNo-mnZlQ | Fable 5.1, Astra's Recursive Depth, and AI for Homeownership
+- 2026-09-03 | https://x.com/emollick/status/2095352019498447090 | @emollick — post
+- 2026-09-03 | https://x.com/emollick/status/2095340390731940317 | @emollick — post
+- 2026-09-03 | https://x.com/emollick/status/2095276496671953297 | @emollick — post
+- 2026-09-03 | https://x.com/emollick/status/2095257172896841964 | @emollick — post
+- 2026-09-03 | https://x.com/emollick/status/2095203002210807816 | @emollick — post
+- 2026-09-03 | https://x.com/emollick/status/2095150992954466517 | @emollick — post
+- 2026-09-03 | https://x.com/emollick/status/2095146057462436231 | @emollick — post
+- 2026-09-03 | https://x.com/EugenioFierro3/status/2095262515613651350 | @EugenioFierro3 — post
+- 2026-09-03 | https://x.com/EugenioFierro3/status/2095259536516866313 | @EugenioFierro3 — post
+- 2026-09-03 | https://x.com/EugenioFierro3/status/2095257433429995961 | @EugenioFierro3 — post
+- 2026-09-03 | https://x.com/EugenioFierro3/status/2095231022300361028 | @EugenioFierro3 — post
+- 2026-09-03 | https://x.com/EugenioFierro3/status/2095224299737018454 | @EugenioFierro3 — post
+- 2026-09-03 | https://x.com/EugenioFierro3/status/2095203606211293276 | @EugenioFierro3 — post
+- 2026-09-03 | https://x.com/EugenioFierro3/status/2095196900567756898 | @EugenioFierro3 — post
+- 2026-09-03 | https://x.com/EugenioFierro3/status/2095194212434100688 | @EugenioFierro3 — post
+- 2026-09-03 | https://x.com/EugenioFierro3/status/2095191795017617749 | @EugenioFierro3 — post
+- 2026-09-03 | https://x.com/EugenioFierro3/status/2095101658095055300 | @EugenioFierro3 — post
+- 2026-09-03 | https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/ | Facilitating AI integration with simplicity at scale
