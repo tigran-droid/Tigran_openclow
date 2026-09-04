@@ -440,3 +440,38 @@ Anything listed here will not be collected again.
 - 2026-09-03 | https://x.com/EugenioFierro3/status/2095191795017617749 | @EugenioFierro3 — post
 - 2026-09-03 | https://x.com/EugenioFierro3/status/2095101658095055300 | @EugenioFierro3 — post
 - 2026-09-03 | https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/ | Facilitating AI integration with simplicity at scale
+
+- 2026-09-04 | https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation | AI, tools and transformation
+- 2026-09-04 | https://www.youtube.com/watch?v=GGzT7zVrRTU | GPT-6 Astra Is Finally Here (And It’s REALLY Good)
+- 2026-09-04 | https://www.youtube.com/watch?v=K_iUGDw2Sho | This Robot Can Learn Almost ANY Task
+- 2026-09-04 | https://www.youtube.com/watch?v=NLFQkHiaCiQ | Ep. 236: AI Answers - No Time for AI, AI Budgets, Vendor Terms &amp; Data Risk, &amp; AI Disclosure
+- 2026-09-04 | https://www.youtube.com/watch?v=5FukkI4fbiU | I Had Fable 5.1 and 5 Build Me the Same App
+- 2026-09-04 | https://www.youtube.com/watch?v=NbUTIFEEXLY | AI News in 5 Mins: GPT-6 Astra
+- 2026-09-04 | https://www.youtube.com/watch?v=zN6Fe-V_eW4 | We Don't Trust Evidence Anymore
+- 2026-09-04 | https://www.youtube.com/watch?v=k9yPcGljbp8 | Grok Bot Isn't The Future, Says Alex
+- 2026-09-04 | https://www.youtube.com/watch?v=qH2Me_mKThc | Sam Altman's House Got Firebombed
+- 2026-09-04 | https://x.com/sama/status/2095678759651438887 | @sama — post
+- 2026-09-04 | https://x.com/sama/status/2095601442220638547 | @sama — post
+- 2026-09-04 | https://x.com/sama/status/2095601211869421726 | @sama — post
+- 2026-09-04 | https://x.com/sama/status/2095600429363302720 | @sama — post
+- 2026-09-04 | https://x.com/sama/status/2095600005772104059 | @sama — post
+- 2026-09-04 | https://x.com/emollick/status/2095737476392402972 | @emollick — post
+- 2026-09-04 | https://x.com/emollick/status/2095717185200988439 | @emollick — post
+- 2026-09-04 | https://x.com/emollick/status/2095712569507885252 | @emollick — post
+- 2026-09-04 | https://x.com/emollick/status/2095685022476898413 | @emollick — post
+- 2026-09-04 | https://x.com/emollick/status/2095681822873051546 | @emollick — post
+- 2026-09-04 | https://x.com/emollick/status/2095673885605630429 | @emollick — post
+- 2026-09-04 | https://x.com/emollick/status/2095645030941630763 | @emollick — post
+- 2026-09-04 | https://x.com/emollick/status/2095606622055760159 | @emollick — post
+- 2026-09-04 | https://x.com/emollick/status/2095604776822083629 | @emollick — post
+- 2026-09-04 | https://x.com/emollick/status/2095601539066777748 | @emollick — post
+- 2026-09-04 | https://x.com/emollick/status/2095585825949946273 | @emollick — post
+- 2026-09-04 | https://x.com/emollick/status/2095534149486485763 | @emollick — post
+- 2026-09-04 | https://x.com/EugenioFierro3/status/2095621025182445688 | @EugenioFierro3 — post
+- 2026-09-04 | https://x.com/EugenioFierro3/status/2095605649874801045 | @EugenioFierro3 — post
+- 2026-09-04 | https://x.com/EugenioFierro3/status/2095602048360165534 | @EugenioFierro3 — post
+- 2026-09-04 | https://x.com/EugenioFierro3/status/2095599112339001459 | @EugenioFierro3 — post
+- 2026-09-04 | https://x.com/EugenioFierro3/status/2095580835483189501 | @EugenioFierro3 — post
+- 2026-09-04 | https://x.com/EugenioFierro3/status/2095571896699904206 | @EugenioFierro3 — post
+- 2026-09-04 | https://x.com/EugenioFierro3/status/2095512590692610290 | @EugenioFierro3 — post
+- 2026-09-04 | https://x.com/EugenioFierro3/status/2095508708809683037 | @EugenioFierro3 — post
