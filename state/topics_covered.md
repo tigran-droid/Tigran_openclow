@@ -1,3 +1,9 @@
+- 2026-09-04 | outcome contracts for long-running agents | define boundaries evidence escalation and ownership
+- 2026-09-04 | research taste after autonomous execution | measure whether the question deserves to exist
+- 2026-09-04 | model routing economics follow-up | compare marginal quality with total cost and elapsed time
+- 2026-09-04 | AI moves software institutionalization thresholds | promote repeated risky experiments into governed infrastructure
+- 2026-09-04 | experiment-to-infrastructure promotion path | use dependency and consequence as governance triggers
+- 2026-09-04 | research taste evaluation | measure question value and high-quality waste
 - 2026-09-03 | The smartest model can still be the wrong model | route work by reliable outcome per euro and minute
 - 2026-09-03 | Agents need an organization, not a bigger prompt | design memory, delegation, permissions and recovery
 - 2026-09-03 | AI governance is becoming a product feature | architecture creates behaviour where policies only express intention
