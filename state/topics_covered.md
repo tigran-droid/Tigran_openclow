@@ -1,3 +1,9 @@
+- 2026-09-05 | benchmark rank versus business evidence | test fixed internal tasks and accepted output instead of buying a leaderboard
+- 2026-09-05 | editability as operational handover | require inspectable structure so humans can continue and own agent work
+- 2026-09-05 | employee AI ambivalence | treat excitement and concern as compatible inputs to transformation
+- 2026-09-05 | editable output acceptance standard | procure sources structure intervention and reconstructability with autonomous deliverables
+- 2026-09-05 | editable business AI outputs | use human handover quality as a control and procurement test
+- 2026-09-05 | durable internal model benchmark | compare cost time corrections and acceptance on stable company tasks
 - 2026-09-04 | outcome contracts for long-running agents | define boundaries evidence escalation and ownership
 - 2026-09-04 | research taste after autonomous execution | measure whether the question deserves to exist
 - 2026-09-04 | model routing economics follow-up | compare marginal quality with total cost and elapsed time
