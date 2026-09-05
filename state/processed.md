@@ -475,3 +475,26 @@ Anything listed here will not be collected again.
 - 2026-09-04 | https://x.com/EugenioFierro3/status/2095571896699904206 | @EugenioFierro3 — post
 - 2026-09-04 | https://x.com/EugenioFierro3/status/2095512590692610290 | @EugenioFierro3 — post
 - 2026-09-04 | https://x.com/EugenioFierro3/status/2095508708809683037 | @EugenioFierro3 — post
+- 2026-09-05 | https://www.youtube.com/watch?v=GfPZm9yucQo | AI News: The Most Insane Week So Far This Year!
+- 2026-09-05 | https://www.youtube.com/watch?v=QhmhUgccaS0 | GPT-6 Astra FINALLY Kills AI Website Slop
+- 2026-09-05 | https://www.youtube.com/watch?v=dT5-x3u5nCg | GPT-6 Astra Made This Entire Video
+- 2026-09-05 | https://www.youtube.com/watch?v=21QbJo6s0xA | I Gave an AI Engineer Access to My Whole Business
+- 2026-09-05 | https://www.youtube.com/watch?v=dLiXiD8hOAI | Agentic Loops for Knowledge Workers
+- 2026-09-05 | https://www.youtube.com/watch?v=t7DIH3FTamc | We're Getting Lapped By China
+- 2026-09-05 | https://www.youtube.com/watch?v=6xWrmDl8tro | Don't Do A PhD Right Now
+- 2026-09-05 | https://www.youtube.com/watch?v=K3bAvbuG44w | Is Foreign Interference Fueling The Data Center Backlash?
+- 2026-09-05 | https://www.youtube.com/watch?v=BwlZhsuDo6k | Astra: More Aligned but Less Monitorable? + @binarybit's Robotics Week
+- 2026-09-05 | https://x.com/sama/status/2095973658867171733 | @sama — post
+- 2026-09-05 | https://x.com/emollick/status/2096110458830782902 | @emollick — post
+- 2026-09-05 | https://x.com/emollick/status/2096072875622985977 | @emollick — post
+- 2026-09-05 | https://x.com/emollick/status/2096071878427234309 | @emollick — post
+- 2026-09-05 | https://x.com/emollick/status/2096047660662722620 | @emollick — post
+- 2026-09-05 | https://x.com/emollick/status/2095983680598528497 | @emollick — post
+- 2026-09-05 | https://x.com/emollick/status/2095957821644763561 | @emollick — post
+- 2026-09-05 | https://x.com/emollick/status/2095881294949253191 | @emollick — post
+- 2026-09-05 | https://x.com/EugenioFierro3/status/2095989612929773731 | @EugenioFierro3 — post
+- 2026-09-05 | https://x.com/EugenioFierro3/status/2095987015154045246 | @EugenioFierro3 — post
+- 2026-09-05 | https://x.com/EugenioFierro3/status/2095844137375293517 | @EugenioFierro3 — post
+- 2026-09-05 | https://x.com/EugenioFierro3/status/2095829837403271600 | @EugenioFierro3 — post
+- 2026-09-05 | https://x.com/EugenioFierro3/status/2095814516789362933 | @EugenioFierro3 — post
+- 2026-09-05 | https://x.com/EugenioFierro3/status/2095805113252110791 | @EugenioFierro3 — post
