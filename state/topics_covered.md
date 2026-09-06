@@ -1,3 +1,9 @@
+- 2026-09-06 | voice as management interface | delegation succeeds when context permissions and acceptance sit beneath conversation
+- 2026-09-06 | persistent memory and evaluation contamination | control context before comparing model outputs
+- 2026-09-06 | agentic work measurement gap | instrument tasks interventions accepted output and consequence
+- 2026-09-06 | context infrastructure for voice agents | give project knowledge boundaries sources and owners
+- 2026-09-06 | context contracts for AI agents | govern authority memory evidence and maintenance together
+- 2026-09-06 | workflow evidence for coordinated agents | replace activity counts with changed-work measures
 - 2026-09-05 | benchmark rank versus business evidence | test fixed internal tasks and accepted output instead of buying a leaderboard
 - 2026-09-05 | editability as operational handover | require inspectable structure so humans can continue and own agent work
 - 2026-09-05 | employee AI ambivalence | treat excitement and concern as compatible inputs to transformation
