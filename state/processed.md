@@ -498,3 +498,17 @@ Anything listed here will not be collected again.
 - 2026-09-05 | https://x.com/EugenioFierro3/status/2095829837403271600 | @EugenioFierro3 — post
 - 2026-09-05 | https://x.com/EugenioFierro3/status/2095814516789362933 | @EugenioFierro3 — post
 - 2026-09-05 | https://x.com/EugenioFierro3/status/2095805113252110791 | @EugenioFierro3 — post
+- 2026-09-06 | https://www.youtube.com/watch?v=9oi-b5Dvtso | GPT-6 Astra Voice Mode Automates Literally Anything
+- 2026-09-06 | https://www.youtube.com/watch?v=5MMFeibSkqc | How AI Changed This Summer
+- 2026-09-06 | https://www.youtube.com/watch?v=EkzxIPMY304 | The Alpha Centauri Economy
+- 2026-09-06 | https://www.youtube.com/watch?v=1DB_QDiviH4 | GPT-6 Astra Saturates ARC-AGI-3, Tesla Cybercab Hits Austin, Anthropic Proves Fermat's Last Theorem
+- 2026-09-06 | https://www.youtube.com/watch?v=O2OMu5x1n80 | Alex Karp Ripped Dario To Shreds
+- 2026-09-06 | https://www.youtube.com/watch?v=SA6B4zShIfI | AI:AM Highlights: Welcome to the AGI Era
+- 2026-09-06 | https://x.com/sama/status/2096241436509544744 | @sama — post
+- 2026-09-06 | https://x.com/emollick/status/2096436667863236812 | @emollick — post
+- 2026-09-06 | https://x.com/emollick/status/2096360320268689769 | @emollick — post
+- 2026-09-06 | https://x.com/emollick/status/2096332111389356334 | @emollick — post
+- 2026-09-06 | https://x.com/emollick/status/2096320688265044038 | @emollick — post
+- 2026-09-06 | https://x.com/emollick/status/2096312830903337184 | @emollick — post
+- 2026-09-06 | https://x.com/emollick/status/2096270461122347131 | @emollick — post
+- 2026-09-06 | https://x.com/EugenioFierro3/status/2096218584145866786 | @EugenioFierro3 — post
