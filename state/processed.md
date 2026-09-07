@@ -2,7 +2,6 @@
 
 The agent writes here automatically. Do not edit by hand.
 Anything listed here will not be collected again.
-
 <!-- format: - YYYY-MM-DD | <url> | <title> -->
 - 2026-08-01 | https://openai.com/index/ten-advances-in-mathematics/ | Ten advances in mathematics and theoretical computer science
 - 2026-07-27 | https://www.youtube.com/watch?v=Ums8suyAG1A | This AI Technology Will Replace Millions (Here's How to Prepare)
@@ -48,12 +47,7 @@ Anything listed here will not be collected again.
 - 2026-07-31 | https://www.youtube.com/watch?v=sUmx-Yi6TwE | AI News: Opus 5, the Slack Killer & Google Earth AI- 2026-08-01 | https://www.youtube.com/watch?v=qXp5NHz0KSo | How To Skip The Kimi K3 Waitlist
 - 2026-08-01 | https://www.youtube.com/watch?v=sUmx-Yi6TwE | AI News: An INSANE Week… Here’s What Matters
 - 2026-08-01 | https://www.youtube.com/watch?v=qUXAk4iZs4k | 6 Questions Shaping Enterprise AI
-
 - 2026-08-01 | https://www.youtube.com/watch?v=qXp5NHz0KSo | How To Skip The Kimi K3 Waitlist
-
-- 2026-08-01 | https://www.youtube.com/watch?v=sUmx-Yi6TwE | AI News: An INSANE Week… Here’s What Matters
-
-- 2026-08-01 | https://www.youtube.com/watch?v=qUXAk4iZs4k | 6 Questions Shaping Enterprise AI
 - 2026-08-02 | https://www.youtube.com/watch?v=PaNIJ9l2NOE | We’re getting closer to “Jarvis” everyday!
 - 2026-08-02 | https://www.youtube.com/watch?v=Lg5TYWPSg6M | 18 Months of Pricing AI Automations in 21 Mins
 - 2026-08-02 | https://x.com/karpathy/status/2083749667410727319 | @karpathy
@@ -132,7 +126,6 @@ Anything listed here will not be collected again.
 - 2026-08-08 | https://x.com/emollick/status/2085745490566562276 | @emollick — open-weight cyber risk
 - 2026-08-08 | https://x.com/EugenioFierro3/status/2085827345198338396 | @EugenioFierro3 — Claude Code cross-session messaging
 - 2026-08-08 | https://x.com/EugenioFierro3/status/2085708656348140001 | @EugenioFierro3 — Claude biology classifier update
-
 - 2026-08-11 | https://www.youtube.com/watch?v=IVx8OSMbTss | Build & Sell AI SaaS Products (2 HOUR COURSE)
 - 2026-08-11 | https://www.youtube.com/watch?v=iPveX4yQ68w | What the Heck is Graph Engineering?
 - 2026-08-11 | https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/ | AI professors are negotiating the new realities of academic research
@@ -158,15 +151,6 @@ Anything listed here will not be collected again.
 - 2026-08-17 | https://x.com/emollick/status/2089100618648404216 | @emollick — exporting 5,302 bookmarks with a browser agent
 - 2026-08-17 | https://x.com/emollick/status/2089042815405686919 | @emollick — qualitative evaluation for non-verifiable work
 - 2026-08-17 | https://x.com/emollick/status/2089003775755190570 | @emollick — AI Overviews changing the web
-
-- 2026-08-17 | https://www.youtube.com/watch?v=GtnZzy6tERA | How to Help AI Do Your Work Better
-- 2026-08-17 | https://x.com/emollick/status/2089233231853785118 | @emollick — agent computer architectures
-- 2026-08-17 | https://x.com/emollick/status/2089185499197911391 | @emollick — local open-weight video generation
-- 2026-08-17 | https://x.com/emollick/status/2089156476568842516 | @emollick — disease claims versus trials and approval
-- 2026-08-17 | https://x.com/emollick/status/2089100618648404216 | @emollick — exporting 5,302 bookmarks with a browser agent
-- 2026-08-17 | https://x.com/emollick/status/2089042815405686919 | @emollick — qualitative evaluation for non-verifiable work
-- 2026-08-17 | https://x.com/emollick/status/2089003775755190570 | @emollick — AI Overviews changing the web
-
 - 2026-08-17 | https://www.youtube.com/watch?v=9ZKeu_7k9ik | Why AI Models Keep Breaking Containment
 - 2026-08-17 | https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/ | What happens when a kid’s robot best friend dies?
 - 2026-08-17 | https://x.com/emollick/status/2089351996016918825 | Ethan Mollick X post
@@ -180,7 +164,6 @@ Anything listed here will not be collected again.
 - 2026-08-18 | https://x.com/emollick/status/2089334464232968679 | @emollick — post
 - 2026-08-18 | https://x.com/emollick/status/2089330959405535433 | @emollick — post
 - 2026-08-18 | https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/ | What Flock’s defenders are missing
-
 - 2026-08-19 | https://www.youtube.com/watch?v=IeT5Jn7d1aM | Exclusive BTS of my Automated AI System (LIVE)
 - 2026-08-19 | https://www.youtube.com/watch?v=nAydWbI6Bi0 | Ep. 232: Claude Watermarking, AI’s Environmental Impact, &amp; OpenAI Talent Drama
 - 2026-08-19 | https://www.youtube.com/watch?v=TMPUUyQC5aM | A Week of Grok Bot Lessons in 10 Mins
@@ -231,7 +214,6 @@ Anything listed here will not be collected again.
 - 2026-08-21 | https://x.com/emollick/status/2090584263196328113 | @emollick — post
 - 2026-08-21 | https://x.com/emollick/status/2090491832736072155 | @emollick — post
 - 2026-08-21 | https://x.com/emollick/status/2090489669234405546 | @emollick — post
-
 - 2026-08-22 | https://www.youtube.com/watch?v=1m5Ee9QbLF0 | This Pyramid Could Be Your Next Intern
 - 2026-08-22 | https://www.youtube.com/watch?v=EfGF7QbJItA | AI News: OpenAI Pauses, AI Cancer Vaccine, and Qwen3.8
 - 2026-08-22 | https://www.youtube.com/watch?v=_kK_4cOYF4o | This Stealth Model Makes Claude Code Free. Here's How.
@@ -256,7 +238,6 @@ Anything listed here will not be collected again.
 - 2026-08-22 | https://x.com/EugenioFierro3/status/2090769574899728429 | @EugenioFierro3 — post
 - 2026-08-22 | https://x.com/EugenioFierro3/status/2090766209415262599 | @EugenioFierro3 — post
 - 2026-08-22 | https://x.com/EugenioFierro3/status/2090763219904159949 | @EugenioFierro3 — post
-
 - 2026-08-23 | https://www.youtube.com/watch?v=QUI6Ug4cHnE | I Built The Ultimate Claude Website Design Skill (steal this)
 - 2026-08-23 | https://www.youtube.com/watch?v=-t4RC5JmnTk | Why Everyone Suddenly Hates AI Data Centers
 - 2026-08-23 | https://www.youtube.com/watch?v=DUt08z6OyV4 | We Attack Ourselves Every Night for Three Hours
@@ -271,7 +252,6 @@ Anything listed here will not be collected again.
 - 2026-08-24 | https://x.com/emollick/status/2091734781935456365 | @emollick — mathematics capability reaction
 - 2026-08-24 | https://x.com/emollick/status/2091720399406923882 | @emollick — AI replies flatten niche conversation
 - 2026-08-24 | https://x.com/emollick/status/2091562657623265727 | @emollick — how older-model research claims age
-
 - 2026-08-25 | https://www.youtube.com/watch?v=ZY628bslSYY | This AI Creates Insane 3D Worlds
 - 2026-08-25 | https://www.youtube.com/watch?v=ZzHsJW10iq4 | Everything Goldman Sachs Taught Me About AI (In 10 minutes)
 - 2026-08-25 | https://www.youtube.com/watch?v=UMDxpXGGdMs | No AI Won't Take All Our Jobs. Here's What WILL Happen.
@@ -440,7 +420,6 @@ Anything listed here will not be collected again.
 - 2026-09-03 | https://x.com/EugenioFierro3/status/2095191795017617749 | @EugenioFierro3 — post
 - 2026-09-03 | https://x.com/EugenioFierro3/status/2095101658095055300 | @EugenioFierro3 — post
 - 2026-09-03 | https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/ | Facilitating AI integration with simplicity at scale
-
 - 2026-09-04 | https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation | AI, tools and transformation
 - 2026-09-04 | https://www.youtube.com/watch?v=GGzT7zVrRTU | GPT-6 Astra Is Finally Here (And It’s REALLY Good)
 - 2026-09-04 | https://www.youtube.com/watch?v=K_iUGDw2Sho | This Robot Can Learn Almost ANY Task
@@ -512,3 +491,18 @@ Anything listed here will not be collected again.
 - 2026-09-06 | https://x.com/emollick/status/2096312830903337184 | @emollick — post
 - 2026-09-06 | https://x.com/emollick/status/2096270461122347131 | @emollick — post
 - 2026-09-06 | https://x.com/EugenioFierro3/status/2096218584145866786 | @EugenioFierro3 — post
+- 2026-09-07 | https://www.youtube.com/watch?v=yysILVsfLFM | I Turned GPT-6 Astra Into the Ultimate AI Second Brain
+- 2026-09-07 | https://www.youtube.com/watch?v=WfJPBVXPt8k | I Tested GPT-6 Astra vs Fable 5.1 on 15 Real Use Cases
+- 2026-09-07 | https://www.youtube.com/watch?v=Qa4juJzo0TY | How to Build an AI-Native Company Today
+- 2026-09-07 | https://www.youtube.com/watch?v=5VAmCaZM1iM | The &quot;Afghan Warlord&quot; Airport Story
+- 2026-09-07 | https://www.youtube.com/watch?v=ge8yWY-WaZ8 | Don't Date Robots
+- 2026-09-07 | https://www.youtube.com/watch?v=xfhTAGwxMkQ | Will China Learn To Love AI Companions?
+- 2026-09-07 | https://www.youtube.com/watch?v=EYAOJ_sTeGg | My Kid Deleted Instagram This Morning
+- 2026-09-07 | https://x.com/emollick/status/2096758851345207475 | @emollick — post
+- 2026-09-07 | https://x.com/emollick/status/2096723670706086212 | @emollick — post
+- 2026-09-07 | https://x.com/emollick/status/2096645299309625474 | @emollick — post
+- 2026-09-07 | https://x.com/emollick/status/2096640625902764073 | @emollick — post
+- 2026-09-07 | https://x.com/emollick/status/2096605475794014536 | @emollick — post
+- 2026-09-07 | https://x.com/EugenioFierro3/status/2096626452544233537 | @EugenioFierro3 — post
+- 2026-09-07 | https://x.com/EugenioFierro3/status/2096607451411804644 | @EugenioFierro3 — post
+- 2026-09-07 | https://x.com/EugenioFierro3/status/2096597058387943843 | @EugenioFierro3 — post
