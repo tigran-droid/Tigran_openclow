@@ -1,3 +1,9 @@
+- 2026-09-07 | trusted executable context | maintain owners freshness dependencies and permissions
+- 2026-09-07 | workflow-specific model selection | route by accepted output total cost and elapsed time
+- 2026-09-07 | expertise as the AI control system | encode domain judgment into tests and acceptance criteria
+- 2026-09-07 | AI-native management discipline | redesign context evaluation autonomy and accountability together
+- 2026-09-07 | context maintenance playbook | govern authoritative sources conflicts freshness and incidents
+- 2026-09-07 | internal model benchmark playbook | compare recurring tasks and rerun as systems change
 - 2026-09-06 | voice as management interface | delegation succeeds when context permissions and acceptance sit beneath conversation
 - 2026-09-06 | persistent memory and evaluation contamination | control context before comparing model outputs
 - 2026-09-06 | agentic work measurement gap | instrument tasks interventions accepted output and consequence
