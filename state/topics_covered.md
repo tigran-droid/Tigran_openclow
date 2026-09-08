@@ -1,3 +1,9 @@
+- 2026-09-08 | shared agent operating model | replace private threads with inspectable team work
+- 2026-09-08 | stateless agent continuity follow-up | make state evidence recovery and handoffs explicit
+- 2026-09-08 | visual demo bias in AI evaluation | measure workflow value beyond outputs that present well
+- 2026-09-08 | multiplayer AI team design | govern shared context steering permissions and ownership
+- 2026-09-08 | shared agent readiness test | score overlap staleness permissions and checkability
+- 2026-09-08 | AI work location control | define authoritative homes and recovery across fragmented surfaces
 - 2026-09-07 | trusted executable context | maintain owners freshness dependencies and permissions
 - 2026-09-07 | workflow-specific model selection | route by accepted output total cost and elapsed time
 - 2026-09-07 | expertise as the AI control system | encode domain judgment into tests and acceptance criteria
