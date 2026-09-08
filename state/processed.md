@@ -506,3 +506,18 @@ Anything listed here will not be collected again.
 - 2026-09-07 | https://x.com/EugenioFierro3/status/2096626452544233537 | @EugenioFierro3 — post
 - 2026-09-07 | https://x.com/EugenioFierro3/status/2096607451411804644 | @EugenioFierro3 — post
 - 2026-09-07 | https://x.com/EugenioFierro3/status/2096597058387943843 | @EugenioFierro3 — post
+- 2026-09-08 | https://www.youtube.com/watch?v=tqUEnRj0NbM | This AI Turns Insane Ideas Into 3D Objects
+- 2026-09-08 | https://www.youtube.com/watch?v=TLQLfa7yH4I | I Turned GPT-6 Astra Into a 24/7 Stock Trader (tutorial)
+- 2026-09-08 | https://www.youtube.com/watch?v=1BqWLLkJym0 | The Multiplayer AI Sprint: Build Your Team’s First Shared Agent
+- 2026-09-08 | https://www.youtube.com/watch?v=pGfZS8KlOhI | Drones Could Give Us Total Weather Control
+- 2026-09-08 | https://www.youtube.com/watch?v=zOb32VYvgo4 | Nobody can hold the number one spot for a full week anymore
+- 2026-09-08 | https://www.youtube.com/watch?v=SuIkvU4r6FM | China's Solar Boom Just Exploded 800%
+- 2026-09-08 | https://www.youtube.com/watch?v=0fa7Q4n4C8Y | We Need The Truth, Not Politics, On Data Centers
+- 2026-09-08 | https://www.youtube.com/watch?v=SFt-4J6rvlk | High Agency Is The New Superpower
+- 2026-09-08 | https://x.com/emollick/status/2097178401991712854 | @emollick — post
+- 2026-09-08 | https://x.com/emollick/status/2097125457829269892 | @emollick — post
+- 2026-09-08 | https://x.com/emollick/status/2097049592785187228 | @emollick — post
+- 2026-09-08 | https://x.com/emollick/status/2097030869609263166 | @emollick — post
+- 2026-09-08 | https://x.com/emollick/status/2096997239281385549 | @emollick — post
+- 2026-09-08 | https://x.com/EugenioFierro3/status/2097023884717404507 | @EugenioFierro3 — post
+- 2026-09-08 | https://x.com/EugenioFierro3/status/2097021607369642243 | @EugenioFierro3 — post
