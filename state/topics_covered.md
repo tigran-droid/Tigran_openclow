@@ -1,3 +1,9 @@
+- 2026-09-09 | computer use clears the usefulness hurdle | move controls from clicking ability to scope evidence and ownership
+- 2026-09-09 | AI pressure on billable hours | price accepted outcomes while preserving scarce human judgment
+- 2026-09-09 | event-driven agent architecture | contract triggers context permissions approval and acceptance
+- 2026-09-09 | professional services pricing after AI | redesign commercial units before procurement does it
+- 2026-09-09 | accepted-outcome pricing playbook | define scope exceptions review and full delivery cost
+- 2026-09-09 | event contracts for operational agents | make ambient automation explicit and accountable
 - 2026-09-08 | shared agent operating model | replace private threads with inspectable team work
 - 2026-09-08 | stateless agent continuity follow-up | make state evidence recovery and handoffs explicit
 - 2026-09-08 | visual demo bias in AI evaluation | measure workflow value beyond outputs that present well
