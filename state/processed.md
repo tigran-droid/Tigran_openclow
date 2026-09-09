@@ -521,3 +521,31 @@ Anything listed here will not be collected again.
 - 2026-09-08 | https://x.com/emollick/status/2096997239281385549 | @emollick — post
 - 2026-09-08 | https://x.com/EugenioFierro3/status/2097023884717404507 | @EugenioFierro3 — post
 - 2026-09-08 | https://x.com/EugenioFierro3/status/2097021607369642243 | @EugenioFierro3 — post
+- 2026-09-09 | https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/ | This entrepreneur is developing agents that can plan ahead
+- 2026-09-09 | https://www.youtube.com/watch?v=LJ2YeWQ_uJE | 3 Big ChatGPT Updates You Need to Know
+- 2026-09-09 | https://www.youtube.com/watch?v=xaRulW3hQk0 | Ep. 237: GPT-6 Astra, NYC Bans AI in Schools, &amp; Trump Goes All-In on Data Centers
+- 2026-09-09 | https://www.youtube.com/watch?v=o3IEkKXXXvo | GPT-6 Astra Finally Solves AI Video Editing (full guide)
+- 2026-09-09 | https://www.youtube.com/watch?v=REer2xBtIc0 | It's Always About The Reasoning Traces
+- 2026-09-09 | https://www.youtube.com/watch?v=ygmplUPIL8U | A Richter Scale For Hard Problems
+- 2026-09-09 | https://www.youtube.com/watch?v=iryzk7tUEU0 | Scientists Just Regrew Real Tooth Enamel
+- 2026-09-09 | https://www.youtube.com/watch?v=Zb4y6HpaVB0 | Drones Could Give Us Total Weather Control
+- 2026-09-09 | https://www.youtube.com/watch?v=tsaBAV-pqw8 | Astra recap, Millenium Prize Drama, &amp; Ksenia Se
+- 2026-09-09 | https://x.com/sama/status/2097410967978324010 | @sama — post
+- 2026-09-09 | https://x.com/sama/status/2097404861642137851 | @sama — post
+- 2026-09-09 | https://x.com/sama/status/2097385167002415140 | @sama — post
+- 2026-09-09 | https://x.com/sama/status/2097380249910854023 | @sama — post
+- 2026-09-09 | https://x.com/emollick/status/2097541464607666438 | @emollick — post
+- 2026-09-09 | https://x.com/emollick/status/2097485934686015916 | @emollick — post
+- 2026-09-09 | https://x.com/emollick/status/2097447954076303733 | @emollick — post
+- 2026-09-09 | https://x.com/emollick/status/2097402304525697507 | @emollick — post
+- 2026-09-09 | https://x.com/emollick/status/2097376492074266907 | @emollick — post
+- 2026-09-09 | https://x.com/emollick/status/2097367093100343383 | @emollick — post
+- 2026-09-09 | https://x.com/emollick/status/2097325310349914202 | @emollick — post
+- 2026-09-09 | https://x.com/EugenioFierro3/status/2097418582128840827 | @EugenioFierro3 — post
+- 2026-09-09 | https://x.com/EugenioFierro3/status/2097414413896552736 | @EugenioFierro3 — post
+- 2026-09-09 | https://x.com/EugenioFierro3/status/2097410016416346590 | @EugenioFierro3 — post
+- 2026-09-09 | https://x.com/EugenioFierro3/status/2097404162753360222 | @EugenioFierro3 — post
+- 2026-09-09 | https://x.com/EugenioFierro3/status/2097401078740381747 | @EugenioFierro3 — post
+- 2026-09-09 | https://x.com/EugenioFierro3/status/2097398586954682723 | @EugenioFierro3 — post
+- 2026-09-09 | https://x.com/EugenioFierro3/status/2097395385446662191 | @EugenioFierro3 — post
+- 2026-09-09 | https://x.com/EugenioFierro3/status/2097392229568364655 | @EugenioFierro3 — post
