@@ -1,3 +1,9 @@
+- 2026-09-10 | AI prototype operating economics | measure reliability dependencies and unit cost after the demo
+- 2026-09-10 | mandatory frontier safety evidence | turn testing assessment and incident reporting into procurement requirements
+- 2026-09-10 | deliberate organisational deskilling | choose which skills AI may remove and which must remain
+- 2026-09-10 | prototype-to-production cost checklist | price retries review dependencies failures and scale
+- 2026-09-10 | organisational deskilling map | preserve judgment recovery and apprenticeship while automating
+- 2026-09-10 | trust engineering for AI products | require tests costs permissions and recovery before rollout
 - 2026-09-09 | computer use clears the usefulness hurdle | move controls from clicking ability to scope evidence and ownership
 - 2026-09-09 | AI pressure on billable hours | price accepted outcomes while preserving scarce human judgment
 - 2026-09-09 | event-driven agent architecture | contract triggers context permissions approval and acceptance
