@@ -549,3 +549,19 @@ Anything listed here will not be collected again.
 - 2026-09-09 | https://x.com/EugenioFierro3/status/2097398586954682723 | @EugenioFierro3 — post
 - 2026-09-09 | https://x.com/EugenioFierro3/status/2097395385446662191 | @EugenioFierro3 — post
 - 2026-09-09 | https://x.com/EugenioFierro3/status/2097392229568364655 | @EugenioFierro3 — post
+- 2026-09-10 | https://openai.com/index/gpt-6-astra-next-generation-work | GPT-6 Astra: The next generation in intelligence for work
+- 2026-09-10 | https://openai.com/index/ai-policy-window | The AI policy window is open. We need to act.
+- 2026-09-10 | https://www.youtube.com/watch?v=-KcHn0QcSb0 | Trying To Solve The Biggest AI Problem
+- 2026-09-10 | https://www.youtube.com/watch?v=iSXeiUXiln8 | This AI Makes Any Photo 3D
+- 2026-09-10 | https://www.youtube.com/watch?v=5QmOhvVssxY | Thank You for 1M Subscribers
+- 2026-09-10 | https://x.com/sama/status/2097776310940569783 | X post
+- 2026-09-10 | https://x.com/sama/status/2097696043492143157 | X post
+- 2026-09-10 | https://x.com/sama/status/2097695001341829212 | X post
+- 2026-09-10 | https://x.com/emollick/status/2097911967629422882 | X post
+- 2026-09-10 | https://x.com/emollick/status/2097821020375708020 | X post
+- 2026-09-10 | https://x.com/emollick/status/2097797992904282134 | X post
+- 2026-09-10 | https://x.com/emollick/status/2097767414435844099 | X post
+- 2026-09-10 | https://x.com/emollick/status/2097765662965846210 | X post
+- 2026-09-10 | https://x.com/emollick/status/2097697008303669614 | X post
+- 2026-09-10 | https://x.com/emollick/status/2097688309493280817 | X post
+- 2026-09-10 | https://x.com/EugenioFierro3/status/2097694456732336340 | X post
