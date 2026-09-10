@@ -1,3 +1,9 @@
+- 2026-09-10 | disappearing AI interface | make permissions evidence and recovery more visible as clicking disappears
+- 2026-09-10 | context-specific AI boundaries | match safeguards to the user context and consequence
+- 2026-09-10 | adoption lag after frontier progress | build organisational learning without waiting for stable models
+- 2026-09-10 | invisible-interface operating model | evaluate actions authority evidence and recoverability
+- 2026-09-10 | invisible interface readiness test | assess outcomes permissions irreversibility evidence and recovery
+- 2026-09-10 | tiered enterprise AI policy | separate assistance autonomy vulnerable users and expert judgment
 - 2026-09-10 | AI prototype operating economics | measure reliability dependencies and unit cost after the demo
 - 2026-09-10 | mandatory frontier safety evidence | turn testing assessment and incident reporting into procurement requirements
 - 2026-09-10 | deliberate organisational deskilling | choose which skills AI may remove and which must remain
