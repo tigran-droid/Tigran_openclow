@@ -565,3 +565,10 @@ Anything listed here will not be collected again.
 - 2026-09-10 | https://x.com/emollick/status/2097697008303669614 | X post
 - 2026-09-10 | https://x.com/emollick/status/2097688309493280817 | X post
 - 2026-09-10 | https://x.com/EugenioFierro3/status/2097694456732336340 | X post
+- 2026-09-10 | https://www.youtube.com/watch?v=Wqz2yyUCtiw | Why Astra Is the Most Significant and Confounding Model in a Very Long Time
+- 2026-09-10 | https://www.youtube.com/watch?v=wSKwGyABz_k | Jensen Makes $1 Billion A Day
+- 2026-09-10 | https://www.youtube.com/watch?v=vAgEf4jX_1o | OpenAI Agents Hijack a German Website, Jensen Declares AGI Arrived, and OpenAI Solves Navier-Stokes
+- 2026-09-10 | https://www.youtube.com/watch?v=WpT-RB38KrU | Fabless. Now "Designless."
+- 2026-09-10 | https://www.youtube.com/watch?v=XaFs2zQTn5o | AI Agents Get "Old" Too
+- 2026-09-10 | https://www.youtube.com/watch?v=LofKfcheZks | Never Bet Against Elon
+- 2026-09-10 | https://www.youtube.com/watch?v=lGwmnQrN4Es | AI Companions for Kids + Security at Mozilla
