@@ -572,3 +572,19 @@ Anything listed here will not be collected again.
 - 2026-09-10 | https://www.youtube.com/watch?v=XaFs2zQTn5o | AI Agents Get "Old" Too
 - 2026-09-10 | https://www.youtube.com/watch?v=LofKfcheZks | Never Bet Against Elon
 - 2026-09-10 | https://www.youtube.com/watch?v=lGwmnQrN4Es | AI Companions for Kids + Security at Mozilla
+- 2026-09-11 | https://www.youtube.com/watch?v=IIHsCFPo2zY | Ep. 238: How a 700-Person Bank Is Using AI to Build Apps, Agents, and Digital Employees
+- 2026-09-11 | https://www.youtube.com/watch?v=iW-yLZjbFjo | Claude Can Now Plan Your Whole Day by Location
+- 2026-09-11 | https://www.youtube.com/watch?v=j90tdo5Tjes | AI Model Month is Already Delivering Big Gains
+- 2026-09-11 | https://www.youtube.com/watch?v=x-Nes4CyhIY | Every Data Center Founder Is Becoming A Billionaire
+- 2026-09-11 | https://www.youtube.com/watch?v=Btq_ztX0R9M | Nathan Goes to China #3: US-China Relations, the Art of the AI Deal &amp; the Road to Pax Robotica
+- 2026-09-11 | https://www.youtube.com/watch?v=2XyL0qYzIAM | China’s Agent Rules + Baseten's Latest
+- 2026-09-11 | https://x.com/emollick/status/2098274189643845671 | @emollick — post
+- 2026-09-11 | https://x.com/emollick/status/2098165335975231502 | @emollick — post
+- 2026-09-11 | https://x.com/emollick/status/2098086824191099214 | @emollick — post
+- 2026-09-11 | https://x.com/emollick/status/2098059793986470291 | @emollick — post
+- 2026-09-11 | https://x.com/EugenioFierro3/status/2098157408400908608 | @EugenioFierro3 — post
+- 2026-09-11 | https://x.com/EugenioFierro3/status/2098145916267999278 | @EugenioFierro3 — post
+- 2026-09-11 | https://x.com/EugenioFierro3/status/2098143015059505447 | @EugenioFierro3 — post
+- 2026-09-11 | https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/ | Powering AI is an architecture problem
+- 2026-09-11 | https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials | How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules
+- 2026-09-11 | https://openai.com/index/put-data-to-work | Now everyone can put data to work
