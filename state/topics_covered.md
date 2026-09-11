@@ -1,3 +1,9 @@
+- 2026-09-11 | internal build-versus-buy threshold | own tailored systems when data governance and maintenance exist
+- 2026-09-11 | hidden responsibilities after task automation | protect mentoring stewardship and capability formation
+- 2026-09-11 | active management of long-running agents | design checkpoints escalation and stop conditions
+- 2026-09-11 | operating capability beyond model adoption | combine context ownership evidence and human development
+- 2026-09-11 | workflow and capability maps | assess efficiency and institutional learning together
+- 2026-09-11 | agent interruption framework | report ask and stop at explicit thresholds
 - 2026-09-10 | disappearing AI interface | make permissions evidence and recovery more visible as clicking disappears
 - 2026-09-10 | context-specific AI boundaries | match safeguards to the user context and consequence
 - 2026-09-10 | adoption lag after frontier progress | build organisational learning without waiting for stable models
