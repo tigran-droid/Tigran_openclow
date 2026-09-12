@@ -588,3 +588,13 @@ Anything listed here will not be collected again.
 - 2026-09-11 | https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/ | Powering AI is an architecture problem
 - 2026-09-11 | https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials | How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules
 - 2026-09-11 | https://openai.com/index/put-data-to-work | Now everyone can put data to work
+
+- 2026-09-12 | https://www.youtube.com/watch?v=JwTCjarfJYw | AI News: The AI World is REALLY Scared Right Now
+- 2026-09-12 | https://www.youtube.com/watch?v=6LNlCpQPYFc | How to Actually Choose the Right AI Agent
+- 2026-09-12 | https://www.youtube.com/watch?v=gzMQtm-cIiY | Anthropic Researcher Says 10% Chance AI Kills All Humans
+- 2026-09-12 | https://www.youtube.com/watch?v=AxzcWOxzkiw | Three Lab Warnings in Five Days, Researcher Flags Gambling with Our Lives, and Labs Race
+- 2026-09-12 | https://x.com/emollick/status/2098534460996075568 | @emollick — benchmark saturation
+- 2026-09-12 | https://x.com/emollick/status/2098464926507401338 | @emollick — catastrophe forecasting
+- 2026-09-12 | https://x.com/emollick/status/2098428962468700197 | @emollick — AI attention
+- 2026-09-12 | https://x.com/EugenioFierro3/status/2098541147517755788 | @EugenioFierro3 — GPT-6 Astra browser game demo
+- 2026-09-12 | https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/ | Roundtables: AI’s apocalypse crisis
