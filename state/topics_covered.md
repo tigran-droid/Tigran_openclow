@@ -1,3 +1,9 @@
+- 2026-09-12 | divergent AI catastrophe forecasts | govern named consequences rather than borrow one probability
+- 2026-09-12 | benchmark saturation follow-up | replace public rank with recurring internal workflow evidence
+- 2026-09-12 | model versus harness | own portable context tests and task assets
+- 2026-09-12 | internal AI evidence loop | test the complete system and match controls to consequences
+- 2026-09-12 | expiring AI benchmarks | build durable evaluations around accepted company work
+- 2026-09-12 | portable agent stack | preserve operating knowledge across model and provider changes
 - 2026-09-11 | internal build-versus-buy threshold | own tailored systems when data governance and maintenance exist
 - 2026-09-11 | hidden responsibilities after task automation | protect mentoring stewardship and capability formation
 - 2026-09-11 | active management of long-running agents | design checkpoints escalation and stop conditions
