@@ -598,3 +598,19 @@ Anything listed here will not be collected again.
 - 2026-09-12 | https://x.com/emollick/status/2098428962468700197 | @emollick — AI attention
 - 2026-09-12 | https://x.com/EugenioFierro3/status/2098541147517755788 | @EugenioFierro3 — GPT-6 Astra browser game demo
 - 2026-09-12 | https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/ | Roundtables: AI’s apocalypse crisis
+- 2026-09-13 | https://www.youtube.com/watch?v=Y2hE6kYZPg0 | What to Use the Latest AI Tools For
+- 2026-09-13 | https://www.youtube.com/watch?v=wqQ5kIwe1nQ | AI:AM Highlights: Astra as AGI, OpenAI's Pause, Mythos @ Mozilla &amp; Human Agency vs Technocapitalism
+- 2026-09-13 | https://x.com/karpathy/status/2098811935114551617 | @karpathy — post
+- 2026-09-13 | https://x.com/sama/status/2098811563415150910 | @sama — post
+- 2026-09-13 | https://x.com/emollick/status/2099011701949583614 | @emollick — post
+- 2026-09-13 | https://x.com/emollick/status/2098902602758996040 | @emollick — post
+- 2026-09-13 | https://x.com/emollick/status/2098878488853795316 | @emollick — post
+- 2026-09-13 | https://x.com/emollick/status/2098841409637777869 | @emollick — post
+- 2026-09-13 | https://x.com/emollick/status/2098839310887772602 | @emollick — post
+- 2026-09-13 | https://x.com/emollick/status/2098812026944454715 | @emollick — post
+- 2026-09-13 | https://x.com/EugenioFierro3/status/2098913312184377647 | @EugenioFierro3 — post
+- 2026-09-13 | https://x.com/EugenioFierro3/status/2098909232561074481 | @EugenioFierro3 — post
+- 2026-09-13 | https://x.com/EugenioFierro3/status/2098906384825790626 | @EugenioFierro3 — post
+- 2026-09-13 | https://x.com/EugenioFierro3/status/2098896864120607175 | @EugenioFierro3 — post
+- 2026-09-13 | https://x.com/EugenioFierro3/status/2098890183819120786 | @EugenioFierro3 — post
+- 2026-09-13 | https://x.com/EugenioFierro3/status/2098834251298795541 | @EugenioFierro3 — post
