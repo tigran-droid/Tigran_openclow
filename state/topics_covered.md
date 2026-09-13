@@ -1,3 +1,9 @@
+- 2026-09-13 | plausible success risk | domain experts become the acceptance control for polished AI output
+- 2026-09-13 | multi-day agent management | replace prompt training with outcomes checkpoints evidence and stop rules
+- 2026-09-13 | substantive independent evaluation | require time access publication rights and stop authority
+- 2026-09-13 | AI agents as a management problem | operate long-running work through expertise evaluation cost and controls
+- 2026-09-13 | expert acceptance boundary | move domain judgment into structured tests and rejection decisions
+- 2026-09-13 | long-running agent budgeting | price the complete run including tools retries and review
 - 2026-09-12 | divergent AI catastrophe forecasts | govern named consequences rather than borrow one probability
 - 2026-09-12 | benchmark saturation follow-up | replace public rank with recurring internal workflow evidence
 - 2026-09-12 | model versus harness | own portable context tests and task assets
