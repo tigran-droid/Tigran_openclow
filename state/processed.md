@@ -614,3 +614,19 @@ Anything listed here will not be collected again.
 - 2026-09-13 | https://x.com/EugenioFierro3/status/2098896864120607175 | @EugenioFierro3 — post
 - 2026-09-13 | https://x.com/EugenioFierro3/status/2098890183819120786 | @EugenioFierro3 — post
 - 2026-09-13 | https://x.com/EugenioFierro3/status/2098834251298795541 | @EugenioFierro3 — post
+- 2026-09-14 | https://www.youtube.com/watch?v=68HH9HVFJDM | AI News in 10 mins: 10% chance AI kills all humans
+- 2026-09-14 | https://www.youtube.com/watch?v=HIRDzMtuWFk | Anthropic Engineer Explains: What to Build Instead of AI Agents
+- 2026-09-14 | https://www.youtube.com/watch?v=m5zM66sNmHc | Full nuclear Mars mission story on the channel.
+- 2026-09-14 | https://www.youtube.com/watch?v=MTvR3stTgzA | A researcher who spent three years training models at both OpenAI and Anthropic resigned
+- 2026-09-14 | https://www.youtube.com/watch?v=H5ZLorBJCDk | Ask the Mates anything | MOONSHOTS AMA  #289
+- 2026-09-14 | https://x.com/sama/status/2099352016988614852 | @sama — post
+- 2026-09-14 | https://x.com/sama/status/2099348812305473766 | @sama — post
+- 2026-09-14 | https://x.com/emollick/status/2099333274648838155 | @emollick — post
+- 2026-09-14 | https://x.com/emollick/status/2099310692532699608 | @emollick — post
+- 2026-09-14 | https://x.com/emollick/status/2099260122186842351 | @emollick — post
+- 2026-09-14 | https://x.com/emollick/status/2099235643792462040 | @emollick — post
+- 2026-09-14 | https://x.com/emollick/status/2099199806543421772 | @emollick — post
+- 2026-09-14 | https://x.com/emollick/status/2099196495069167738 | @emollick — post
+- 2026-09-14 | https://x.com/emollick/status/2099134552807522610 | @emollick — post
+- 2026-09-14 | https://x.com/EugenioFierro3/status/2099139959449956748 | @EugenioFierro3 — post
+- 2026-09-14 | https://x.com/EugenioFierro3/status/2099134842076004587 | @EugenioFierro3 — post
