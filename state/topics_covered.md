@@ -1,3 +1,9 @@
+- 2026-09-14 | embedded evaluator authority | require development access evidence publication rights and stop authority
+- 2026-09-14 | reusable skills over bespoke agents | preserve process scripts routing and checks above general agents
+- 2026-09-14 | transformation despite frontier pacing | redesign current work while future capability is governed
+- 2026-09-14 | upstream AI safety controls | move governance to task data access and development decisions
+- 2026-09-14 | embedded enterprise AI evaluation | pilot independent evaluation inside valuable workflows
+- 2026-09-14 | organisational knowledge as skills | make operating knowledge portable testable and cumulative
 - 2026-09-13 | plausible success risk | domain experts become the acceptance control for polished AI output
 - 2026-09-13 | multi-day agent management | replace prompt training with outcomes checkpoints evidence and stop rules
 - 2026-09-13 | substantive independent evaluation | require time access publication rights and stop authority
