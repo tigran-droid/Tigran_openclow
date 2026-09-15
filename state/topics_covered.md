@@ -1,3 +1,9 @@
+- 2026-09-15 | agent institutions over instructions | combine observable communication with enforceable consequences
+- 2026-09-15 | trusted assistant architecture | decompose work and learn from accepted user edits
+- 2026-09-15 | frontier pacing credibility | require evidence publication and stop authority beyond lab agreement
+- 2026-09-15 | multi-agent institutional design | build acceptance intervention consequences and reconstruction
+- 2026-09-15 | agent whistleblower test | test detection escalation enforcement and recovery
+- 2026-09-15 | specialised model product architecture | expand autonomy only after workflow evidence holds
 - 2026-09-14 | embedded evaluator authority | require development access evidence publication rights and stop authority
 - 2026-09-14 | reusable skills over bespoke agents | preserve process scripts routing and checks above general agents
 - 2026-09-14 | transformation despite frontier pacing | redesign current work while future capability is governed
