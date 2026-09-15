@@ -630,3 +630,17 @@ Anything listed here will not be collected again.
 - 2026-09-14 | https://x.com/emollick/status/2099134552807522610 | @emollick — post
 - 2026-09-14 | https://x.com/EugenioFierro3/status/2099139959449956748 | @EugenioFierro3 — post
 - 2026-09-14 | https://x.com/EugenioFierro3/status/2099134842076004587 | @EugenioFierro3 — post
+- 2026-09-15 | https://www.youtube.com/watch?v=mku_K8pCLx4 | Is AI Going To "Kill Us All"?
+- 2026-09-15 | https://www.youtube.com/watch?v=5Wivm4gd9YQ | AI Companies Begin to Align Around Slowdown
+- 2026-09-15 | https://www.youtube.com/watch?v=zUvxyfXDBGM | Our first Moonshots AMA
+- 2026-09-15 | https://www.youtube.com/watch?v=7jNDE8AbJbQ | The mates' actual AI policy playbook — track every chip like nuclear fuel.
+- 2026-09-15 | https://www.youtube.com/watch?v=DxCR9o5_t70 | Why AI labs obsess over training data quality
+- 2026-09-15 | https://www.youtube.com/watch?v=raxgxcSJiGw | Get in losers – We're Pacing the Frontier!
+- 2026-09-15 | https://www.youtube.com/watch?v=tyXWIwsxzzU | Fable Show &amp; Tell + Goodfire's New Intentional Design Techniques
+- 2026-09-15 | https://www.youtube.com/watch?v=t0wMcWQSpeE | Fable Show &amp; Tell + Goodfire's New Intentional Design Techniques
+- 2026-09-15 | https://x.com/emollick/status/2099713891567579575 | @emollick — post
+- 2026-09-15 | https://x.com/emollick/status/2099701841743237317 | @emollick — post
+- 2026-09-15 | https://x.com/emollick/status/2099626476433809819 | @emollick — post
+- 2026-09-15 | https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/ | The AI industry has taken a doomer turn. What now?
+- 2026-09-15 | https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/ | AI agents blew the whistle on their cheating colleagues
+- 2026-09-15 | https://openai.com/index/fyxer | How Fyxer built an AI executive assistant people trust
