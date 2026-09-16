@@ -1,3 +1,9 @@
+- 2026-09-16 | AI infrastructure productivity burden | adoption must produce accepted business outcomes
+- 2026-09-16 | verification after time savings | redesign roles around judgment created by saved time
+- 2026-09-16 | conversational enterprise interface follow-up | keep authority in source systems as screens disappear
+- 2026-09-16 | AI boom productivity proof | measure complete workflows before infrastructure assumptions harden
+- 2026-09-16 | accepted-work productivity scorecard | track review corrections cycle time and acceptance
+- 2026-09-16 | conversational agent control stack | separate read recommend change and send permissions
 - 2026-09-15 | agent institutions over instructions | combine observable communication with enforceable consequences
 - 2026-09-15 | trusted assistant architecture | decompose work and learn from accepted user edits
 - 2026-09-15 | frontier pacing credibility | require evidence publication and stop authority beyond lab agreement
