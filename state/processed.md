@@ -644,3 +644,11 @@ Anything listed here will not be collected again.
 - 2026-09-15 | https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/ | The AI industry has taken a doomer turn. What now?
 - 2026-09-15 | https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/ | AI agents blew the whistle on their cheating colleagues
 - 2026-09-15 | https://openai.com/index/fyxer | How Fyxer built an AI executive assistant people trust
+- 2026-09-16 | https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/ | What must happen for AI’s trillion-dollar gamble to pay off
+- 2026-09-16 | https://www.youtube.com/watch?v=EceXGMlJdW4 | Ep. 239: Labs to Pace AI, OpenAI Math Breakthrough, AI Jobs Apocalypse Delayed & Jensen Declares AGI
+- 2026-09-16 | https://www.youtube.com/watch?v=ff7om2bBLKM | Grok Bot Manages My Inbox (and has its own)
+- 2026-09-16 | https://www.youtube.com/watch?v=JG6LfQIhlGg | Pacing Gets Political + Andon Labs & an AI Religion?
+- 2026-09-16 | https://www.youtube.com/watch?v=rdEn9cpMScA | The Balance of AI Power: Anton Leicht on Politics, Pacing Deals, and Muddling Through Well
+- 2026-09-16 | https://x.com/emollick/status/2100102316447670677 | Ethan Mollick — AI use in science study
+- 2026-09-16 | https://x.com/EugenioFierro3/status/2099971300953333912 | Eugenio Fierro — Gemini Live voice models
+- 2026-09-16 | https://x.com/EugenioFierro3/status/2099884035119960217 | Eugenio Fierro — Salesforce in Claude
