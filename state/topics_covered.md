@@ -1,3 +1,8 @@
+- 2026-09-17 | Blurring job boundaries | redesign roles around outcomes, judgment and context
+- 2026-09-17 | Judgement models as a decision layer | design the decision before automating output
+- 2026-09-17 | AI chat privacy and human review | governance must reach the employee workflow
+- 2026-09-17 | Decision-centric AI transformation | map recurring judgements before buying tools
+- 2026-09-17 | Job descriptions after AI | replace handoff-based roles and rebuild career paths
 - 2026-09-16 | AI infrastructure productivity burden | adoption must produce accepted business outcomes
 - 2026-09-16 | verification after time savings | redesign roles around judgment created by saved time
 - 2026-09-16 | conversational enterprise interface follow-up | keep authority in source systems as screens disappear
