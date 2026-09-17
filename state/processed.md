@@ -652,3 +652,33 @@ Anything listed here will not be collected again.
 - 2026-09-16 | https://x.com/emollick/status/2100102316447670677 | Ethan Mollick — AI use in science study
 - 2026-09-16 | https://x.com/EugenioFierro3/status/2099971300953333912 | Eugenio Fierro — Gemini Live voice models
 - 2026-09-16 | https://x.com/EugenioFierro3/status/2099884035119960217 | Eugenio Fierro — Salesforce in Claude
+- 2026-09-17 | https://www.youtube.com/watch?v=S2VJU5DQqlU | He Built The Ultimate Spy Tool (Free and Open-Source)
+- 2026-09-17 | https://www.youtube.com/watch?v=nF45_dhsmWY | Minecraft + ChatGPT (Holy Crap!)
+- 2026-09-17 | https://www.youtube.com/watch?v=FqnNL8fnUWo | How to Build GPT-6 Astra Automations (that don’t eat your usage limit)
+- 2026-09-17 | https://www.youtube.com/watch?v=sdR7FZ0SeqA | Why a New Class of AI &quot;Judgement Models&quot; Could Have Big Business Implications
+- 2026-09-17 | https://www.youtube.com/watch?v=5vh1Vr3QSCY | Trump Rails Against AI Slowdown &quot;Hoax&quot;
+- 2026-09-17 | https://www.youtube.com/watch?v=5u_gVPyZ8A4 | Martine Rothblatt turned a death sentence into a manageable disease
+- 2026-09-17 | https://www.youtube.com/watch?v=4Ev81wthsx8 | One Mate Calls This the Most Important Moment in Human History
+- 2026-09-17 | https://www.youtube.com/watch?v=uKae8YQWNfU | One Mate's Blunt Career Advice: Skip Accounting, Learn HVAC
+- 2026-09-17 | https://x.com/sama/status/2100351958167220547 | @sama — post
+- 2026-09-17 | https://x.com/emollick/status/2100462385924538552 | @emollick — post
+- 2026-09-17 | https://x.com/emollick/status/2100431676501602641 | @emollick — post
+- 2026-09-17 | https://x.com/emollick/status/2100408620236357948 | @emollick — post
+- 2026-09-17 | https://x.com/emollick/status/2100379459660730828 | @emollick — post
+- 2026-09-17 | https://x.com/emollick/status/2100329505571426525 | @emollick — post
+- 2026-09-17 | https://x.com/emollick/status/2100246695766307171 | @emollick — post
+- 2026-09-17 | https://x.com/emollick/status/2100233342494925257 | @emollick — post
+- 2026-09-17 | https://x.com/EugenioFierro3/status/2100320881150980402 | @EugenioFierro3 — post
+- 2026-09-17 | https://x.com/EugenioFierro3/status/2100316071903293837 | @EugenioFierro3 — post
+- 2026-09-17 | https://x.com/EugenioFierro3/status/2100313232980283840 | @EugenioFierro3 — post
+- 2026-09-17 | https://x.com/EugenioFierro3/status/2100310285114277996 | @EugenioFierro3 — post
+- 2026-09-17 | https://x.com/EugenioFierro3/status/2100308225903952339 | @EugenioFierro3 — post
+- 2026-09-17 | https://x.com/EugenioFierro3/status/2100295662805926315 | @EugenioFierro3 — post
+- 2026-09-17 | https://x.com/EugenioFierro3/status/2100291059376877746 | @EugenioFierro3 — post
+- 2026-09-17 | https://x.com/EugenioFierro3/status/2100288753034043520 | @EugenioFierro3 — post
+- 2026-09-17 | https://x.com/EugenioFierro3/status/2100279855128461659 | @EugenioFierro3 — post
+- 2026-09-17 | https://x.com/EugenioFierro3/status/2100276978855121145 | @EugenioFierro3 — post
+- 2026-09-17 | https://x.com/EugenioFierro3/status/2100271905554989322 | @EugenioFierro3 — post
+- 2026-09-17 | https://x.com/EugenioFierro3/status/2100266311079055546 | @EugenioFierro3 — post
+- 2026-09-17 | https://x.com/EugenioFierro3/status/2100263599138578938 | @EugenioFierro3 — post
+- 2026-09-17 | https://x.com/EugenioFierro3/status/2100160800644104481 | @EugenioFierro3 — post
