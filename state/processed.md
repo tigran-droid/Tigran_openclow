@@ -682,3 +682,23 @@ Anything listed here will not be collected again.
 - 2026-09-17 | https://x.com/EugenioFierro3/status/2100266311079055546 | @EugenioFierro3 — post
 - 2026-09-17 | https://x.com/EugenioFierro3/status/2100263599138578938 | @EugenioFierro3 — post
 - 2026-09-17 | https://x.com/EugenioFierro3/status/2100160800644104481 | @EugenioFierro3 — post
+- 2026-09-18 | https://www.youtube.com/watch?v=MFc9UP0XwUU | Ep. 240: How David’s Bridal Is Rebuilding a 76-Year-Old Business Around AI
+- 2026-09-18 | https://www.youtube.com/watch?v=oWCcN6hSFjA | This ONE GPT-6 Astra Skill Replaces Your Higgsfield Subscription
+- 2026-09-18 | https://www.youtube.com/watch?v=XsOoumeXtm4 | 10 Ways to Think Bigger with Opportunity AI
+- 2026-09-18 | https://www.youtube.com/watch?v=ef4aiat-m70 | A Sword Duel Challenge to Elon and Jeff Bezos
+- 2026-09-18 | https://www.youtube.com/watch?v=DrV4WwNEAZE | Frontier Labs Want to Slow Down, OpenAI Delays Its 2026 IPO, Anthropic Flags 5 Bioweapon Cases
+- 2026-09-18 | https://www.youtube.com/watch?v=4nNz6KOgVCY | GDP Growth Is About to Look Like a Broken Compass
+- 2026-09-18 | https://www.youtube.com/watch?v=wKwG05s7jpA | The Latest re: AI Welfare + Training Execs in AI Transformation
+- 2026-09-18 | https://www.youtube.com/watch?v=2ayx_3mHPgU | No Code Is Code: Zapier CEO Wade Foster on Headless Tools, Zapier MCP &amp; Automation Bench
+- 2026-09-18 | https://x.com/emollick/status/2100767116819325141 | @emollick
+- 2026-09-18 | https://x.com/emollick/status/2100744220562673683 | @emollick
+- 2026-09-18 | https://x.com/emollick/status/2100743641190781114 | @emollick
+- 2026-09-18 | https://x.com/emollick/status/2100714800527327488 | @emollick
+- 2026-09-18 | https://x.com/emollick/status/2100665801800093959 | @emollick
+- 2026-09-18 | https://x.com/emollick/status/2100651315617800358 | @emollick
+- 2026-09-18 | https://x.com/emollick/status/2100646721814737109 | @emollick
+- 2026-09-18 | https://x.com/EugenioFierro3/status/2100635309083901978 | @EugenioFierro3
+- 2026-09-18 | https://x.com/EugenioFierro3/status/2100632904460091821 | @EugenioFierro3
+- 2026-09-18 | https://x.com/EugenioFierro3/status/2100629257957372220 | @EugenioFierro3
+- 2026-09-18 | https://x.com/EugenioFierro3/status/2100605107473625303 | @EugenioFierro3
+- 2026-09-18 | https://x.com/EugenioFierro3/status/2100593799579795929 | @EugenioFierro3
