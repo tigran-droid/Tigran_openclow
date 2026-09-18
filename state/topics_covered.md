@@ -1,3 +1,9 @@
+- 2026-09-18 | token budgets as capital allocation | fund accepted outcomes rather than equal consumption
+- 2026-09-18 | rotating AI transformation ownership | move leadership as the organisational constraint changes
+- 2026-09-18 | SaaS pricing after headless agents | replace seats with explicit usage outcomes and review economics
+- 2026-09-18 | AI budget management quality | connect spend to task correction and accepted business value
+- 2026-09-18 | AI budget ladder | move from open learning to evidence-based compute allocation
+- 2026-09-18 | agent-native software pricing | define completion retries and review in mixed human-agent work
 - 2026-09-17 | Blurring job boundaries | redesign roles around outcomes, judgment and context
 - 2026-09-17 | Judgement models as a decision layer | design the decision before automating output
 - 2026-09-17 | AI chat privacy and human review | governance must reach the employee workflow
