@@ -702,3 +702,34 @@ Anything listed here will not be collected again.
 - 2026-09-18 | https://x.com/EugenioFierro3/status/2100629257957372220 | @EugenioFierro3
 - 2026-09-18 | https://x.com/EugenioFierro3/status/2100605107473625303 | @EugenioFierro3
 - 2026-09-18 | https://x.com/EugenioFierro3/status/2100593799579795929 | @EugenioFierro3
+- 2026-09-19 | https://www.youtube.com/watch?v=Kof2VcHTjrk | AI News: All AI Labs Want To Slow Down (Except One)
+- 2026-09-19 | https://www.youtube.com/watch?v=5_ybfeqA6y0 | An AI Researcher Quit and Warned the World About AI
+- 2026-09-19 | https://www.youtube.com/watch?v=TIYCa6hOx1Q | Run Your Entire Cold Outreach From One Tool
+- 2026-09-19 | https://www.youtube.com/watch?v=QDsenEcAJIk | Anthropic’s CEO: How to Build a 1 Person Business with Claude
+- 2026-09-19 | https://www.youtube.com/watch?v=NmXhFS39ad0 | Why Everyone is Now Getting Excited About Personal AI Agents
+- 2026-09-19 | https://www.youtube.com/watch?v=l36jT-7Cq1o | Why AGI Isn't the Finish Line
+- 2026-09-19 | https://www.youtube.com/watch?v=KCJ8F-QatkM | The UK Still Can't Get the Model
+- 2026-09-19 | https://x.com/emollick/status/2101106479411687489 | @emollick — post
+- 2026-09-19 | https://x.com/emollick/status/2101010622305493013 | @emollick — post
+- 2026-09-19 | https://x.com/emollick/status/2100978802843177081 | @emollick — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2101013486901837913 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2101010862723027250 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2101009302110564417 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2101006112677888199 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2101004302898618570 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2101002375188058426 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2100998714609250716 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2100992428836560926 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2100990237925134843 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2100987720000577761 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2100979298131694023 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2100977920198037917 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2100975661544317215 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2100973742952222850 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2100969610002473414 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2100965952644923560 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2100945630264725708 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2100943122800742815 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2100938633146401198 | @EugenioFierro3 — post
+- 2026-09-19 | https://x.com/EugenioFierro3/status/2100919377210048710 | @EugenioFierro3 — post
+- 2026-09-19 | https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/ | Could AI really kill us all? Your questions, answered.
