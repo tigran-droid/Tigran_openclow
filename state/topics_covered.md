@@ -1,3 +1,9 @@
+- 2026-09-19 | organisational capability overhang | build operating muscle around current models before chasing the next release
+- 2026-09-19 | access-based independent AI oversight | make review credible through real workflow evidence and evaluator access
+- 2026-09-19 | authoritative data architecture | connect agents to governed facts with provenance and accountable review
+- 2026-09-19 | operating capability as durable advantage | convert abundant intelligence into reliable repeatable work
+- 2026-09-19 | capability overhang audit | find valuable current-model workflows through context and acceptance tests
+- 2026-09-19 | source-of-truth agent design | separate model interface from authoritative business facts
 - 2026-09-18 | token budgets as capital allocation | fund accepted outcomes rather than equal consumption
 - 2026-09-18 | rotating AI transformation ownership | move leadership as the organisational constraint changes
 - 2026-09-18 | SaaS pricing after headless agents | replace seats with explicit usage outcomes and review economics
