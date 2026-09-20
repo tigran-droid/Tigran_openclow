@@ -733,3 +733,15 @@ Anything listed here will not be collected again.
 - 2026-09-19 | https://x.com/EugenioFierro3/status/2100938633146401198 | @EugenioFierro3 — post
 - 2026-09-19 | https://x.com/EugenioFierro3/status/2100919377210048710 | @EugenioFierro3 — post
 - 2026-09-19 | https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/ | Could AI really kill us all? Your questions, answered.
+- 2026-09-20 | https://www.youtube.com/watch?v=pBRekQT8JUQ | OpenAI Says an AI Model Solved a 100-Year Math Problem
+- 2026-09-20 | https://www.youtube.com/watch?v=ymgH8jS6Wb8 | I Tested Jev on 12 Real Use Cases. My Honest Thoughts.
+- 2026-09-20 | https://www.youtube.com/watch?v=9KOtMsZ9I28 | How to Build Codex Skills Better than 99% of People
+- 2026-09-20 | https://www.youtube.com/watch?v=2hGOlUooM2E | The Four Things Society Does Once Its Needs Are Met
+- 2026-09-20 | https://www.youtube.com/watch?v=LNBzLTLuLUo | Robinhood's Vlad Tenev on Tokenizing Everything, OpenAI's 6 Misalignment Reports, Figure's Robot
+- 2026-09-20 | https://www.youtube.com/watch?v=Ij-q15Ai10o | Why Leaving for a PhD Might Be a Mistake
+- 2026-09-20 | https://www.youtube.com/watch?v=UkBooMFYtT0 | AI:AM Highlights: Zvi on Pacing, model behaviour and LLM pain
+- 2026-09-20 | https://x.com/emollick/status/2101517626954436623 | Ethan Mollick on Astra simulation behaviour
+- 2026-09-20 | https://x.com/emollick/status/2101426783430074758 | Ethan Mollick on an AI-created zooming game
+- 2026-09-20 | https://x.com/emollick/status/2101394716310815143 | Ethan Mollick on evaluating AI financial advice claims
+- 2026-09-20 | https://x.com/emollick/status/2101344628280607066 | Ethan Mollick on positive AI impact scenarios
+- 2026-09-20 | https://x.com/emollick/status/2101301629320310871 | Ethan Mollick on AI-created film and art
