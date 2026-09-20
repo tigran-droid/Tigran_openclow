@@ -1,3 +1,9 @@
+- 2026-09-20 | AI decision stack | route routine judgments cheaply and reserve frontier reasoning for ambiguity
+- 2026-09-20 | answer provenance | make evidence contribution chains and permissions travel with expert AI work
+- 2026-09-20 | testable reusable skills | define done rejection and escalation before packaging organisational knowledge
+- 2026-09-20 | layered AI operating model | assemble deciding creating checking and governing as distinct functions
+- 2026-09-20 | enterprise provenance design | track sources people systems and permissions as part of acceptance
+- 2026-09-20 | decision-routing playbook | classify workflow judgments by volume ambiguity and consequence
 - 2026-09-19 | organisational capability overhang | build operating muscle around current models before chasing the next release
 - 2026-09-19 | access-based independent AI oversight | make review credible through real workflow evidence and evaluator access
 - 2026-09-19 | authoritative data architecture | connect agents to governed facts with provenance and accountable review
