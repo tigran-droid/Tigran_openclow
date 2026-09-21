@@ -745,3 +745,10 @@ Anything listed here will not be collected again.
 - 2026-09-20 | https://x.com/emollick/status/2101394716310815143 | Ethan Mollick on evaluating AI financial advice claims
 - 2026-09-20 | https://x.com/emollick/status/2101344628280607066 | Ethan Mollick on positive AI impact scenarios
 - 2026-09-20 | https://x.com/emollick/status/2101301629320310871 | Ethan Mollick on AI-created film and art
+- 2026-09-21 | https://www.youtube.com/watch?v=HNFhXFZxMYQ | 7 Ways How We Use AI Is Changing
+- 2026-09-21 | https://www.youtube.com/watch?v=i_03S9uemwU | Why the Future of Work Looks a Lot Like Iron Man
+- 2026-09-21 | https://www.youtube.com/watch?v=iURpCuyPb40 | One Simple Analogy for Why Automation Fears Are Overblown
+- 2026-09-21 | https://x.com/emollick/status/2101792148723032151 | Ethan Mollick — corrected Waymo safety analysis
+- 2026-09-21 | https://x.com/emollick/status/2101786064142705042 | Ethan Mollick — fast forward-looking AI research
+- 2026-09-21 | https://x.com/emollick/status/2101731295659180527 | Ethan Mollick — language drift in long-running agents
+- 2026-09-21 | https://x.com/emollick/status/2101683717571784879 | Ethan Mollick — image generation gap in knowledge work
