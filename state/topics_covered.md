@@ -1,3 +1,9 @@
+- 2026-09-21 | one conversational front door | simplify use while keeping routing permissions and evidence explicit
+- 2026-09-21 | language drift in persistent agents | test communication quality throughout long-running work
+- 2026-09-21 | multimodal workflow completion | benchmark the finished deliverable rather than isolated text
+- 2026-09-21 | hidden digital organisation behind one interface | govern authority context quality and recovery
+- 2026-09-21 | persistent agent thread operations | maintain context with checkpoints resets and ownership
+- 2026-09-21 | provisional AI evidence | version assumptions and publish visible corrections as data changes
 - 2026-09-20 | AI decision stack | route routine judgments cheaply and reserve frontier reasoning for ambiguity
 - 2026-09-20 | answer provenance | make evidence contribution chains and permissions travel with expert AI work
 - 2026-09-20 | testable reusable skills | define done rejection and escalation before packaging organisational knowledge
