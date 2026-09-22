@@ -1,3 +1,9 @@
+- 2026-09-22 | uneven AI employment transition | net job growth does not provide a path between displaced knowledge work and infrastructure jobs
+- 2026-09-22 | external agent containment follow-up | model self-correction is not a security boundary after an out-of-scope action
+- 2026-09-22 | industrialisation of knowledge work | preserve judgment apprenticeship and exception handling while standardising output
+- 2026-09-22 | AI workforce transition maps | connect task change to realistic worker mobility instead of relying on national totals
+- 2026-09-22 | task and mobility mapping | measure accessibility training geography and capability loss alongside productivity
+- 2026-09-22 | agent boundary test | audit identity scope permissions escalation evidence and recovery outside the model
 - 2026-09-21 | one conversational front door | simplify use while keeping routing permissions and evidence explicit
 - 2026-09-21 | language drift in persistent agents | test communication quality throughout long-running work
 - 2026-09-21 | multimodal workflow completion | benchmark the finished deliverable rather than isolated text
