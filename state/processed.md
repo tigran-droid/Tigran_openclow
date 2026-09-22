@@ -752,3 +752,31 @@ Anything listed here will not be collected again.
 - 2026-09-21 | https://x.com/emollick/status/2101786064142705042 | Ethan Mollick — fast forward-looking AI research
 - 2026-09-21 | https://x.com/emollick/status/2101731295659180527 | Ethan Mollick — language drift in long-running agents
 - 2026-09-21 | https://x.com/emollick/status/2101683717571784879 | Ethan Mollick — image generation gap in knowledge work
+- 2026-09-22 | https://www.youtube.com/watch?v=rcUTZysF9s4 | This Robot Looks DEMONIC... On Purpose?
+- 2026-09-22 | https://www.youtube.com/watch?v=2v33JTGG-Fo | The AI Jobs Apocalypse Was Postponed?
+- 2026-09-22 | https://www.youtube.com/watch?v=xcxbOcc36dM | This New AI Makes Decisions for 18 Cents
+- 2026-09-22 | https://www.youtube.com/watch?v=X-pbJWKmwi0 | Build &amp; Sell with Codex (5+ Hour Course)
+- 2026-09-22 | https://www.youtube.com/watch?v=Fuczz33ZBtI | The State of the AI Debate
+- 2026-09-22 | https://www.youtube.com/watch?v=wDiihXDorIY | The AI Challenges Businesses Are Actually Focused On Right Now
+- 2026-09-22 | https://www.youtube.com/watch?v=efw11JSkda8 | Why One AI Scientist Compares Rogue AI Agents to Jessica Rabbit
+- 2026-09-22 | https://www.youtube.com/watch?v=BvjppUXxChg | Vlad Tenev said it on CNBC and again on our pod: tokenization is a freight train
+- 2026-09-22 | https://www.youtube.com/watch?v=saGAlBAGzIQ | The 1999 Advice That Explains Today's AI Investment Boom
+- 2026-09-22 | https://www.youtube.com/watch?v=oAz9ztxDD98 | Our New AI Business Partner + Max Nadeau on Project Tailwind
+- 2026-09-22 | https://x.com/emollick/status/2102238971854291267 | @emollick — post
+- 2026-09-22 | https://x.com/emollick/status/2102179283737158019 | @emollick — post
+- 2026-09-22 | https://x.com/emollick/status/2102134347084034449 | @emollick — post
+- 2026-09-22 | https://x.com/emollick/status/2102062111585145053 | @emollick — post
+- 2026-09-22 | https://x.com/emollick/status/2102033312554287270 | @emollick — post
+- 2026-09-22 | https://x.com/EugenioFierro3/status/2102303704573440142 | @EugenioFierro3 — post
+- 2026-09-22 | https://x.com/EugenioFierro3/status/2102127375613870443 | @EugenioFierro3 — post
+- 2026-09-22 | https://x.com/EugenioFierro3/status/2102125279149695362 | @EugenioFierro3 — post
+- 2026-09-22 | https://x.com/EugenioFierro3/status/2102117799308955661 | @EugenioFierro3 — post
+- 2026-09-22 | https://x.com/EugenioFierro3/status/2102115761586127094 | @EugenioFierro3 — post
+- 2026-09-22 | https://x.com/EugenioFierro3/status/2102114030164832749 | @EugenioFierro3 — post
+- 2026-09-22 | https://x.com/EugenioFierro3/status/2102112522241241168 | @EugenioFierro3 — post
+- 2026-09-22 | https://x.com/EugenioFierro3/status/2102109851673325735 | @EugenioFierro3 — post
+- 2026-09-22 | https://x.com/EugenioFierro3/status/2102087498109227359 | @EugenioFierro3 — post
+- 2026-09-22 | https://x.com/EugenioFierro3/status/2102068688702652704 | @EugenioFierro3 — post
+- 2026-09-22 | https://x.com/EugenioFierro3/status/2102038733012775020 | @EugenioFierro3 — post
+- 2026-09-22 | https://x.com/EugenioFierro3/status/2102030108542341593 | @EugenioFierro3 — post
+- 2026-09-22 | https://x.com/EugenioFierro3/status/2102026689295401202 | @EugenioFierro3 — post
