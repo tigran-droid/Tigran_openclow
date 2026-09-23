@@ -780,3 +780,42 @@ Anything listed here will not be collected again.
 - 2026-09-22 | https://x.com/EugenioFierro3/status/2102038733012775020 | @EugenioFierro3 — post
 - 2026-09-22 | https://x.com/EugenioFierro3/status/2102030108542341593 | @EugenioFierro3 — post
 - 2026-09-22 | https://x.com/EugenioFierro3/status/2102026689295401202 | @EugenioFierro3 — post
+- 2026-09-23 | https://www.youtube.com/watch?v=0t-eWrGFZyA | Opus 5.5 Is Crazy Good and GPT-6-Sol Launched Too
+- 2026-09-23 | https://www.youtube.com/watch?v=63eZd5eELlM | Ep. 241: Pacing the Frontier Gets Political & Why AI Labs Could Keep the Best Models for Themselves
+- 2026-09-23 | https://www.youtube.com/watch?v=eF3yeJuifoQ | I Tested Opus 5.5 vs. GPT-6 Sol on 10 Real Use Cases
+- 2026-09-23 | https://www.youtube.com/watch?v=WEqCpG206sc | Agent Wars
+- 2026-09-23 | https://www.youtube.com/watch?v=ZjPNP_MPl0U | Dave Blundin's Advice for Entrepreneurs Drowning in AI Output
+- 2026-09-23 | https://www.youtube.com/watch?v=s5BFumpCH_Q | Ask the Mates Anything Round #2 | MOONSHOTS AMA  #293
+- 2026-09-23 | https://www.youtube.com/watch?v=k3bQ127_s2A | A Decade-Old Conversation About Breaking Out of a Simulation
+- 2026-09-23 | https://x.com/sama/status/2102469008079679640 | @sama — post
+- 2026-09-23 | https://x.com/sama/status/2102468713866055872 | @sama — post
+- 2026-09-23 | https://x.com/sama/status/2102466603111551187 | @sama — post
+- 2026-09-23 | https://x.com/sama/status/2102465143997440308 | @sama — post
+- 2026-09-23 | https://x.com/sama/status/2102464672519815512 | @sama — post
+- 2026-09-23 | https://x.com/sama/status/2102464201335984392 | @sama — post
+- 2026-09-23 | https://x.com/sama/status/2102414347364335917 | @sama — post
+- 2026-09-23 | https://x.com/emollick/status/2102593821376696785 | @emollick — post
+- 2026-09-23 | https://x.com/emollick/status/2102441628661080384 | @emollick — post
+- 2026-09-23 | https://x.com/emollick/status/2102414040178036740 | @emollick — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102519240536326604 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102514799473037584 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102513175681733029 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102462171099611451 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102449200654877070 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102433565464023080 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102429009875185989 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102425814906147014 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102423374903275520 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102384229875126453 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102379682083615135 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102375827950149660 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102374621915856999 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102372294244946180 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102370882958119151 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102367653306265973 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102365311047483645 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102362693575290943 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102353493386215555 | @EugenioFierro3 — post
+- 2026-09-23 | https://x.com/EugenioFierro3/status/2102351585116291361 | @EugenioFierro3 — post
+- 2026-09-23 | https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/ | Don’t be fooled by this summer of AI hype
+- 2026-09-23 | https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/ | Roundtables: The Deadly Failures of The Virtual Border Wall
