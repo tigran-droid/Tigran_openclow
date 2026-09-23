@@ -1,3 +1,9 @@
+- 2026-09-23 | cost per accepted task after price compression | compare retries review latency and completion instead of token prices
+- 2026-09-23 | machine-mediated customer journey | design product discovery and purchasing for agent identity consent and evidence
+- 2026-09-23 | browser agents as operators | formalise authority even when automation is conversational
+- 2026-09-23 | fast model procurement cadence | maintain recurring internal evaluations as price and capability move
+- 2026-09-23 | machine customer readiness | make product facts permissions and transaction rules agent-readable
+- 2026-09-23 | internal AI model benchmark | rerun stable workflow tests after material model or price changes
 - 2026-09-22 | uneven AI employment transition | net job growth does not provide a path between displaced knowledge work and infrastructure jobs
 - 2026-09-22 | external agent containment follow-up | model self-correction is not a security boundary after an out-of-scope action
 - 2026-09-22 | industrialisation of knowledge work | preserve judgment apprenticeship and exception handling while standardising output
