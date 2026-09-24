@@ -819,3 +819,36 @@ Anything listed here will not be collected again.
 - 2026-09-23 | https://x.com/EugenioFierro3/status/2102351585116291361 | @EugenioFierro3 — post
 - 2026-09-23 | https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/ | Don’t be fooled by this summer of AI hype
 - 2026-09-23 | https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/ | Roundtables: The Deadly Failures of The Virtual Border Wall
+
+- 2026-09-24 | https://www.youtube.com/watch?v=nsA_HeY3idE | I hate it when they do this!
+- 2026-09-24 | https://www.youtube.com/watch?v=GmLcJVzkxPA | I Tested Opus 5.5 vs. GPT-6 Astra on 12 Real Use Cases
+- 2026-09-24 | https://www.youtube.com/watch?v=ZYTS7KMuC-o | DB2: "Why Did My Financials Disappear?"
+- 2026-09-24 | https://www.youtube.com/watch?v=fHwwzMzLaYg | Peter's FAA Analogy: "Written In Blood"
+- 2026-09-24 | https://www.youtube.com/watch?v=5gOM1PZoTnA | Alex: The Nixon-To-China Moment
+- 2026-09-24 | https://www.youtube.com/watch?v=q8zCT9I3t-g | Aligning Multi-Agent Systems and Financializing Compute
+- 2026-09-24 | https://x.com/emollick/status/2102959636450013456 | @emollick — post
+- 2026-09-24 | https://x.com/emollick/status/2102926079791124760 | @emollick — post
+- 2026-09-24 | https://x.com/emollick/status/2102865436459069474 | @emollick — post
+- 2026-09-24 | https://x.com/emollick/status/2102834402908582112 | @emollick — post
+- 2026-09-24 | https://x.com/emollick/status/2102814884111249872 | @emollick — post
+- 2026-09-24 | https://x.com/emollick/status/2102768800399548792 | @emollick — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102994581096743047 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102875393560596561 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102872138596163979 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102863898999218682 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102862122866581557 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102850163798581675 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102821663125463269 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102818470639399316 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102816771677860336 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102812967985095160 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102807566979887222 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102800176943411654 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102751994330931288 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102744126731047366 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102742581926838322 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102738708654878725 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102729891506446403 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102714060290560170 | @EugenioFierro3 — post
+- 2026-09-24 | https://x.com/EugenioFierro3/status/2102670658727444557 | @EugenioFierro3 — post
+- 2026-09-24 | https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/ | The AI Hype Index: AI loves cheating
