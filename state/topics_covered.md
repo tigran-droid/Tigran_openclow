@@ -1,3 +1,9 @@
+- 2026-09-24 | Model price sheets versus task economics | measure cost per accepted outcome, not cost per token
+- 2026-09-24 | AI discovery requires reproducibility | use agents to widen search and humans to validate
+- 2026-09-24 | Govern the route to an AI answer | inspect evidence and actions, not only outputs
+- 2026-09-24 | Organisational evaluation capability | model contracts depreciate while evaluation compounds
+- 2026-09-24 | Cost per token is the wrong AI metric | build workflow-level benchmarks
+- 2026-09-24 | Agentic observability and verification | separate generation from certification
 - 2026-09-23 | cost per accepted task after price compression | compare retries review latency and completion instead of token prices
 - 2026-09-23 | machine-mediated customer journey | design product discovery and purchasing for agent identity consent and evidence
 - 2026-09-23 | browser agents as operators | formalise authority even when automation is conversational
