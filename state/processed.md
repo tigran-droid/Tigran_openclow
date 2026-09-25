@@ -852,3 +852,15 @@ Anything listed here will not be collected again.
 - 2026-09-24 | https://x.com/EugenioFierro3/status/2102714060290560170 | @EugenioFierro3 — post
 - 2026-09-24 | https://x.com/EugenioFierro3/status/2102670658727444557 | @EugenioFierro3 — post
 - 2026-09-24 | https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/ | The AI Hype Index: AI loves cheating
+- 2026-09-25 | https://www.youtube.com/watch?v=SUtGm-nr4Hk | 5 Prompts For Every ChatGPT New Feature
+- 2026-09-25 | https://www.youtube.com/watch?v=hw2XbmWvqiA | Ep. 242: How Baptist Health’s Marketing Team Took the Lead on AI Transformation
+- 2026-09-25 | https://www.youtube.com/watch?v=QCkHIyEPIYo | I Tested Opus 5.5 at Every Effort Level. What You Need to Know.
+- 2026-09-25 | https://www.youtube.com/watch?v=KYGscdtRS1Y | Opus 5.5 vs GPT-6-Sol and Luna
+- 2026-09-25 | https://www.youtube.com/watch?v=yhbBYoA24kk | DB2: "Well, Look At Bitcoin"
+- 2026-09-25 | https://www.youtube.com/watch?v=hvBH0vdb27g | DB2's Kimi K3 Story: How China Cracked The Math Nobody Tried
+- 2026-09-25 | https://www.youtube.com/watch?v=0kcQ7ToNIh0 | "Inside You Are Two Wolves" — The Robin Hood Joke
+- 2026-09-25 | https://x.com/EugenioFierro3/status/2103204082856956164 | @EugenioFierro3 — post
+- 2026-09-25 | https://x.com/EugenioFierro3/status/2103164630101008463 | @EugenioFierro3 — post
+- 2026-09-25 | https://x.com/EugenioFierro3/status/2103161493105655873 | @EugenioFierro3 — post
+- 2026-09-25 | https://x.com/EugenioFierro3/status/2103121873621938370 | @EugenioFierro3 — post
+- 2026-09-25 | https://x.com/EugenioFierro3/status/2103102882736193671 | @EugenioFierro3 — post
