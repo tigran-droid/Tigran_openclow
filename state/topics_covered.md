@@ -1,3 +1,9 @@
+- 2026-09-25 | AI effort as a business control | optimise accepted work per euro instead of defaulting to maximum reasoning
+- 2026-09-25 | agent recovery after state loss | test replanning after disruption before trusting autonomy
+- 2026-09-25 | conversational software authority | keep action and data permissions explicit as application boundaries disappear
+- 2026-09-25 | failure injection for AI pilots | create production-like disasters and measure recovery evidence
+- 2026-09-25 | task-specific AI effort ladder | route workflows by acceptance cost time and ambiguity
+- 2026-09-25 | agent recovery testing framework | inject state loss conflicts interruptions and rejected output
 - 2026-09-24 | Model price sheets versus task economics | measure cost per accepted outcome, not cost per token
 - 2026-09-24 | AI discovery requires reproducibility | use agents to widen search and humans to validate
 - 2026-09-24 | Govern the route to an AI answer | inspect evidence and actions, not only outputs
