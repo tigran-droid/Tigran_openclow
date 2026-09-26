@@ -863,4 +863,39 @@ Anything listed here will not be collected again.
 - 2026-09-25 | https://x.com/EugenioFierro3/status/2103164630101008463 | @EugenioFierro3 — post
 - 2026-09-25 | https://x.com/EugenioFierro3/status/2103161493105655873 | @EugenioFierro3 — post
 - 2026-09-25 | https://x.com/EugenioFierro3/status/2103121873621938370 | @EugenioFierro3 — post
-- 2026-09-25 | https://x.com/EugenioFierro3/status/2103102882736193671 | @EugenioFierro3 — post
+- 2026-09-25 | https://x.com/EugenioFierro3/status/2103102882736193671 | @EugenioFierro3 — post- 2026-09-26 | https://www.youtube.com/watch?v=aDpIra7NFuE | AI News: Opus 5.5, GPT-6 Sol, Jev, Muse and More!
+- 2026-09-26 | https://www.youtube.com/watch?v=8JCvkZQe4NE | The AI Slowdown Debate Just Turned Very Political
+- 2026-09-26 | https://www.youtube.com/watch?v=7jHXoPGnA4c | Opus 5.5 Just Changed Video Editing Forever (free skills)
+- 2026-09-26 | https://www.youtube.com/watch?v=uV6h3Uo4Nh8 | How People Are Actually Using Jev
+- 2026-09-26 | https://www.youtube.com/watch?v=6oyh75929Gw | Cognitive Surrender
+- 2026-09-26 | https://www.youtube.com/watch?v=_LX3SqRj4bU | Vlad's AI Coding Agents Are Costing Him Sleep
+- 2026-09-26 | https://www.youtube.com/watch?v=9tVM45S9WTE | AI Labs Want To &quot;Have Their Cake And Eat It Too&quot;
+- 2026-09-26 | https://www.youtube.com/watch?v=OGhRmlsYko4 | Foundation Models for the Physical World + Making Biology Computable
+- 2026-09-26 | https://www.youtube.com/watch?v=HRZ82qpKcOs | Zero to One in AI Safety: Halcyon's Mike McCormick on Launching 30 New Orgs &amp; the Founder Bottleneck
+- 2026-09-26 | https://x.com/sama/status/2103567198690349362 | @sama — post
+- 2026-09-26 | https://x.com/emollick/status/2103709671865602100 | @emollick — post
+- 2026-09-26 | https://x.com/emollick/status/2103688362960019567 | @emollick — post
+- 2026-09-26 | https://x.com/emollick/status/2103593301240602645 | @emollick — post
+- 2026-09-26 | https://x.com/emollick/status/2103525721289486777 | @emollick — post
+- 2026-09-26 | https://x.com/emollick/status/2103485857147617393 | @emollick — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103592773848862783 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103572180655116411 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103567847804846120 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103560593995178071 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103556668587954542 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103555350125314087 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103550850006233451 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103544309999915510 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103520814112833793 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103501866415906933 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103499130966282600 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103484391737405883 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103470001344622783 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103466197740110029 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103464138768851065 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103452637068714408 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103422404542230545 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103414096653660469 | @EugenioFierro3 — post
+- 2026-09-26 | https://x.com/EugenioFierro3/status/2103409097877938337 | @EugenioFierro3 — post
+- 2026-09-26 | https://openai.com/index/proaction/ | Proaction boosts sales 60% and saves 75+ hours with Codex
+- 2026-09-26 | https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/ | The Pentagon wants $30 million to build an AI-powered lie detector
