@@ -1,3 +1,9 @@
+- 2026-09-26 | customer conversations as executable context | turn discovery calls into correctable working demos
+- 2026-09-26 | editable creative production systems | judge AI by reproducible pipelines rather than polished clips
+- 2026-09-26 | human judgment as a control system | require evidence authority skill and rejection time
+- 2026-09-26 | working artifacts across business handoffs | replace summaries with objects that advance decisions
+- 2026-09-26 | meeting-to-artifact workflow | convert recurring conversations into accepted downstream work
+- 2026-09-26 | human judgment control test | distinguish real oversight from decorative review
 - 2026-09-25 | AI effort as a business control | optimise accepted work per euro instead of defaulting to maximum reasoning
 - 2026-09-25 | agent recovery after state loss | test replanning after disruption before trusting autonomy
 - 2026-09-25 | conversational software authority | keep action and data permissions explicit as application boundaries disappear
