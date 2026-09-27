@@ -899,3 +899,21 @@ Anything listed here will not be collected again.
 - 2026-09-26 | https://x.com/EugenioFierro3/status/2103409097877938337 | @EugenioFierro3 — post
 - 2026-09-26 | https://openai.com/index/proaction/ | Proaction boosts sales 60% and saves 75+ hours with Codex
 - 2026-09-26 | https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/ | The Pentagon wants $30 million to build an AI-powered lie detector
+- 2026-09-27 | https://www.youtube.com/watch?v=_K29gp7l9m4 | Palmer Luckey on why billionaires have a responsibility to use their capital, credibility, and influ
+- 2026-09-27 | https://www.youtube.com/watch?v=JRRaXmsjCNA | Ben Lamm on how AI could reshape biological research and experiment design at Moonshots Live.
+- 2026-09-27 | https://www.youtube.com/watch?v=Krae4j2yUj8 | Congress Has Never Driven The Car
+- 2026-09-27 | https://www.youtube.com/watch?v=xkwViOmzRhw | Neil deGrasse Tyson on why art can reveal ways of seeing and feeling the world that science can't
+- 2026-09-27 | https://www.youtube.com/watch?v=ca3C4Ha5oMo | Palmer Luckey on his idea for using oxytocin to help strengthen marriages
+- 2026-09-27 | https://www.youtube.com/watch?v=PMKNMkB1Nps | Palmer Luckey on why he’s more concerned about people using AI for harm than AI itself at Moonshots
+- 2026-09-27 | https://www.youtube.com/watch?v=IrW3iTOhS3Q | Salim Calls BS On The Industry's &quot;We Agree&quot; Chain Reaction
+- 2026-09-27 | https://www.youtube.com/watch?v=geKGbveq2T0 | Anthropic's Bio-Weapons Admission, Days Before A Biotech Deal
+- 2026-09-27 | https://www.youtube.com/watch?v=BaTTNx8B4r0 | What is Utopia?  Presenting The Receipt Horizon, by Joel Borgen – Chapters 1–4
+- 2026-09-27 | https://x.com/emollick/status/2104039050080342456 | @emollick — post
+- 2026-09-27 | https://x.com/emollick/status/2104025904653521363 | @emollick — post
+- 2026-09-27 | https://x.com/emollick/status/2103992616454860834 | @emollick — post
+- 2026-09-27 | https://x.com/emollick/status/2103888590854062435 | @emollick — post
+- 2026-09-27 | https://x.com/emollick/status/2103842238119743660 | @emollick — post
+- 2026-09-27 | https://x.com/EugenioFierro3/status/2103832208452562967 | @EugenioFierro3 — post
+- 2026-09-27 | https://x.com/EugenioFierro3/status/2103829680486863066 | @EugenioFierro3 — post
+- 2026-09-27 | https://x.com/EugenioFierro3/status/2103827263657525566 | @EugenioFierro3 — post
+- 2026-09-27 | https://x.com/EugenioFierro3/status/2103778169614410019 | @EugenioFierro3 — post
