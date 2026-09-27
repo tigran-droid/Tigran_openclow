@@ -1,3 +1,9 @@
+- 2026-09-27 | model working character as business performance | measure steerability corrections confidence and acceptance beyond benchmarks
+- 2026-09-27 | wet-lab pattern for AI validation | make external domain evidence the acceptance test for generated work
+- 2026-09-27 | technical literacy inside AI governance | put builders operators lawyers and risk owners in the same decision room
+- 2026-09-27 | behaviour-layer AI evaluation | rerun real company tasks when model behaviour changes
+- 2026-09-27 | dual-use workflow boundaries | design access validation logging and escalation around consequence
+- 2026-09-27 | business equivalents of physical validation | separate plausible generation from certified outcomes
 - 2026-09-26 | customer conversations as executable context | turn discovery calls into correctable working demos
 - 2026-09-26 | editable creative production systems | judge AI by reproducible pipelines rather than polished clips
 - 2026-09-26 | human judgment as a control system | require evidence authority skill and rejection time
