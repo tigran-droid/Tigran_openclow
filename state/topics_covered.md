@@ -1,3 +1,9 @@
+- 2026-09-28 | graduated authority for AI agents | grant permissions only as observable performance earns them
+- 2026-09-28 | friction audit before automation | separate hidden safeguards from wasteful delay
+- 2026-09-28 | real-world correction loops for AI | define evidence that can prove a fluent system wrong
+- 2026-09-28 | autonomy with boundaries | operate agentic AI through system tests controls and accountability
+- 2026-09-28 | preserving useful friction | rebuild accidental controls as explicit thresholds and approvals
+- 2026-09-28 | multi-agent system testing | test coordination conflicts interruptions and collusion across the workflow
 - 2026-09-27 | model working character as business performance | measure steerability corrections confidence and acceptance beyond benchmarks
 - 2026-09-27 | wet-lab pattern for AI validation | make external domain evidence the acceptance test for generated work
 - 2026-09-27 | technical literacy inside AI governance | put builders operators lawyers and risk owners in the same decision room
