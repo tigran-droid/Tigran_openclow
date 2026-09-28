@@ -917,3 +917,15 @@ Anything listed here will not be collected again.
 - 2026-09-27 | https://x.com/EugenioFierro3/status/2103829680486863066 | @EugenioFierro3 — post
 - 2026-09-27 | https://x.com/EugenioFierro3/status/2103827263657525566 | @EugenioFierro3 — post
 - 2026-09-27 | https://x.com/EugenioFierro3/status/2103778169614410019 | @EugenioFierro3 — post
+- 2026-09-28 | https://www.youtube.com/watch?v=Ktnwygcnd8U | No, Seriously. Claude Code is Starting To Get Dangerous
+- 2026-09-28 | https://www.youtube.com/watch?v=J_xF_L_kSck | "Safety Ate My IPO"
+- 2026-09-28 | https://www.youtube.com/watch?v=S-qjnbUuEhk | Astro Teller on Moonshots
+- 2026-09-28 | https://www.youtube.com/watch?v=n_NiXunT9Oo | Why Regulation Won't Matter
+- 2026-09-28 | https://www.youtube.com/watch?v=Cbk7hdOwJj4 | Jensen Pushes Back on Doomers, Xi & Trump Talk AI, and “AI” Gets a Rebrand | #294 MOONSHOTS Live
+- 2026-09-28 | https://www.youtube.com/watch?v=uTc47e12tes | The Worst Possible Timing
+- 2026-09-28 | https://www.youtube.com/watch?v=WPHfPiz6kkk | AI:AM: What If It Works Too Well? Colluding Agents, $200M Safety Orgs, Virtual Cells Saturate at 2%
+- 2026-09-28 | https://x.com/emollick/status/2104447068731555883 | @emollick — post
+- 2026-09-28 | https://x.com/emollick/status/2104402002868592659 | @emollick — post
+- 2026-09-28 | https://x.com/emollick/status/2104352301431308578 | @emollick — post
+- 2026-09-28 | https://x.com/emollick/status/2104326478766952624 | @emollick — post
+- 2026-09-28 | https://x.com/emollick/status/2104273082433081732 | @emollick — post
