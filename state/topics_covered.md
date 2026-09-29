@@ -1,3 +1,9 @@
+- 2026-09-29 | AI supplier incident response | make permissions evidence stop authority and disclosure timing part of agent procurement
+- 2026-09-29 | unreleased model concentration | keep data evaluations and acceptance rules portable when labs reserve capability
+- 2026-09-29 | friction-dependent business economics | map the hidden subsidies agents expose when they optimise every choice
+- 2026-09-29 | agent incident disclosure as procurement | require reconstructable evidence named owners and a disclosure clock
+- 2026-09-29 | practical AI supplier incident clauses | turn notification evidence and accountability into testable contract controls
+- 2026-09-29 | AI supplier as future competitor | protect durable operating capability from private frontier model access
 - 2026-09-28 | graduated authority for AI agents | grant permissions only as observable performance earns them
 - 2026-09-28 | friction audit before automation | separate hidden safeguards from wasteful delay
 - 2026-09-28 | real-world correction loops for AI | define evidence that can prove a fluent system wrong
