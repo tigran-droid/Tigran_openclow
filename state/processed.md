@@ -929,3 +929,11 @@ Anything listed here will not be collected again.
 - 2026-09-28 | https://x.com/emollick/status/2104352301431308578 | @emollick — post
 - 2026-09-28 | https://x.com/emollick/status/2104326478766952624 | @emollick — post
 - 2026-09-28 | https://x.com/emollick/status/2104273082433081732 | @emollick — post
+- 2026-09-29 | https://openai.com/index/how-we-will-do-better-for-australia | How we will do better for Australia
+- 2026-09-29 | https://openai.com/index/towards-safety-cases-for-frontier-ai-training | Towards safety cases for frontier AI training
+- 2026-09-29 | https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/ | Who’s liable when AI agents go rogue?
+- 2026-09-29 | https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/ | When can we say AI made a scientific discovery?
+- 2026-09-29 | https://www.youtube.com/watch?v=hx42whM7NsY | Jev - The New AI model that has people talking
+- 2026-09-29 | https://www.youtube.com/watch?v=c8PZhTGswgE | Noam Brown on the Models Labs Aren't Releasing
+- 2026-09-29 | https://www.youtube.com/watch?v=fXRagdr-Q34 | The Real Risks of AI Agents
+- 2026-09-29 | https://www.youtube.com/watch?v=CUFwC8iNTPQ | GPU Economics + Prospects for US-China Cooperation
