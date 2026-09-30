@@ -976,3 +976,6 @@ Anything listed here will not be collected again.
 - 2026-09-30 | https://x.com/EugenioFierro3/status/2104847311889146017 | @EugenioFierro3 — post
 - 2026-09-30 | https://x.com/EugenioFierro3/status/2104844643460374882 | @EugenioFierro3 — post
 - 2026-09-30 | https://x.com/EugenioFierro3/status/2104836982601863530 | @EugenioFierro3 — post
+- 2026-09-30 | https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/ | Making AI an asset, not an expense
+- 2026-09-30 | https://openai.com/index/introducing-gpt-6-1-sol | Introducing GPT-6.1 Sol
+- 2026-09-30 | https://openai.com/index/devday-2026-recap | DevDay 2026 Recap
