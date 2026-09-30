@@ -1,3 +1,9 @@
+- 2026-09-30 | interface-independent AI capability | train outcome context authority evaluation and recovery instead of buttons
+- 2026-09-30 | team-agent consolidation follow-up | consolidation requires ownership authoritative knowledge and maintenance
+- 2026-09-30 | cheap-model control economics | add permission incidents review and recovery to cost per accepted outcome
+- 2026-09-30 | durable capability beneath volatile AI interfaces | test whether workflows survive model and product changes
+- 2026-09-30 | personal-agent promotion path | choose between private agent shared knowledge and owned team infrastructure
+- 2026-09-30 | outcome-based AI education | assess transferable operating skills through real company work
 - 2026-09-29 | AI supplier incident response | make permissions evidence stop authority and disclosure timing part of agent procurement
 - 2026-09-29 | unreleased model concentration | keep data evaluations and acceptance rules portable when labs reserve capability
 - 2026-09-29 | friction-dependent business economics | map the hidden subsidies agents expose when they optimise every choice
