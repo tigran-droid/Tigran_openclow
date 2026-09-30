@@ -1,3 +1,9 @@
+- 2026-09-30 | AI customer value scorecard | measure utility credibility correction effort and repeat choice
+- 2026-09-30 | workflow continuity under interface churn | preserve context permissions integrations and acceptance tests
+- 2026-09-30 | team agents inherit organisational disagreement | design around authority ownership and correction paths
+- 2026-09-30 | customer value beyond AI efficiency | judge whether customers choose the automated experience again
+- 2026-09-30 | balanced AI experience measurement | compare company savings with customer effort and trust
+- 2026-09-30 | AI workflow migration rehearsal | test portable operating assets before vendor deadlines
 - 2026-09-30 | interface-independent AI capability | train outcome context authority evaluation and recovery instead of buttons
 - 2026-09-30 | team-agent consolidation follow-up | consolidation requires ownership authoritative knowledge and maintenance
 - 2026-09-30 | cheap-model control economics | add permission incidents review and recovery to cost per accepted outcome
