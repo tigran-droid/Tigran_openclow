@@ -937,3 +937,42 @@ Anything listed here will not be collected again.
 - 2026-09-29 | https://www.youtube.com/watch?v=c8PZhTGswgE | Noam Brown on the Models Labs Aren't Releasing
 - 2026-09-29 | https://www.youtube.com/watch?v=fXRagdr-Q34 | The Real Risks of AI Agents
 - 2026-09-29 | https://www.youtube.com/watch?v=CUFwC8iNTPQ | GPU Economics + Prospects for US-China Cooperation
+- 2026-09-30 | https://www.youtube.com/watch?v=vJl6AaQ6B0A | Ep. 243: GPT-6 Sol &amp; Luna, Opus 5.5, New Microsoft Copilot, Huang v. AI Doomers &amp; Intro to AI Score
+- 2026-09-30 | https://www.youtube.com/watch?v=iafsAWrB8GQ | Claude Can Now Run Your Entire Email Platform
+- 2026-09-30 | https://www.youtube.com/watch?v=Gzt74VA8J5Q | How to Build Team Agents
+- 2026-09-30 | https://www.youtube.com/watch?v=9H2bYjsgxuQ | Palmer Luckey on why Chinese open-source models are a non-starter for weapons systems
+- 2026-09-30 | https://www.youtube.com/watch?v=2SiyOXl63v8 | Palmer Luckey on why humanoid robots matter — not for what they can build, but for every old system
+- 2026-09-30 | https://www.youtube.com/watch?v=OmipH8osgyU | DB2 on what a source inside the US-China AI talks says Beijing is actually afraid of.
+- 2026-09-30 | https://www.youtube.com/watch?v=sP_1Y9dsENQ | Dr. Alex Wissner-Gross on the last time a moral panic cost the world 50 years of progress
+- 2026-09-30 | https://www.youtube.com/watch?v=orUDz9N9Q48 | Cathie Wood on Tesla-SpaceX Merger, $1M Bitcoin, More AIs Than Humans | EP #296 | Moonshots Live
+- 2026-09-30 | https://www.youtube.com/watch?v=PiBNrW7Q_Ws | Obsolete or Irreplaceable? Garrison Lovely on Stopping the Race to Replace Human Labor
+- 2026-09-30 | https://x.com/sama/status/2104995014208258235 | @sama — post
+- 2026-09-30 | https://x.com/sama/status/2104994601140711896 | @sama — post
+- 2026-09-30 | https://x.com/sama/status/2104994395980533804 | @sama — post
+- 2026-09-30 | https://x.com/sama/status/2104950376466362578 | @sama — post
+- 2026-09-30 | https://x.com/emollick/status/2105184972537528538 | @emollick — post
+- 2026-09-30 | https://x.com/emollick/status/2105052282354303358 | @emollick — post
+- 2026-09-30 | https://x.com/emollick/status/2105042717432799701 | @emollick — post
+- 2026-09-30 | https://x.com/emollick/status/2105000480569212984 | @emollick — post
+- 2026-09-30 | https://x.com/emollick/status/2104965679971709108 | @emollick — post
+- 2026-09-30 | https://x.com/emollick/status/2104964210644181230 | @emollick — post
+- 2026-09-30 | https://x.com/emollick/status/2104920813111505335 | @emollick — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2105177363231220100 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2105052765701456328 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2105046099845095694 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2105041286419886531 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2105035302322450826 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2105023766627508260 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2105019409672679880 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2105016420971037017 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2104954239785013579 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2104933222815510921 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2104905566757744775 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2104898952344543585 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2104893796286628238 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2104890590215209297 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2104860756818760051 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2104850934924812573 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2104847311889146017 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2104844643460374882 | @EugenioFierro3 — post
+- 2026-09-30 | https://x.com/EugenioFierro3/status/2104836982601863530 | @EugenioFierro3 — post
