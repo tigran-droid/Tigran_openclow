@@ -1,3 +1,9 @@
+- 2026-09-30 | persistent agent operating contracts | define outcome context authority evidence approval and recovery
+- 2026-09-30 | cheap persistent context | measure full accepted outcomes rather than token prices
+- 2026-09-30 | interface-resistant AI training | teach operating methods that survive product churn
+- 2026-09-30 | persistent agents need management systems | assign responsibility before autonomy
+- 2026-09-30 | persistent agent operating contract | govern ongoing work through six explicit controls
+- 2026-09-30 | AI training beyond screenshots | assess transferable skills on real company work
 - 2026-09-30 | AI customer value scorecard | measure utility credibility correction effort and repeat choice
 - 2026-09-30 | workflow continuity under interface churn | preserve context permissions integrations and acceptance tests
 - 2026-09-30 | team agents inherit organisational disagreement | design around authority ownership and correction paths
