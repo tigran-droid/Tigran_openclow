@@ -979,3 +979,25 @@ Anything listed here will not be collected again.
 - 2026-09-30 | https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/ | Making AI an asset, not an expense
 - 2026-09-30 | https://openai.com/index/introducing-gpt-6-1-sol | Introducing GPT-6.1 Sol
 - 2026-09-30 | https://openai.com/index/devday-2026-recap | DevDay 2026 Recap
+- 2026-10-01 | https://www.youtube.com/watch?v=c7twMUavy5Q | AI Made a Game I’d ACTUALLY Play
+- 2026-10-01 | https://www.youtube.com/watch?v=u5Mw3BoJBKw | OpenAI Is Retiring Custom GPTs — Here's What to Do
+- 2026-10-01 | https://www.youtube.com/watch?v=decYAeXMZ8E | OpenAI's GPT-6 Sol & Luna and Anthropic's Opus 5.5, Explained
+- 2026-10-01 | https://www.youtube.com/watch?v=BvvfZKKz4Yo | I Tested OpenAI's Dots vs. Meta's Muse. What You Need to Know.
+- 2026-10-01 | https://www.youtube.com/watch?v=SGKEIsN2-nY | The Biggest AI Announcements from OpenAI Dev Day
+- 2026-10-01 | https://www.youtube.com/watch?v=zsUmo1xY67I | Dr. Alex Wissner-Gross's roadmap for how digital twins of your own cells.
+- 2026-10-01 | https://www.youtube.com/watch?v=JaaFoXqwQlE | Emad Mostaque, Peter Diamandis and DB2 admit even they can't keep up with the model releases anymore
+- 2026-10-01 | https://www.youtube.com/watch?v=DLokpnLhA1w | Dr. Alex Wissner-Gross on the opposite technical bets Anthropic and OpenAI have made
+- 2026-10-01 | https://www.youtube.com/watch?v=symoL9t8zUw | DB2 on the two-day, 15% stock drop triggered by a single AI assistant launch.
+- 2026-10-01 | https://www.youtube.com/watch?v=VHg3oX1ytYQ | Anthropic's Wet Lab, Artificial Wombs in 24 Months, and Scalable Gene Editing | MOONSHOTS Live #297
+- 2026-10-01 | https://www.youtube.com/watch?v=CugPvGy3ucQ | DB2 on the one part of Bernie Sanders' AI ban that states won't be able to undo once it happens.
+- 2026-10-01 | https://www.youtube.com/watch?v=ExhGXAfp3zg | AI Utopia + Rare-Disease Diagnosis | Joel Borgen & Daniel McKinnon
+- 2026-10-01 | https://x.com/emollick/status/2105370153466863709 | @emollick — post
+- 2026-10-01 | https://x.com/emollick/status/2105367451584323642 | @emollick — post
+- 2026-10-01 | https://x.com/emollick/status/2105326918371537067 | @emollick — post
+- 2026-10-01 | https://x.com/EugenioFierro3/status/2105558687695708606 | @EugenioFierro3 — post
+- 2026-10-01 | https://x.com/EugenioFierro3/status/2105412486627222006 | @EugenioFierro3 — post
+- 2026-10-01 | https://x.com/EugenioFierro3/status/2105361748593086506 | @EugenioFierro3 — post
+- 2026-10-01 | https://x.com/EugenioFierro3/status/2105346042833076369 | @EugenioFierro3 — post
+- 2026-10-01 | https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/ | OpenAI hack fallout interview
+- 2026-10-01 | https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign | Disrupting a coordinated model-distillation campaign
+- 2026-10-01 | https://openai.com/index/helping-small-businesses-put-ai-to-work | Helping small businesses put AI to work
