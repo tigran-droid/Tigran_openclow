@@ -1,3 +1,9 @@
+- 2026-10-01 | small-team functional capacity | agents let small firms complete specialist work that previously stayed undone
+- 2026-10-01 | Custom GPT retirement follow-up | own operating logic and rent the interface
+- 2026-10-01 | model security beyond outputs | enforce permissions observation evidence and stop authority outside prompts
+- 2026-10-01 | small teams as full-stack businesses | durable capability matters more than temporary product access
+- 2026-10-01 | five durable AI workflow assets | preserve instructions knowledge integrations tests and recovery across products
+- 2026-10-01 | first agentic workflow selection | begin with valuable neglected work and explicit human decisions
 - 2026-09-30 | persistent agent operating contracts | define outcome context authority evidence approval and recovery
 - 2026-09-30 | cheap persistent context | measure full accepted outcomes rather than token prices
 - 2026-09-30 | interface-resistant AI training | teach operating methods that survive product churn
