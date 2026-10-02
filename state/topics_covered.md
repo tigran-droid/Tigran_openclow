@@ -1,3 +1,9 @@
+- 2026-10-02 | agent management moves upward | govern mission authority evidence and intervention while agents organise the middle
+- 2026-10-02 | agent-to-agent commerce readiness | make identity product facts permissions and liability machine-readable
+- 2026-10-02 | workflow economics over model rank | compare planning execution latency correction and accepted outcome cost
+- 2026-10-02 | self-organising agent control | replace manual org charts with outcome contracts and graded authority
+- 2026-10-02 | agent authority map | separate read recommend change send and spend permissions
+- 2026-10-02 | full-workflow AI benchmark | test stable business tasks across cost time correction and recovery
 - 2026-10-01 | small-team functional capacity | agents let small firms complete specialist work that previously stayed undone
 - 2026-10-01 | Custom GPT retirement follow-up | own operating logic and rent the interface
 - 2026-10-01 | model security beyond outputs | enforce permissions observation evidence and stop authority outside prompts
