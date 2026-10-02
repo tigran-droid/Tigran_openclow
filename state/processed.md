@@ -1001,3 +1001,40 @@ Anything listed here will not be collected again.
 - 2026-10-01 | https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/ | OpenAI hack fallout interview
 - 2026-10-01 | https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign | Disrupting a coordinated model-distillation campaign
 - 2026-10-01 | https://openai.com/index/helping-small-businesses-put-ai-to-work | Helping small businesses put AI to work
+- 2026-10-02 | https://www.youtube.com/watch?v=pTLdkUZVpEk | Ep. 244: How Alibaba.com Is Building the Future of Agent-to-Agent Commerce
+- 2026-10-02 | https://www.youtube.com/watch?v=pY5_Ux_YJjo | I Tested Codex's $500/mo Ultrafast. What You Need to Know.
+- 2026-10-02 | https://www.youtube.com/watch?v=K9gwvAcz1do | Gemini 4 Argon, Sonnet 5.5 and What Models You Should Be Using Right Now
+- 2026-10-02 | https://www.youtube.com/watch?v=fedNypyL7nA | Nikhil Chandok on the real hack that showed what AI agents need
+- 2026-10-02 | https://www.youtube.com/watch?v=c3p7LC8vN7o | Peter Diamandis on why what you watch is training your brain the same way data trains an AI model.
+- 2026-10-02 | https://www.youtube.com/watch?v=7B9SBtdiKKw | Cathie Wood on why property rights is the real story of the digital economy
+- 2026-10-02 | https://www.youtube.com/watch?v=UgWJciHTOMQ | Neil deGrasse Tyson on the real-life lesson The Twilight Zone taught him
+- 2026-10-02 | https://www.youtube.com/watch?v=aA9_YFS-wkg | Peter Diamandis's replacement for "go to college, get a degree, get a job" — in one breath.
+- 2026-10-02 | https://www.youtube.com/watch?v=wABlzfXwycw | Peter Diamandis breaks down Bernie Sanders' three-part plan to ban super intelligence.
+- 2026-10-02 | https://www.youtube.com/watch?v=4Sc8dSezPa4 | AI:AM: Was Trump-Xi Anything? What Counts as Utopia? + AWS GPUs Cost 3X & AI Diagnoses Rare Diseases
+- 2026-10-02 | https://x.com/karpathy/status/2105909609487872075 | @karpathy — post
+- 2026-10-02 | https://x.com/karpathy/status/2105819303471976479 | @karpathy — post
+- 2026-10-02 | https://x.com/sama/status/2105739098640298253 | @sama — post
+- 2026-10-02 | https://x.com/sama/status/2105688354834756036 | @sama — post
+- 2026-10-02 | https://x.com/sama/status/2105687689991483654 | @sama — post
+- 2026-10-02 | https://x.com/emollick/status/2105842740533596201 | @emollick — post
+- 2026-10-02 | https://x.com/emollick/status/2105706777832767984 | @emollick — post
+- 2026-10-02 | https://x.com/emollick/status/2105618164944146786 | @emollick — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105754907013714330 | @EugenioFierro3 — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105701869251092770 | @EugenioFierro3 — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105695663736381697 | @EugenioFierro3 — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105688981115416954 | @EugenioFierro3 — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105683254917386283 | @EugenioFierro3 — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105674908210503764 | @EugenioFierro3 — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105672127131079124 | @EugenioFierro3 — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105669320961310724 | @EugenioFierro3 — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105665455608234209 | @EugenioFierro3 — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105662255022878793 | @EugenioFierro3 — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105595484530196630 | @EugenioFierro3 — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105593729025294703 | @EugenioFierro3 — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105588431451541602 | @EugenioFierro3 — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105585861215551597 | @EugenioFierro3 — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105584143128051917 | @EugenioFierro3 — post
+- 2026-10-02 | https://x.com/EugenioFierro3/status/2105581969224397000 | @EugenioFierro3 — post
+- 2026-10-02 | https://www.oneusefulthing.org/p/the-dot-and-the-swarm | The Dot and the Swarm
+- 2026-10-02 | https://openai.com/index/the-eternal-complement | The eternal complement
+- 2026-10-02 | https://openai.com/index/albertsons-reimagining-retail | How Albertsons Companies is reimagining retail from the inside out
