@@ -1038,3 +1038,32 @@ Anything listed here will not be collected again.
 - 2026-10-02 | https://www.oneusefulthing.org/p/the-dot-and-the-swarm | The Dot and the Swarm
 - 2026-10-02 | https://openai.com/index/the-eternal-complement | The eternal complement
 - 2026-10-02 | https://openai.com/index/albertsons-reimagining-retail | How Albertsons Companies is reimagining retail from the inside out
+
+- 2026-10-03 | https://www.youtube.com/watch?v=dDgncbBAA0c | AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know
+- 2026-10-03 | https://www.youtube.com/watch?v=ri-lf65Ss5Q | Jensen Huang Says AI-Doom Fears Are &quot;Irresponsible&quot; — Is He Right?
+- 2026-10-03 | https://www.youtube.com/watch?v=26rQLqoxBHA | Claude Code Mods Are Game Changers. This One Saves Me Money.
+- 2026-10-03 | https://www.youtube.com/watch?v=9hetShMMp2s | Claude Code Mods Are Game Changers. Set Up These 5 NOW.
+- 2026-10-03 | https://www.youtube.com/watch?v=l8ywUsEJ2XQ | How to Actually Build & Sell Software with AI as a Non-Techie
+- 2026-10-03 | https://www.youtube.com/watch?v=NWd86IwfnrU | I Tested Codex's NEW $500/mo Ultrafast mode
+- 2026-10-03 | https://www.youtube.com/watch?v=amPNRy6EMmM | I Tested Opus 5.5 vs Sonnet 5.5
+- 2026-10-03 | https://www.youtube.com/watch?v=0fZTguKX9xM | The Rise of the AI Moderates
+- 2026-10-03 | https://www.youtube.com/watch?v=vnPdXchIfiU | Nikhil Chandok on the moment AI agents stop being tools for developers and start being the developer
+- 2026-10-03 | https://www.youtube.com/watch?v=GJIl8gLlo4E | A President Gave AI Agents Personhood
+- 2026-10-03 | https://www.youtube.com/watch?v=mZh8IUuNnvs | Why AI Leaders Have Changed Their Minds About AI Safety, Elon on UHI, Anthropic’s IPO
+- 2026-10-03 | https://www.youtube.com/watch?v=Pt7GgJInmXE | Neal Stephenson already wrote Neil deGrasse Tyson into one of his novels — and Tyson hasn't read it
+- 2026-10-03 | https://www.youtube.com/watch?v=KgRmhLv2fPg | Healthcare And Tech Don't Mix
+- 2026-10-03 | https://x.com/sama/status/2106189841813934140 | @sama — post
+- 2026-10-03 | https://x.com/sama/status/2106147184693620924 | @sama — post
+- 2026-10-03 | https://x.com/sama/status/2106085986606403684 | @sama — post
+- 2026-10-03 | https://x.com/emollick/status/2106187293501411755 | @emollick — post
+- 2026-10-03 | https://x.com/emollick/status/2106111291014234462 | @emollick — post
+- 2026-10-03 | https://x.com/emollick/status/2106097018129227918 | @emollick — post
+- 2026-10-03 | https://x.com/EugenioFierro3/status/2106132330792300996 | @EugenioFierro3 — post
+- 2026-10-03 | https://x.com/EugenioFierro3/status/2106130308705755273 | @EugenioFierro3 — post
+- 2026-10-03 | https://x.com/EugenioFierro3/status/2106127574346637702 | @EugenioFierro3 — post
+- 2026-10-03 | https://x.com/EugenioFierro3/status/2106090320786063799 | @EugenioFierro3 — post
+- 2026-10-03 | https://x.com/EugenioFierro3/status/2106078672511767035 | @EugenioFierro3 — post
+- 2026-10-03 | https://x.com/EugenioFierro3/status/2106012550777217296 | @EugenioFierro3 — post
+- 2026-10-03 | https://openai.com/index/practical-guide-building-gpt-6 | A model guide for the GPT-6 family
+- 2026-10-03 | https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/ | Don’t be fooled—LLMs don’t reason
+- 2026-10-03 | https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/ | Redefining enterprise intelligence with autonomous AI
