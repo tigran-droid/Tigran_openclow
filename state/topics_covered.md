@@ -1,3 +1,9 @@
+- 2026-10-03 | proactive agent authority | divide read recommend change send and spend before granting initiative
+- 2026-10-03 | workflow economics beyond model price | measure exact effort retries review and accepted outcome cost
+- 2026-10-03 | apprenticeship after junior task automation | replace routine learning with structured reviewed judgment work
+- 2026-10-03 | proactive agent operating model | combine graduated authority workflow economics and external verification
+- 2026-10-03 | five-level agent authority framework | promote autonomy only with evidence consequence limits and recovery
+- 2026-10-03 | preserving apprenticeship under AI | map learning tasks and create deliberate paths into expert judgment
 - 2026-10-02 | agent management moves upward | govern mission authority evidence and intervention while agents organise the middle
 - 2026-10-02 | agent-to-agent commerce readiness | make identity product facts permissions and liability machine-readable
 - 2026-10-02 | workflow economics over model rank | compare planning execution latency correction and accepted outcome cost
