@@ -1,3 +1,9 @@
+- 2026-10-04 | enterprise AI operating layer | build context routing accountability and economics around changing models
+- 2026-10-04 | sovereignty beyond model labels | test lineage portability and replaceability across the full model supply chain
+- 2026-10-04 | robotics utility over humanoid theatre | evaluate variation failure and recovery rather than spectacle
+- 2026-10-04 | established AI ROI infrastructure | connect harnesses governance routing and accepted-outcome economics
+- 2026-10-04 | practical AI management layer | explain the infrastructure between frontier models and business value
+- 2026-10-04 | physical AI buyer evaluation | test robots on real task distributions and recovery behaviour
 - 2026-10-03 | proactive agent authority | divide read recommend change send and spend before granting initiative
 - 2026-10-03 | workflow economics beyond model price | measure exact effort retries review and accepted outcome cost
 - 2026-10-03 | apprenticeship after junior task automation | replace routine learning with structured reviewed judgment work
