@@ -1067,3 +1067,17 @@ Anything listed here will not be collected again.
 - 2026-10-03 | https://openai.com/index/practical-guide-building-gpt-6 | A model guide for the GPT-6 family
 - 2026-10-03 | https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/ | Don’t be fooled—LLMs don’t reason
 - 2026-10-03 | https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/ | Redefining enterprise intelligence with autonomous AI
+- 2026-10-04 | https://www.youtube.com/watch?v=DFlELTiSPk8 | Every Codex Concept Explained for Non-Coders
+- 2026-10-04 | https://www.youtube.com/watch?v=Rx7G-8myrd8 | What the Best Business AI Users Are Doing Different
+- 2026-10-04 | https://www.youtube.com/watch?v=dLpznBWQYgQ | Ben Lamm on how fast gene-editing capacity is scaling
+- 2026-10-04 | https://www.youtube.com/watch?v=BJQDJbbAbfo | Could you resurrect Mozart by recreating his childhood
+- 2026-10-04 | https://www.youtube.com/watch?v=Blyb1D927pM | Recursive self-improving AI, Sonnet 5.5 and Project Meridian
+- 2026-10-04 | https://www.youtube.com/watch?v=efHhMK_aGaE | Why teacup mammoths are not on the roadmap
+- 2026-10-04 | https://www.youtube.com/watch?v=CVcyli4i5g0 | One Brain, Any Body: Gemini Robotics 2
+- 2026-10-04 | https://x.com/sama/status/2106388373221118198 | Human judgment and religious force around AI
+- 2026-10-04 | https://x.com/emollick/status/2106487816460910912 | Sovereign-model distillation dependencies
+- 2026-10-04 | https://x.com/emollick/status/2106419619783127225 | A Dungeons and Dragons framing for superintelligence
+- 2026-10-04 | https://x.com/emollick/status/2106402568280920391 | Suspected X Money bot activity
+- 2026-10-04 | https://x.com/emollick/status/2106400580881252721 | A book blurb written for AI readers
+- 2026-10-04 | https://x.com/EugenioFierro3/status/2106488378870915458 | HeyGen video model pricing and agent interfaces
+- 2026-10-04 | https://x.com/EugenioFierro3/status/2106470508078178767 | OpenDots self-hosted persistent AI coworkers
