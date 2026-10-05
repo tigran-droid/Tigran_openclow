@@ -1081,3 +1081,12 @@ Anything listed here will not be collected again.
 - 2026-10-04 | https://x.com/emollick/status/2106400580881252721 | A book blurb written for AI readers
 - 2026-10-04 | https://x.com/EugenioFierro3/status/2106488378870915458 | HeyGen video model pricing and agent interfaces
 - 2026-10-04 | https://x.com/EugenioFierro3/status/2106470508078178767 | OpenDots self-hosted persistent AI coworkers
+- 2026-10-05 | https://www.youtube.com/watch?v=YB_pxncWuu4 | Dr. Alex Wissner-Gross puts a real timeline on P vs. NP
+- 2026-10-05 | https://www.youtube.com/watch?v=J53Ffes4ZGc | Cathie Wood and Brett Winton on how fast AI revenue is actually growing
+- 2026-10-05 | https://x.com/emollick/status/2106995773682458784 | @emollick — team email for humans and agents
+- 2026-10-05 | https://x.com/emollick/status/2106993497697919431 | @emollick — GPT-6 Pro capability
+- 2026-10-05 | https://x.com/emollick/status/2106962963362111666 | @emollick — usage resets
+- 2026-10-05 | https://x.com/emollick/status/2106958444196413670 | @emollick — GPT migration
+- 2026-10-05 | https://x.com/emollick/status/2106936117421601110 | @emollick — AI co-working operating systems
+- 2026-10-05 | https://x.com/emollick/status/2106914993526747224 | @emollick — organisational bottleneck
+- 2026-10-05 | https://x.com/emollick/status/2106768373736493399 | @emollick — Fable 5.1 city builder
