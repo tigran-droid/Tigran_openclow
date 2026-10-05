@@ -1,3 +1,9 @@
+- 2026-10-05 | organisational bottleneck after easier AI | shift investment from prompt tricks to work design
+- 2026-10-05 | agent-native team inbox | redesign shared email around permissions decision trails and escalation
+- 2026-10-05 | portable AI workflows | own operating logic and rent the interface
+- 2026-10-05 | AI ease versus transformation difficulty | redesign responsibility as interfaces disappear
+- 2026-10-05 | agent-native collaboration controls | define identity authority evidence escalation and review
+- 2026-10-05 | workflow portability discipline | preserve knowledge tests and integrations across product churn
 - 2026-10-05 | agent-native team inbox | redesign shared email around permissions decision trails and escalation
 - 2026-10-05 | organisational bottleneck after easier AI | shift investment from prompt tricks to work design
 - 2026-10-05 | trusted kernel for AI oversight | concentrate human judgment on a small auditable control core
