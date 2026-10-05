@@ -1,3 +1,9 @@
+- 2026-10-05 | agent-native team inbox | redesign shared email around permissions decision trails and escalation
+- 2026-10-05 | organisational bottleneck after easier AI | shift investment from prompt tricks to work design
+- 2026-10-05 | trusted kernel for AI oversight | concentrate human judgment on a small auditable control core
+- 2026-10-05 | AI ease versus transformation difficulty | redesign responsibility as interfaces disappear
+- 2026-10-05 | agent-native collaboration layer | embed identity authority evidence and intervention in shared work
+- 2026-10-05 | scalable human verification | protect facts permissions evidence stop conditions and ownership
 - 2026-10-04 | enterprise AI operating layer | build context routing accountability and economics around changing models
 - 2026-10-04 | sovereignty beyond model labels | test lineage portability and replaceability across the full model supply chain
 - 2026-10-04 | robotics utility over humanoid theatre | evaluate variation failure and recovery rather than spectacle
