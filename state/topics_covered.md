@@ -1,3 +1,9 @@
+- 2026-10-06 | personal agent switching costs | build context portability before a deeply connected agent becomes essential
+- 2026-10-06 | watermark versus accountability | provenance signals cannot replace ownership review and acceptance evidence
+- 2026-10-06 | expert method as agent infrastructure | preserve sources encode judgment and enforce proof through gates
+- 2026-10-06 | agent capability context and control | scale autonomy only with portable context bounded permissions and evidence
+- 2026-10-06 | personal agent portability checklist | audit access memory export recovery and provider exit conditions
+- 2026-10-06 | expert judgment encoding | turn expert checks assumptions and stop conditions into evidence-backed controls
 - 2026-10-05 | organisational bottleneck after easier AI | shift investment from prompt tricks to work design
 - 2026-10-05 | agent-native team inbox | redesign shared email around permissions decision trails and escalation
 - 2026-10-05 | portable AI workflows | own operating logic and rent the interface
