@@ -1099,3 +1099,22 @@ Anything listed here will not be collected again.
 - 2026-10-05 | https://x.com/emollick/status/2106936117421601110 | @emollick — post
 - 2026-10-05 | https://x.com/emollick/status/2106914993526747224 | @emollick — post
 - 2026-10-05 | https://x.com/emollick/status/2106768373736493399 | @emollick — post
+- 2026-10-06 | https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/ | People really hate AI, so why can’t they get enough?
+- 2026-10-06 | https://openai.com/index/eu-text-provenance | Our approach to EU text provenance rules
+- 2026-10-06 | https://openai.com/index/new-chatgpt-ads-format-and-measurement | Building advertising for the way people use AI
+- 2026-10-06 | https://www.youtube.com/watch?v=bvGptCLDhyo | I Built Another Andrej Karpathy Using Claude
+- 2026-10-06 | https://www.youtube.com/watch?v=WloeFbIX7PU | How to Choose Your Personal Agent
+- 2026-10-06 | https://www.youtube.com/watch?v=ft3psYNsdO0 | AI Agents Are Moving Into the Real World
+- 2026-10-06 | https://www.youtube.com/watch?v=7MOQo9VUZJM | Within a year, you'll be managing 1,000 AI agents. Are you ready?
+- 2026-10-06 | https://www.youtube.com/watch?v=FO8VXvS8aw4 | Astro Teller: Inside Google X's 2,000-Idea Moonshot Factory
+- 2026-10-06 | https://www.youtube.com/watch?v=FXk9REKjvfo | Why we no longer need to pick which scientific problems are worth solving
+- 2026-10-06 | https://www.youtube.com/watch?v=7j6wGyQkwMs | Cathie Wood on her Chief Futurist's AI bill
+- 2026-10-06 | https://x.com/emollick/status/2107356794410377510 | @emollick — post
+- 2026-10-06 | https://x.com/emollick/status/2107281172342427734 | @emollick — post
+- 2026-10-06 | https://x.com/emollick/status/2107248012208791839 | @emollick — post
+- 2026-10-06 | https://x.com/emollick/status/2107227739048513628 | @emollick — post
+- 2026-10-06 | https://x.com/emollick/status/2107203549059014739 | @emollick — post
+- 2026-10-06 | https://x.com/EugenioFierro3/status/2107165651085222222 | @EugenioFierro3 — post
+- 2026-10-06 | https://x.com/EugenioFierro3/status/2107157191492764037 | @EugenioFierro3 — post
+- 2026-10-06 | https://x.com/EugenioFierro3/status/2107136914759303548 | @EugenioFierro3 — post
+- 2026-10-06 | https://x.com/EugenioFierro3/status/2107119397919654039 | @EugenioFierro3 — post
