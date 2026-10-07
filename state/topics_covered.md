@@ -1,3 +1,9 @@
+- 2026-10-07 | workflow acceptance criteria | turn expert rules and exceptions into measurable tests before scaling automation
+- 2026-10-07 | AI science verification | faster discovery makes formal proof attribution and accountable acceptance more valuable
+- 2026-10-07 | personal agent permission ladder | make agents earn authority from read to recommend change send and spend
+- 2026-10-07 | acceptance criteria as AI operating system | measure accepted outcomes rather than polished generated output
+- 2026-10-07 | AI workflow evaluation playbook | combine representative cases consequence thresholds evidence and retesting
+- 2026-10-07 | automated scientific review governance | require proof attribution revision and appeal before machine criticism becomes verdict
 - 2026-10-06 | personal agent switching costs | build context portability before a deeply connected agent becomes essential
 - 2026-10-06 | watermark versus accountability | provenance signals cannot replace ownership review and acceptance evidence
 - 2026-10-06 | expert method as agent infrastructure | preserve sources encode judgment and enforce proof through gates
