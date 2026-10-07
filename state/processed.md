@@ -1118,3 +1118,31 @@ Anything listed here will not be collected again.
 - 2026-10-06 | https://x.com/EugenioFierro3/status/2107157191492764037 | @EugenioFierro3 — post
 - 2026-10-06 | https://x.com/EugenioFierro3/status/2107136914759303548 | @EugenioFierro3 — post
 - 2026-10-06 | https://x.com/EugenioFierro3/status/2107119397919654039 | @EugenioFierro3 — post
+- 2026-10-07 | https://openai.com/index/jump-trading | How Jump Trading is scaling quant research with ChatGPT
+- 2026-10-07 | https://openai.com/index/sharing-ai-progress-in-mathematics | Sharing AI progress in mathematics
+- 2026-10-07 | https://openai.com/index/advancing-computer-use-with-ironclad | Advancing computer use with Ironclad
+- 2026-10-07 | https://www.youtube.com/watch?v=X-JA9VVnUBs | Ep. 245: OpenAI DevDay + Dots + Safety Crisis, Trump Renames AI &amp; Anthropic Pre-Thanksgiving IPO
+- 2026-10-07 | https://www.youtube.com/watch?v=nXKbGxi5tOg | America's Open Model Comeback Is Starting
+- 2026-10-07 | https://www.youtube.com/watch?v=l5whZDcQWMo | Dave says one simple formula has a &quot;100% success rate.&quot; Tag your co-founders.
+- 2026-10-07 | https://www.youtube.com/watch?v=fqCXz1Wf05A | Dr. Alex Wissner-Gross on how his own MIT advisor, Marvin Minsky, arguably set neural networks back
+- 2026-10-07 | https://www.youtube.com/watch?v=1VEGudOY5tA | Salim Ismail on the 1995 IBM survey that proved what leadership thinks is happening in their company
+- 2026-10-07 | https://www.youtube.com/watch?v=fcfuVmYlzLE | The most valuable data set for AI may not be on the internet at all; it may be inside each of us.
+- 2026-10-07 | https://www.youtube.com/watch?v=bBGz-1Mqorw | AI’s Memory Wall + Swyx on AI Engineering
+- 2026-10-07 | https://x.com/sama/status/2107691261776052633 | @sama — post
+- 2026-10-07 | https://x.com/emollick/status/2107646599635910951 | @emollick — post
+- 2026-10-07 | https://x.com/emollick/status/2107609416359117027 | @emollick — post
+- 2026-10-07 | https://x.com/emollick/status/2107582374347489570 | @emollick — post
+- 2026-10-07 | https://x.com/emollick/status/2107489752349892677 | @emollick — post
+- 2026-10-07 | https://x.com/EugenioFierro3/status/2107576575906459968 | @EugenioFierro3 — post
+- 2026-10-07 | https://x.com/EugenioFierro3/status/2107569568776425857 | @EugenioFierro3 — post
+- 2026-10-07 | https://x.com/EugenioFierro3/status/2107544762345464233 | @EugenioFierro3 — post
+- 2026-10-07 | https://x.com/EugenioFierro3/status/2107541162282070301 | @EugenioFierro3 — post
+- 2026-10-07 | https://x.com/EugenioFierro3/status/2107533740779979140 | @EugenioFierro3 — post
+- 2026-10-07 | https://x.com/EugenioFierro3/status/2107524120724332832 | @EugenioFierro3 — post
+- 2026-10-07 | https://x.com/EugenioFierro3/status/2107514827186794922 | @EugenioFierro3 — post
+- 2026-10-07 | https://x.com/EugenioFierro3/status/2107437569554129278 | @EugenioFierro3 — post
+- 2026-10-07 | https://x.com/EugenioFierro3/status/2107435927022764534 | @EugenioFierro3 — post
+- 2026-10-07 | https://x.com/EugenioFierro3/status/2107419906316677323 | @EugenioFierro3 — post
+- 2026-10-07 | https://x.com/EugenioFierro3/status/2107403531434987600 | @EugenioFierro3 — post
+- 2026-10-07 | https://x.com/EugenioFierro3/status/2107387992004284810 | @EugenioFierro3 — post
+- 2026-10-07 | https://x.com/EugenioFierro3/status/2107385330118557990 | @EugenioFierro3 — post
