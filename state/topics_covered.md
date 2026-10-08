@@ -1,3 +1,9 @@
+- 2026-10-08 | generated interfaces carry authority | govern what AI may build expose and let users do
+- 2026-10-08 | cheap intelligence versus willingness to pay | falling token cost does not create a valuable product
+- 2026-10-08 | software velocity moves the bottleneck | embed permissions evidence tests and rollback in delivery
+- 2026-10-08 | governance for generated interfaces | keep critical rules deterministic while presentation adapts
+- 2026-10-08 | generated interface control checklist | test data actions exceptions evidence and recovery
+- 2026-10-08 | cheap AI needs an expensive problem | price products around valued outcomes rather than model access
 - 2026-10-07 | workflow acceptance criteria | turn expert rules and exceptions into measurable tests before scaling automation
 - 2026-10-07 | AI science verification | faster discovery makes formal proof attribution and accountable acceptance more valuable
 - 2026-10-07 | personal agent permission ladder | make agents earn authority from read to recommend change send and spend
