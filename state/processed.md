@@ -1146,3 +1146,11 @@ Anything listed here will not be collected again.
 - 2026-10-07 | https://x.com/EugenioFierro3/status/2107403531434987600 | @EugenioFierro3 — post
 - 2026-10-07 | https://x.com/EugenioFierro3/status/2107387992004284810 | @EugenioFierro3 — post
 - 2026-10-07 | https://x.com/EugenioFierro3/status/2107385330118557990 | @EugenioFierro3 — post
+- 2026-10-08 | https://www.youtube.com/watch?v=J3n4IUwmuOM | Consumers Will Never Pay for AI
+- 2026-10-08 | https://www.youtube.com/watch?v=Y2qs-BKoMb4 | Software That Never Breaks: OutSystems CEO Woodson on Building Enterprise-Grade Apps at AI Speed
+- 2026-10-08 | https://www.youtube.com/watch?v=GRYbdwrMK28 | Salim Ismail on how Nestlé almost strangled Nespresso by trying to run it inside the core business
+- 2026-10-08 | https://x.com/EugenioFierro3/status/2108096885898490141 | Claude Haiku 5.5: Anthropic’s Fastest and Cheapest Small Model Yet
+- 2026-10-08 | https://x.com/EugenioFierro3/status/2108094193067307209 | GPT-6 and Intelligent UI roll out to every ChatGPT user
+- 2026-10-08 | https://x.com/EugenioFierro3/status/2107893954540663015 | Google Labs launches Playground
+- 2026-10-08 | https://x.com/EugenioFierro3/status/2107874465195442666 | Is Your Brand Invisible To AI Search?
+- 2026-10-08 | https://x.com/emollick/status/2107938889004396561 | Ethan Mollick on interfaces built on demand
