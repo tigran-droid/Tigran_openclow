@@ -1,3 +1,9 @@
+- 2026-10-09 | instruction debt | make every AI instruction prove that it improves accepted work
+- 2026-10-09 | organisational agent readiness | test ambiguity authority coordination and recovery beyond the happy path
+- 2026-10-09 | latency as a priced business choice | buy premium speed only where waiting changes the outcome
+- 2026-10-09 | AI instruction maintenance | separate context preferences and enforceable controls
+- 2026-10-09 | instruction debt audit | prune rules with evaluations ownership and reversible deletion
+- 2026-10-09 | organisation-level agent testing | graduate pilots into realistic company systems and relationships
 - 2026-10-08 | generated interfaces carry authority | govern what AI may build expose and let users do
 - 2026-10-08 | cheap intelligence versus willingness to pay | falling token cost does not create a valuable product
 - 2026-10-08 | software velocity moves the bottleneck | embed permissions evidence tests and rollback in delivery
