@@ -1154,3 +1154,34 @@ Anything listed here will not be collected again.
 - 2026-10-08 | https://x.com/EugenioFierro3/status/2107893954540663015 | Google Labs launches Playground
 - 2026-10-08 | https://x.com/EugenioFierro3/status/2107874465195442666 | Is Your Brand Invisible To AI Search?
 - 2026-10-08 | https://x.com/emollick/status/2107938889004396561 | Ethan Mollick on interfaces built on demand
+- 2026-10-09 | https://www.youtube.com/watch?v=grOilk8aCS0 | AI Design Hack Saves HOURS
+- 2026-10-09 | https://www.youtube.com/watch?v=f_WsOXdGm4w | Grok Bot now runs on Opus 5.5
+- 2026-10-09 | https://www.youtube.com/watch?v=kebGZLyrvZg | Grok Bot uses my Claude Code subscription. Here's how.
+- 2026-10-09 | https://www.youtube.com/watch?v=MgvwZaDPCs4 | Grok Bot Just Got 2 Massive Upgrades. Do These Things Now.
+- 2026-10-09 | https://www.youtube.com/watch?v=w4R4l1xtfGU | Your Popup Can Now Optimize Itself for Every Visitor
+- 2026-10-09 | https://www.youtube.com/watch?v=oz2CwrPV2Rg | Anthropic Engineers Just 10x'd Everyone's Claude Code
+- 2026-10-09 | https://www.youtube.com/watch?v=HX8Zr1kmLEQ | The Best Way To Test New AI Models
+- 2026-10-09 | https://www.youtube.com/watch?v=t-0001XnNXg | A guaranteed million, or a 1-in-100 shot at a billion? Which would you pick? 👇
+- 2026-10-09 | https://www.youtube.com/watch?v=u8ymAd1KjKY | The US cut China off from Nvidia chips, and China innovated anyway.
+- 2026-10-09 | https://www.youtube.com/watch?v=qaOPsDV7Q2M | Dr. Alex Wissner-Gross on the exact performance range that gets frontier AI labs racing
+- 2026-10-09 | https://www.youtube.com/watch?v=tNk43E6VGXo | Brett Winton on ARK's SpaceX projection
+- 2026-10-09 | https://www.youtube.com/watch?v=g_K9pqbQJwU | AI:AM: A Level We Shouldn't Pass? Notes from The Curve + Tokens vs. Salaries &amp; Is SaaS Cooked?
+- 2026-10-09 | https://x.com/emollick/status/2108414247558316508 | @emollick — post
+- 2026-10-09 | https://x.com/emollick/status/2108292080145748160 | @emollick — post
+- 2026-10-09 | https://x.com/emollick/status/2108251560752857474 | @emollick — post
+- 2026-10-09 | https://x.com/emollick/status/2108248166210720107 | @emollick — post
+- 2026-10-09 | https://x.com/emollick/status/2108242362032177597 | @emollick — post
+- 2026-10-09 | https://x.com/emollick/status/2108177045511364998 | @emollick — post
+- 2026-10-09 | https://x.com/emollick/status/2108170825077531112 | @emollick — post
+- 2026-10-09 | https://x.com/EugenioFierro3/status/2108315178580197824 | @EugenioFierro3 — post
+- 2026-10-09 | https://x.com/EugenioFierro3/status/2108311854908870802 | @EugenioFierro3 — post
+- 2026-10-09 | https://x.com/EugenioFierro3/status/2108303742260973807 | @EugenioFierro3 — post
+- 2026-10-09 | https://x.com/EugenioFierro3/status/2108296347212243201 | @EugenioFierro3 — post
+- 2026-10-09 | https://x.com/EugenioFierro3/status/2108292616760479923 | @EugenioFierro3 — post
+- 2026-10-09 | https://x.com/EugenioFierro3/status/2108205319876702615 | @EugenioFierro3 — post
+- 2026-10-09 | https://x.com/EugenioFierro3/status/2108199444273381725 | @EugenioFierro3 — post
+- 2026-10-09 | https://x.com/EugenioFierro3/status/2108197484073796041 | @EugenioFierro3 — post
+- 2026-10-09 | https://x.com/EugenioFierro3/status/2108194690612732055 | @EugenioFierro3 — post
+- 2026-10-09 | https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/ | AI breakthroughs in robotics won’t change your life any time soon
+- 2026-10-09 | https://openai.com/index/oracle | How Oracle turns days of work into minutes with ChatGPT and Codex
+- 2026-10-09 | https://openai.com/index/legalon-halves-codex-costs | LegalOn halves Codex costs while maintaining development speed
