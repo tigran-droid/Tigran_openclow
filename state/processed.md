@@ -1185,3 +1185,25 @@ Anything listed here will not be collected again.
 - 2026-10-09 | https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/ | AI breakthroughs in robotics won’t change your life any time soon
 - 2026-10-09 | https://openai.com/index/oracle | How Oracle turns days of work into minutes with ChatGPT and Codex
 - 2026-10-09 | https://openai.com/index/legalon-halves-codex-costs | LegalOn halves Codex costs while maintaining development speed
+- 2026-10-10 | https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/ | We’re putting too much faith in AI’s ability to say no
+- 2026-10-10 | https://www.youtube.com/watch?v=NUizyuGj-kE | AI News: Haiku-5.5, Visual ChatGPT, Grok's New Trick, and more!
+- 2026-10-10 | https://www.youtube.com/watch?v=A8YuAEUQEos | Oracle’s New AI Only Thinks When It Has To
+- 2026-10-10 | https://www.youtube.com/watch?v=thO4Y5RYfHo | The Best New AI Products and the Key Trends They Represent
+- 2026-10-10 | https://www.youtube.com/watch?v=r7a4ZqIPoEM | Every moonshot has an easy part and a hard part, and most teams start with the wrong one. Astro Tell
+- 2026-10-10 | https://www.youtube.com/watch?v=DjvpP1OMwvg | William Shatner makes his case for a new way of thinking about humanity.
+- 2026-10-10 | https://www.youtube.com/watch?v=zHmiEJjQ6QY | Peter says we're about to speed run Star Trek. William Shatner just visited Colossal
+- 2026-10-10 | https://www.youtube.com/watch?v=czkVVwV0Ucw | At 95, William Shatner is still going strong, and his sense of humor hasn't aged a day.
+- 2026-10-10 | https://x.com/emollick/status/2108747396025041159 | @emollick — post
+- 2026-10-10 | https://x.com/emollick/status/2108745817498538389 | @emollick — post
+- 2026-10-10 | https://x.com/emollick/status/2108656704518762754 | @emollick — post
+- 2026-10-10 | https://x.com/emollick/status/2108652762904793360 | @emollick — post
+- 2026-10-10 | https://x.com/emollick/status/2108594749305135613 | @emollick — post
+- 2026-10-10 | https://x.com/emollick/status/2108584037451550741 | @emollick — post
+- 2026-10-10 | https://x.com/EugenioFierro3/status/2108681185543032851 | @EugenioFierro3 — post
+- 2026-10-10 | https://x.com/EugenioFierro3/status/2108654514572050571 | @EugenioFierro3 — post
+- 2026-10-10 | https://x.com/EugenioFierro3/status/2108628273122959684 | @EugenioFierro3 — post
+- 2026-10-10 | https://x.com/EugenioFierro3/status/2108558371875918241 | @EugenioFierro3 — post
+- 2026-10-10 | https://x.com/EugenioFierro3/status/2108555698317439250 | @EugenioFierro3 — post
+- 2026-10-10 | https://x.com/EugenioFierro3/status/2108539056648802495 | @EugenioFierro3 — post
+- 2026-10-10 | https://x.com/EugenioFierro3/status/2108504245771047150 | @EugenioFierro3 — post
+- 2026-10-10 | https://x.com/EugenioFierro3/status/2108496045692883285 | @EugenioFierro3 — post
