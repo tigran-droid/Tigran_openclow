@@ -1,3 +1,9 @@
+- 2026-10-10 | model portfolio architecture | route work by ambiguity consequence latency and cost
+- 2026-10-10 | refusal is not governance | put enforceable permissions evidence and stop authority outside the model
+- 2026-10-10 | output volume versus capability | distinguish augmentation that teaches from automation that substitutes
+- 2026-10-10 | one-model strategy is obsolete | own the operating layer and rent changing models
+- 2026-10-10 | model-routing policy | choose deterministic specialist frontier or human handling per workflow step
+- 2026-10-10 | external controls beyond refusal | test permissions logs evidence and accountable ownership
 - 2026-10-09 | instruction debt | make every AI instruction prove that it improves accepted work
 - 2026-10-09 | organisational agent readiness | test ambiguity authority coordination and recovery beyond the happy path
 - 2026-10-09 | latency as a priced business choice | buy premium speed only where waiting changes the outcome
