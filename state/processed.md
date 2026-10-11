@@ -1207,3 +1207,10 @@ Anything listed here will not be collected again.
 - 2026-10-10 | https://x.com/EugenioFierro3/status/2108539056648802495 | @EugenioFierro3 — post
 - 2026-10-10 | https://x.com/EugenioFierro3/status/2108504245771047150 | @EugenioFierro3 — post
 - 2026-10-10 | https://x.com/EugenioFierro3/status/2108496045692883285 | @EugenioFierro3 — post
+- 2026-10-11 | https://www.youtube.com/watch?v=f5F1ndKMD5Q | Why We Might Be Alone: The &quot;Unfashionable Suburbs&quot; of the Galaxy
+- 2026-10-11 | https://www.youtube.com/watch?v=Ec7TMQVeI-Q | AI's Nuclear Power Timeline
+- 2026-10-11 | https://www.youtube.com/watch?v=Wh7pFfMGKbQ | Humanity's First Mission to Alpha Centauri Launches by 2029
+- 2026-10-11 | https://www.youtube.com/watch?v=LgX0QF2D9y0 | How Agents Decide: Goodfire's Eric Bigelow on Critical Tokens, Phase Shifts, &amp; In-Context Learning
+- 2026-10-11 | https://x.com/emollick/status/2108975457748341138 | @emollick — post
+- 2026-10-11 | https://x.com/emollick/status/2108941060206633193 | @emollick — post
+- 2026-10-11 | https://x.com/EugenioFierro3/status/2108857527257419781 | @EugenioFierro3 — post
