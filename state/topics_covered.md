@@ -1,3 +1,9 @@
+- 2026-10-11 | reasoning trace stability | treat visible reasoning as evidence rather than an audit trail
+- 2026-10-11 | managing research agents | direct agents like junior researchers through context correction and human taste
+- 2026-10-11 | AI energy strategy | treat electricity capacity model choice and regional exposure as strategic dependencies
+- 2026-10-11 | agent decision stability | test repeated runs context sensitivity evidence and escalation
+- 2026-10-11 | business agent stability test | distinguish harmless output variation from material decision variation
+- 2026-10-11 | human direction for AI research | keep question selection branch pruning and final judgment with people
 - 2026-10-10 | model portfolio architecture | route work by ambiguity consequence latency and cost
 - 2026-10-10 | refusal is not governance | put enforceable permissions evidence and stop authority outside the model
 - 2026-10-10 | output volume versus capability | distinguish augmentation that teaches from automation that substitutes
