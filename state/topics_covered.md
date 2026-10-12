@@ -1,3 +1,9 @@
+- 2026-10-12 | executive exposure to the AI capability funnel | leaders need direct frontier experience before setting strategy
+- 2026-10-12 | verification bottleneck after abundant generation | measure accepted work rather than output volume
+- 2026-10-12 | interface-independent workflow continuity | own context tests permissions and recovery while renting interfaces
+- 2026-10-12 | turning AI abundance into accountable work | combine direct exposure acceptance metrics and portable operating assets
+- 2026-10-12 | AI capability funnel as executive risk | prevent casual chatbot experience from anchoring strategy
+- 2026-10-12 | accepted-work operating system | design review evidence ownership and correction capacity for machine output
 - 2026-10-11 | reasoning trace stability | treat visible reasoning as evidence rather than an audit trail
 - 2026-10-11 | managing research agents | direct agents like junior researchers through context correction and human taste
 - 2026-10-11 | AI energy strategy | treat electricity capacity model choice and regional exposure as strategic dependencies
