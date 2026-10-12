@@ -1214,3 +1214,13 @@ Anything listed here will not be collected again.
 - 2026-10-11 | https://x.com/emollick/status/2108975457748341138 | @emollick — post
 - 2026-10-11 | https://x.com/emollick/status/2108941060206633193 | @emollick — post
 - 2026-10-11 | https://x.com/EugenioFierro3/status/2108857527257419781 | @EugenioFierro3 — post
+- 2026-10-12 | https://www.youtube.com/watch?v=HhZdNYI4pJs | I Tried 100+ Github Repos for Claude. These 6 Are the Best
+- 2026-10-12 | https://www.youtube.com/watch?v=GoTIt8aPG0Y | AI’s First Full Field-Level Disruption
+- 2026-10-12 | https://www.youtube.com/watch?v=aJ1ioV-zvU4 | NASA's Roman Telescope Has 100x Hubble's Field of View
+- 2026-10-12 | https://x.com/karpathy/status/2109361546505966046 | @karpathy — post
+- 2026-10-12 | https://x.com/emollick/status/2109500734207373434 | @emollick — post
+- 2026-10-12 | https://x.com/emollick/status/2109497942717632662 | @emollick — post
+- 2026-10-12 | https://x.com/emollick/status/2109472254417318335 | @emollick — post
+- 2026-10-12 | https://x.com/emollick/status/2109422437616029941 | @emollick — post
+- 2026-10-12 | https://x.com/EugenioFierro3/status/2109526769397121371 | @EugenioFierro3 — post
+- 2026-10-12 | https://x.com/EugenioFierro3/status/2109204835387965884 | @EugenioFierro3 — post
