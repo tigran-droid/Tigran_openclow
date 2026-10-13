@@ -1224,4 +1224,19 @@ Anything listed here will not be collected again.
 - 2026-10-12 | https://x.com/emollick/status/2109422437616029941 | @emollick — post
 - 2026-10-12 | https://x.com/EugenioFierro3/status/2109526769397121371 | @EugenioFierro3 — post
 - 2026-10-12 | https://x.com/EugenioFierro3/status/2109204835387965884 | @EugenioFierro3 — post
-
+- 2026-10-13 | https://www.youtube.com/watch?v=7GTWAXCTy0o | I Built the Ultimate AI Board of Advisors
+- 2026-10-13 | https://www.youtube.com/watch?v=nRXHWckVxoM | I Built the Ultimate AI Board of Advisors (free claude skill)
+- 2026-10-13 | https://www.youtube.com/watch?v=w7SmNJxUHLc | The 5 Debates Shaping AI
+- 2026-10-13 | https://www.youtube.com/watch?v=R7sWydM4Fm8 | The Rule for Ignoring the Experts
+- 2026-10-13 | https://www.youtube.com/watch?v=lIk-Yerz3k8 | Turning &quot;No&quot; Into Fuel
+- 2026-10-13 | https://www.youtube.com/watch?v=9Btzb_M8GO0 | Why Every Generation Panics About New Technology
+- 2026-10-13 | https://www.youtube.com/watch?v=UiA21EJtlAM | AI Code Needs Specs: Formal Verification &amp; Safer AI Agents
+- 2026-10-13 | https://x.com/emollick/status/2109851162518425779 | @emollick — post
+- 2026-10-13 | https://x.com/emollick/status/2109789058587377683 | @emollick — post
+- 2026-10-13 | https://x.com/emollick/status/2109783789425799272 | @emollick — post
+- 2026-10-13 | https://x.com/emollick/status/2109755776202137686 | @emollick — post
+- 2026-10-13 | https://x.com/emollick/status/2109714218014667039 | @emollick — post
+- 2026-10-13 | https://x.com/emollick/status/2109683365045739888 | @emollick — post
+- 2026-10-13 | https://x.com/EugenioFierro3/status/2109758438792180148 | @EugenioFierro3 — post
+- 2026-10-13 | https://x.com/EugenioFierro3/status/2109755405941256539 | @EugenioFierro3 — post
+- 2026-10-13 | https://x.com/EugenioFierro3/status/2109577144800100845 | @EugenioFierro3 — post
