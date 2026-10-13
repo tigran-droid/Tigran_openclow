@@ -1,3 +1,9 @@
+- 2026-10-13 | structured AI decision councils | force dissent and keep accountable judgment with a named human
+- 2026-10-13 | specifications as the agent control layer | define what must remain true before automation acts
+- 2026-10-13 | abundant local intelligence | compound context workflows evaluations and people rather than model access
+- 2026-10-13 | accountable multi-agent decision design | build councils around competing decision lenses instead of celebrity personas
+- 2026-10-13 | decision council operating test | evaluate evidence dissent authority and outcome quality
+- 2026-10-13 | specification-first agent deployment | encode boundaries evidence escalation rollback and ownership before automation
 - 2026-10-12 | executive exposure to the AI capability funnel | leaders need direct frontier experience before setting strategy
 - 2026-10-12 | verification bottleneck after abundant generation | measure accepted work rather than output volume
 - 2026-10-12 | interface-independent workflow continuity | own context tests permissions and recovery while renting interfaces
