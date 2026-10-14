@@ -1240,3 +1240,37 @@ Anything listed here will not be collected again.
 - 2026-10-13 | https://x.com/EugenioFierro3/status/2109758438792180148 | @EugenioFierro3 — post
 - 2026-10-13 | https://x.com/EugenioFierro3/status/2109755405941256539 | @EugenioFierro3 — post
 - 2026-10-13 | https://x.com/EugenioFierro3/status/2109577144800100845 | @EugenioFierro3 — post
+- 2026-10-14 | https://www.youtube.com/watch?v=eBszYxzE2dk | Google Just Caught Up (Gemini-4 Argon)
+- 2026-10-14 | https://www.youtube.com/watch?v=b0jA6fkGsk8 | How To Stop Being An "AI Meat Proxy"
+- 2026-10-14 | https://www.youtube.com/watch?v=CklLenf9fNc | Why the Reverse Engineer Anything Repo Gained 100k Stars in a Day
+- 2026-10-14 | https://www.youtube.com/watch?v=hxJDcw540IE | The Viral "Reverse Engineer Anything" Repo Explained Clearly
+- 2026-10-14 | https://www.youtube.com/watch?v=rL5tw6h78zo | I Tested the Viral Reverse Engineer Anything Skill. What You Need to Know.
+- 2026-10-14 | https://www.youtube.com/watch?v=Gzys8aXT8rs | How Muse Wonder Shifts the AI Landscape
+- 2026-10-14 | https://www.youtube.com/watch?v=ca7Hk6gcOvQ | Alex Wissner-Gross: It's Beyond Question That AIs Can Discover New Physics
+- 2026-10-14 | https://www.youtube.com/watch?v=3itp7beN6rs | Dave Blundin Describes "Remember Me," an AI Project That Preserves a Life Story
+- 2026-10-14 | https://www.youtube.com/watch?v=Oqc3-PCtnh4 | Dave Blundin's One-Line Pitch for Turning Any Small Business Into an AI Business
+- 2026-10-14 | https://x.com/emollick/status/2110179213487534366 | @emollick — post
+- 2026-10-14 | https://x.com/emollick/status/2110171841751097852 | @emollick — post
+- 2026-10-14 | https://x.com/emollick/status/2110165986926072019 | @emollick — post
+- 2026-10-14 | https://x.com/emollick/status/2110060618258497764 | @emollick — post
+- 2026-10-14 | https://x.com/emollick/status/2110052331702124894 | @emollick — post
+- 2026-10-14 | https://x.com/emollick/status/2110008451866710221 | @emollick — post
+- 2026-10-14 | https://x.com/emollick/status/2109999604775387249 | @emollick — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2110128873841086934 | @EugenioFierro3 — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2110126111619187134 | @EugenioFierro3 — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2110077041655615798 | @EugenioFierro3 — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2110074380751368536 | @EugenioFierro3 — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2110062777528107440 | @EugenioFierro3 — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2110053271347822890 | @EugenioFierro3 — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2110047065854124129 | @EugenioFierro3 — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2110044190700658911 | @EugenioFierro3 — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2110038652566810886 | @EugenioFierro3 — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2110033673814687851 | @EugenioFierro3 — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2110030633997152567 | @EugenioFierro3 — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2110027121384964379 | @EugenioFierro3 — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2110023038544626074 | @EugenioFierro3 — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2110015273692524677 | @EugenioFierro3 — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2109991870969369086 | @EugenioFierro3 — post
+- 2026-10-14 | https://x.com/EugenioFierro3/status/2109918486503776629 | @EugenioFierro3 — post
+- 2026-10-14 | https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/ | Open models have real benefits. Do they outweigh the risks?
+- 2026-10-14 | https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/ | AI labs are buying data from dead startups to train their models
