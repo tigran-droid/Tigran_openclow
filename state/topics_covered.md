@@ -1,3 +1,9 @@
+- 2026-10-14 | exact-tier model evaluation | test the deployed product harness limits and accepted outcomes rather than the family benchmark
+- 2026-10-14 | machine-speed code infrastructure | rebuild review testing version control and rollback around agent throughput
+- 2026-10-14 | company data after closure | govern consent retention and sale before operational archives become liquidation assets
+- 2026-10-14 | crowded frontier evaluation capability | own portable real-work tests as the durable advantage across model suppliers
+- 2026-10-14 | internal model evaluation pack | compare exact configurations using completion correction latency and full task cost
+- 2026-10-14 | end-of-life data governance | define ownership deletion buyer restrictions and approval for company shutdowns
 - 2026-10-13 | structured AI decision councils | force dissent and keep accountable judgment with a named human
 - 2026-10-13 | specifications as the agent control layer | define what must remain true before automation acts
 - 2026-10-13 | abundant local intelligence | compound context workflows evaluations and people rather than model access
