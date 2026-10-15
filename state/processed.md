@@ -1274,3 +1274,28 @@ Anything listed here will not be collected again.
 - 2026-10-14 | https://x.com/EugenioFierro3/status/2109918486503776629 | @EugenioFierro3 — post
 - 2026-10-14 | https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/ | Open models have real benefits. Do they outweigh the risks?
 - 2026-10-14 | https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/ | AI labs are buying data from dead startups to train their models
+- 2026-10-15 | https://www.youtube.com/watch?v=XEl4ZQKKxig | This Robot Is Unlike Any Other On The Market
+- 2026-10-15 | https://www.youtube.com/watch?v=CV-k6rPJvJY | Claude has completely changed how I edit videos
+- 2026-10-15 | https://www.youtube.com/watch?v=SX9LQD3yINg | Where Gemini 4 Argon Fits
+- 2026-10-15 | https://www.youtube.com/watch?v=vcRfXR3Mc_U | Peter Diamandis's Simple AI Trick for Anyone Feeling Burned Out
+- 2026-10-15 | https://www.youtube.com/watch?v=a3xBtPTYui8 | Alex Wissner-Gross Predicts We'll Be Past Fusion Within a Decade
+- 2026-10-15 | https://www.youtube.com/watch?v=NqJAZaxKCzg | Is AI Conscious? Two Theories, One Live Debate
+- 2026-10-15 | https://www.youtube.com/watch?v=sNSnkWoohGI | AI Minds & 8mm Memories: Measuring Experience, Preserving History
+- 2026-10-15 | https://www.youtube.com/watch?v=SBlVJyoT3IM | Governing AI Agents: Alan Chan of GovAI on Monitoring, Agent IDs, Rogue Agents & Preparing for RSI
+- 2026-10-15 | https://x.com/emollick/status/2110571036966265134 | @emollick — post
+- 2026-10-15 | https://x.com/emollick/status/2110570329315877016 | @emollick — post
+- 2026-10-15 | https://x.com/emollick/status/2110557530531447165 | @emollick — post
+- 2026-10-15 | https://x.com/emollick/status/2110477466674630843 | @emollick — post
+- 2026-10-15 | https://x.com/emollick/status/2110473584317513936 | @emollick — post
+- 2026-10-15 | https://x.com/emollick/status/2110447059086229670 | @emollick — post
+- 2026-10-15 | https://x.com/emollick/status/2110398339690999832 | @emollick — post
+- 2026-10-15 | https://x.com/emollick/status/2110393411501244510 | @emollick — post
+- 2026-10-15 | https://x.com/EugenioFierro3/status/2110490564168655310 | @EugenioFierro3 — post
+- 2026-10-15 | https://x.com/EugenioFierro3/status/2110488393394032761 | @EugenioFierro3 — post
+- 2026-10-15 | https://x.com/EugenioFierro3/status/2110479663730430315 | @EugenioFierro3 — post
+- 2026-10-15 | https://x.com/EugenioFierro3/status/2110471523534291282 | @EugenioFierro3 — post
+- 2026-10-15 | https://x.com/EugenioFierro3/status/2110468528063058027 | @EugenioFierro3 — post
+- 2026-10-15 | https://x.com/EugenioFierro3/status/2110410312616710502 | @EugenioFierro3 — post
+- 2026-10-15 | https://x.com/EugenioFierro3/status/2110401871571476892 | @EugenioFierro3 — post
+- 2026-10-15 | https://openai.com/index/amp-beyond-coding | Amp puts AI agents to work beyond code with OpenAI models
+- 2026-10-15 | https://openai.com/index/sentinelone | SentinelOne cuts malware analysis from weeks to hours
