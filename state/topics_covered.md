@@ -1,3 +1,9 @@
+- 2026-10-15 | distinct agent identity | separate delegation from impersonation with bounded permissions and traceable action
+- 2026-10-15 | expert corrections as infrastructure | turn accepted edits into reusable instructions tests and escalation rules
+- 2026-10-15 | consumer AI unit economics | usage cannot rescue compute and governance costs above willingness to pay
+- 2026-10-15 | production agent control layer | combine identity authority evidence intervention and accountable acceptance
+- 2026-10-15 | agent access architecture | compare supported governed interfaces with borrowed human credentials
+- 2026-10-15 | cumulative workflow learning | measure whether saved corrections reduce review effort over time
 - 2026-10-14 | exact-tier model evaluation | test the deployed product harness limits and accepted outcomes rather than the family benchmark
 - 2026-10-14 | machine-speed code infrastructure | rebuild review testing version control and rollback around agent throughput
 - 2026-10-14 | company data after closure | govern consent retention and sale before operational archives become liquidation assets
