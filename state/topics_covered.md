@@ -1,3 +1,9 @@
+- 2026-10-16 | company-owned AI operating layer | own context connections decisions and learning while renting models
+- 2026-10-16 | AI champion as a formal operating role | give champions capacity authority manager support and post-training ownership
+- 2026-10-16 | frontier judgment where errors compound | route strong models to planning review and stop decisions
+- 2026-10-16 | AI pilots need an operating system | combine portable context champions and work-based evaluations
+- 2026-10-16 | AI champion role design | distinguish ambassadors builders and internal deployed engineers
+- 2026-10-16 | model routing by compounding judgment | optimise accepted outcome cost rather than token price
 - 2026-10-15 | distinct agent identity | separate delegation from impersonation with bounded permissions and traceable action
 - 2026-10-15 | expert corrections as infrastructure | turn accepted edits into reusable instructions tests and escalation rules
 - 2026-10-15 | consumer AI unit economics | usage cannot rescue compute and governance costs above willingness to pay
