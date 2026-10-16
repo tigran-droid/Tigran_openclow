@@ -1299,3 +1299,33 @@ Anything listed here will not be collected again.
 - 2026-10-15 | https://x.com/EugenioFierro3/status/2110401871571476892 | @EugenioFierro3 — post
 - 2026-10-15 | https://openai.com/index/amp-beyond-coding | Amp puts AI agents to work beyond code with OpenAI models
 - 2026-10-15 | https://openai.com/index/sentinelone | SentinelOne cuts malware analysis from weeks to hours
+
+- 2026-10-16 | https://www.youtube.com/watch?v=WXWFmwfo1JA | This Tesla Actualy Flies (NOT AI)
+- 2026-10-16 | https://www.youtube.com/watch?v=XH1u09pL0Hk | Ep. 246: AI Answers - Live from MAICON 2026: AGI, AI Costs, and the End of GPTs
+- 2026-10-16 | https://www.youtube.com/watch?v=K70Qf06XBLE | McKinsey Explains: Build an AI Operating System
+- 2026-10-16 | https://www.youtube.com/watch?v=saxdE-U_YS8 | AI Agents Just Became Multiplayer. Here's How to Build Them.
+- 2026-10-16 | https://www.youtube.com/watch?v=KZiF2J83zaY | AI Agents Just Became Multiplayer. Here's How to Build Them.
+- 2026-10-16 | https://www.youtube.com/watch?v=wdXF-5nn-T4 | How to Go from AI Power User to AI Leader
+- 2026-10-16 | https://www.youtube.com/watch?v=VBQhKKmKkRM | GPT-6 Astra Shows You Screenshots of Your Own Laptop While You Talk to It
+- 2026-10-16 | https://www.youtube.com/watch?v=A5YVqEpbgaU | OpenAI Bulk-Solves 722 Math Problems, Anthropic’s Cruelty Policy, &amp; Elon’s Quadrillion-Dollar SpaceX
+- 2026-10-16 | https://www.youtube.com/watch?v=Ms5TF7D-QFQ | Salim Ismail's Advice for Anyone Who Feels Like They're Falling Behind on AI
+- 2026-10-16 | https://www.youtube.com/watch?v=MxiX0pBxcgM | If AI can write code, run research and manage projects, the role of a graduate changes completely.
+- 2026-10-16 | https://www.youtube.com/watch?v=LFz4w89SuFY | A hundred thousand chips, roughly a billion dollars — the price tag behind GPT-6 Astra.
+- 2026-10-16 | https://x.com/emollick/status/2110934183342440898 | @emollick — post
+- 2026-10-16 | https://x.com/emollick/status/2110918113550307778 | @emollick — post
+- 2026-10-16 | https://x.com/emollick/status/2110881440241942764 | @emollick — post
+- 2026-10-16 | https://x.com/emollick/status/2110875851600633956 | @emollick — post
+- 2026-10-16 | https://x.com/emollick/status/2110751021454811549 | @emollick — post
+- 2026-10-16 | https://x.com/emollick/status/2110742724814983351 | @emollick — post
+- 2026-10-16 | https://x.com/emollick/status/2110730356643287439 | @emollick — post
+- 2026-10-16 | https://x.com/EugenioFierro3/status/2110831228366565608 | @EugenioFierro3 — post
+- 2026-10-16 | https://x.com/EugenioFierro3/status/2110829227578650940 | @EugenioFierro3 — post
+- 2026-10-16 | https://x.com/EugenioFierro3/status/2110826707565391922 | @EugenioFierro3 — post
+- 2026-10-16 | https://x.com/EugenioFierro3/status/2110821477788324062 | @EugenioFierro3 — post
+- 2026-10-16 | https://x.com/EugenioFierro3/status/2110817141893067160 | @EugenioFierro3 — post
+- 2026-10-16 | https://x.com/EugenioFierro3/status/2110809652682260881 | @EugenioFierro3 — post
+- 2026-10-16 | https://x.com/EugenioFierro3/status/2110801333720699254 | @EugenioFierro3 — post
+- 2026-10-16 | https://x.com/EugenioFierro3/status/2110750473435201760 | @EugenioFierro3 — post
+- 2026-10-16 | https://x.com/EugenioFierro3/status/2110733758034858244 | @EugenioFierro3 — post
+- 2026-10-16 | https://x.com/EugenioFierro3/status/2110719720827576418 | @EugenioFierro3 — post
+- 2026-10-16 | https://x.com/EugenioFierro3/status/2110667953356124507 | @EugenioFierro3 — post
