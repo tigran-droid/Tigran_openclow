@@ -1329,3 +1329,11 @@ Anything listed here will not be collected again.
 - 2026-10-16 | https://x.com/EugenioFierro3/status/2110733758034858244 | @EugenioFierro3 — post
 - 2026-10-16 | https://x.com/EugenioFierro3/status/2110719720827576418 | @EugenioFierro3 — post
 - 2026-10-16 | https://x.com/EugenioFierro3/status/2110667953356124507 | @EugenioFierro3 — post
+- 2026-10-17 | https://www.youtube.com/watch?v=KGcuuhqmPhI | AI News: 6 New Models & A Nano Banana Killer
+- 2026-10-17 | https://www.youtube.com/watch?v=Z8lf5oWKfj0 | Matt Pocock: The Most Valuable Skill to Learn in the Age of AI
+- 2026-10-17 | https://www.youtube.com/watch?v=pmuGWJte_EY | The Most Important AI Model Announcements This Week
+- 2026-10-17 | https://www.youtube.com/watch?v=xIFMwhvvUUo | How the Latest AI Model Jump is Disrupting Business Models
+- 2026-10-17 | https://www.youtube.com/watch?v=gNMN-7D9130 | Claude Opus 5.5 is my video editor
+- 2026-10-17 | https://x.com/emollick/status/2111171225418408236 | Gemini 4 agents coordinate in Minecraft
+- 2026-10-17 | https://x.com/EugenioFierro3/status/2111212129856389457 | A whole music video made from 21 messages, not 21 days
+- 2026-10-17 | https://x.com/EugenioFierro3/status/2111207228518641713 | World Labs begins rolling out Atlas beta access
