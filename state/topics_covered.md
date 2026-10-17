@@ -1,3 +1,9 @@
+- 2026-10-17 | extracting tacit expert context | interview for assumptions exceptions and rejection criteria before automation
+- 2026-10-17 | software value beyond reproducible code | defend integration trust support and responsibility rather than features
+- 2026-10-17 | creative direction across agent tools | hold taste continuity and intent while machines execute the pieces
+- 2026-10-17 | software economics after cheap reconstruction | reassess build versus buy as feature moats shrink
+- 2026-10-17 | context interview method | turn implicit expert judgment into instructions tests and escalation rules
+- 2026-10-17 | recurring AI build-versus-buy review | include maintenance security and accountability in generated software economics
 - 2026-10-16 | company-owned AI operating layer | own context connections decisions and learning while renting models
 - 2026-10-16 | AI champion as a formal operating role | give champions capacity authority manager support and post-training ownership
 - 2026-10-16 | frontier judgment where errors compound | route strong models to planning review and stop decisions
