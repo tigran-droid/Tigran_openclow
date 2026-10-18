@@ -1337,3 +1337,12 @@ Anything listed here will not be collected again.
 - 2026-10-17 | https://x.com/emollick/status/2111171225418408236 | Gemini 4 agents coordinate in Minecraft
 - 2026-10-17 | https://x.com/EugenioFierro3/status/2111212129856389457 | A whole music video made from 21 messages, not 21 days
 - 2026-10-17 | https://x.com/EugenioFierro3/status/2111207228518641713 | World Labs begins rolling out Atlas beta access
+- 2026-10-18 | https://www.youtube.com/watch?v=NmN6jn6IiMA | Clay's AI Agent Builds Your Outbound From One Prompt
+- 2026-10-18 | https://www.youtube.com/watch?v=clkVI0CccRo | A listener asks where to find funding for an AI education project with no clear business model.
+- 2026-10-18 | https://www.youtube.com/watch?v=QhmjRDJLtCc | Full SpaceX revenue deep-dive on the channel. Merger or no merger — thoughts?
+- 2026-10-18 | https://www.youtube.com/watch?v=dthaDyttHns | Flying Tesla Car, Robot Brains Halving in Cost Every 3 Weeks, and Why Incentives Decide AI Alignment
+- 2026-10-18 | https://www.youtube.com/watch?v=SuhhYHFjelQ | Banning superintelligence means banning the books that train it, according to Alex.
+- 2026-10-18 | https://www.youtube.com/watch?v=5E_3tQ98E-o | Full outcome-based pricing story on the channel. Would you rather pay for effort or for results?
+- 2026-10-18 | https://www.youtube.com/watch?v=F1GDX_G9Bhw | AI:AM: Where's the Steering Wheel? My Agent Set the Password, Hidden Valence, Proofs Find Linux Bugs
+- 2026-10-18 | https://x.com/emollick/status/2111700285814940159 | @emollick — post
+- 2026-10-18 | https://x.com/emollick/status/2111595040913100837 | @emollick — post
