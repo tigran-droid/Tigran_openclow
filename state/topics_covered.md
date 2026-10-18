@@ -1,3 +1,9 @@
+- 2026-10-18 | current AI adoption gap | close the last metre between available capability and practical use
+- 2026-10-18 | agent control credentials | keep supervision interruption and recovery outside agent authority
+- 2026-10-18 | outcome-based AI pricing | buyers must own the definition and evidence of done
+- 2026-10-18 | steering wheel for capable agents | automate execution while preserving independent control and proof
+- 2026-10-18 | agent recovery testing | prove revoke interrupt and restore paths before deployment
+- 2026-10-18 | accepted-work economics | compare AI contracts through buyer-defined acceptance and correction cost
 - 2026-10-17 | extracting tacit expert context | interview for assumptions exceptions and rejection criteria before automation
 - 2026-10-17 | software value beyond reproducible code | defend integration trust support and responsibility rather than features
 - 2026-10-17 | creative direction across agent tools | hold taste continuity and intent while machines execute the pieces
