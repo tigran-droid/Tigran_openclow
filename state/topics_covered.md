@@ -1,3 +1,9 @@
+- 2026-10-19 | management for hundreds of agents | scale execution only after outcome coordination evidence and stop controls
+- 2026-10-19 | operational AI governance | signatures and committees do not replace independent tests evidence and consequences
+- 2026-10-19 | layered AI production systems | durable creative capability comes from editable components and human direction
+- 2026-10-19 | machine workforce management | define outcomes interfaces acceptance and responsibility before multiplying agents
+- 2026-10-19 | 400-agent management stack | coordinate context boundaries verification speed and recovery at machine scale
+- 2026-10-19 | one-prompt demos versus production | evaluate reproducibility editability and revision cost rather than polish
 - 2026-10-18 | current AI adoption gap | close the last metre between available capability and practical use
 - 2026-10-18 | agent control credentials | keep supervision interruption and recovery outside agent authority
 - 2026-10-18 | outcome-based AI pricing | buyers must own the definition and evidence of done
