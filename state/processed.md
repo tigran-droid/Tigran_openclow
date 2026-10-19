@@ -1346,3 +1346,13 @@ Anything listed here will not be collected again.
 - 2026-10-18 | https://www.youtube.com/watch?v=F1GDX_G9Bhw | AI:AM: Where's the Steering Wheel? My Agent Set the Password, Hidden Valence, Proofs Find Linux Bugs
 - 2026-10-18 | https://x.com/emollick/status/2111700285814940159 | @emollick — post
 - 2026-10-18 | https://x.com/emollick/status/2111595040913100837 | @emollick — post
+- 2026-10-19 | https://www.youtube.com/watch?v=wadr29wnO5w | Everyone said neural nets were dead.
+- 2026-10-19 | https://www.youtube.com/watch?v=tknj5gM0OgM | The biggest AI leaders in the world just signed a superintelligence accord at the White House.
+- 2026-10-19 | https://www.youtube.com/watch?v=-p17k0IcDsc | Every major AI model you use was trained the same way.
+- 2026-10-19 | https://www.youtube.com/watch?v=5WPeagdYdyA | Emad Mostaque skipped hiring a team and put 400 AI agents to work building his dream game instead.
+- 2026-10-19 | https://x.com/emollick/status/2112030115752456456 | @emollick — automated decisions and responsibility
+- 2026-10-19 | https://x.com/emollick/status/2111925398548193574 | @emollick — Claude email change gap
+- 2026-10-19 | https://x.com/emollick/status/2111884340955062274 | @emollick — token use beyond developers
+- 2026-10-19 | https://x.com/emollick/status/2111858791939772731 | @emollick — computer-using AI strategy
+- 2026-10-19 | https://x.com/emollick/status/2111700285814940159 | @emollick — Fable 5.1 Borges experiment
+- 2026-10-19 | https://x.com/EugenioFierro3/status/2111798333295497387 | @EugenioFierro3 — layered AI animation workflow
