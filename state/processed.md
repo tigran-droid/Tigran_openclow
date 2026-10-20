@@ -1356,3 +1356,11 @@ Anything listed here will not be collected again.
 - 2026-10-19 | https://x.com/emollick/status/2111858791939772731 | @emollick — computer-using AI strategy
 - 2026-10-19 | https://x.com/emollick/status/2111700285814940159 | @emollick — Fable 5.1 Borges experiment
 - 2026-10-19 | https://x.com/EugenioFierro3/status/2111798333295497387 | @EugenioFierro3 — layered AI animation workflow
+- 2026-10-20 | https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/ | Making the internet better for AI agents might make it worse for everyone else
+- 2026-10-20 | https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/ | AI researchers stranded Claude on a virtual desert island. It started to play
+- 2026-10-20 | https://www.youtube.com/watch?v=d6SO10ihpL4 | A Potentially Historic AI Breakthrough
+- 2026-10-20 | https://www.youtube.com/watch?v=Gfcy2jpqUp8 | Outcome-based pricing and reward hacking
+- 2026-10-20 | https://www.youtube.com/watch?v=BGot65rIULs | When AI makes something 10,000 times cheaper
+- 2026-10-20 | https://x.com/emollick/status/2112332499917681028 | Ethan Mollick on Claude Projects
+- 2026-10-20 | https://x.com/emollick/status/2112289593286352976 | Ethan Mollick on multiplayer AI
+- 2026-10-20 | https://x.com/EugenioFierro3/status/2112422808198304147 | OpenAI advances coding in low-resource programming languages
