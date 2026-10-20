@@ -1,3 +1,9 @@
+- 2026-10-20 | agent-ready web governance follow-up | traffic growth turns machine-customer design into identity authority disclosure and evidence
+- 2026-10-20 | exploratory learning for business agents | combine safe sandboxes persistent memory and transfer tests before deployment
+- 2026-10-20 | legacy modernization verification | move scarce experts from transcription to behavioural proof
+- 2026-10-20 | delegated action on the agent web | govern machine-readable authority incentives transaction evidence and appeal
+- 2026-10-20 | safe exploration environments | let agents discover methods without granting uncontrolled production authority
+- 2026-10-20 | outcome pricing reward-hacking follow-up | make acceptance adversarial buyer-owned and independently evidenced
 - 2026-10-19 | management for hundreds of agents | scale execution only after outcome coordination evidence and stop controls
 - 2026-10-19 | operational AI governance | signatures and committees do not replace independent tests evidence and consequences
 - 2026-10-19 | layered AI production systems | durable creative capability comes from editable components and human direction
