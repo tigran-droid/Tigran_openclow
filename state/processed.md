@@ -1364,3 +1364,22 @@ Anything listed here will not be collected again.
 - 2026-10-20 | https://x.com/emollick/status/2112332499917681028 | Ethan Mollick on Claude Projects
 - 2026-10-20 | https://x.com/emollick/status/2112289593286352976 | Ethan Mollick on multiplayer AI
 - 2026-10-20 | https://x.com/EugenioFierro3/status/2112422808198304147 | OpenAI advances coding in low-resource programming languages
+- 2026-10-21 | https://www.youtube.com/watch?v=nvyNQmOTKfY | Ep. 247: OpenAI Safety Concerns, Anthropic’s AI Expectations Gap, MAICON 2026 Recap & Gemini 4 Argon
+- 2026-10-21 | https://www.youtube.com/watch?v=ezCmuRCAVXY | Claude Code + Blender = Insane 3D Renders
+- 2026-10-21 | https://www.youtube.com/watch?v=2U8jn2M7g7U | This GitHub repo will automate getting you a job
+- 2026-10-21 | https://www.youtube.com/watch?v=bw8nHS0_cl0 | The AI Wealth Problem
+- 2026-10-21 | https://www.youtube.com/watch?v=6J6E9YLOWgQ | AI agents opening their own bank accounts. AI agents running their own social media.
+- 2026-10-21 | https://www.youtube.com/watch?v=9wm3PpzAAMk | Peter Diamandis on the exact method he uses to convince skeptics that the future is arriving faster
+- 2026-10-21 | https://www.youtube.com/watch?v=q2GGHHFgC-Q | Full energy bottleneck story on the channel. Ironic, or just Elon being Elon?
+- 2026-10-21 | https://www.youtube.com/watch?v=9Oax_E2Av2E | Dave explains the new AI power split: Jensen, Elon and the White House on one side, Anthropic
+- 2026-10-21 | https://www.youtube.com/watch?v=l6DPAwgUr-8 | A World Model of Life: Biohub's Alex Rives on Virtual Cells, Measurement, & the $1.8B Data Push
+- 2026-10-21 | https://x.com/sama/status/2112652656602923366 | @sama — post
+- 2026-10-21 | https://x.com/emollick/status/2112656453685367004 | @emollick — post
+- 2026-10-21 | https://x.com/emollick/status/2112590249033687078 | @emollick — post
+- 2026-10-21 | https://x.com/EugenioFierro3/status/2112673434773631000 | @EugenioFierro3 — post
+- 2026-10-21 | https://x.com/EugenioFierro3/status/2112600885297566163 | @EugenioFierro3 — post
+- 2026-10-21 | https://x.com/EugenioFierro3/status/2112585684380778625 | @EugenioFierro3 — post
+- 2026-10-21 | https://x.com/EugenioFierro3/status/2112582987451695580 | @EugenioFierro3 — post
+- 2026-10-21 | https://x.com/EugenioFierro3/status/2112506382012338315 | @EugenioFierro3 — post
+- 2026-10-21 | https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts | 30 Months on the Exponential (in Charts)
+- 2026-10-21 | https://openai.com/index/ted-taylor-restaurant | Franchisee reconciles cash in 94% less time with ChatGPT Work
