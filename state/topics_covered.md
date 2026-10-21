@@ -1,3 +1,9 @@
+- 2026-10-21 | continuous capability learning | replace interface training with current-model workflow practice
+- 2026-10-21 | API credentials as financial authority | protect model keys with identity limits evidence and tested revocation
+- 2026-10-21 | employee change agents | give frontline experts time and authority to build tested workflows
+- 2026-10-21 | AI training under exponential capability change | certify portable workflow capability rather than product knowledge
+- 2026-10-21 | agent credential control | manage model access like payments and operational authority
+- 2026-10-21 | conjurer operating model | manage longer delegated work through missions constraints and acceptance tests
 - 2026-10-20 | agent-ready web governance follow-up | traffic growth turns machine-customer design into identity authority disclosure and evidence
 - 2026-10-20 | exploratory learning for business agents | combine safe sandboxes persistent memory and transfer tests before deployment
 - 2026-10-20 | legacy modernization verification | move scarce experts from transcription to behavioural proof
