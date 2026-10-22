@@ -1,3 +1,9 @@
+- 2026-10-22 | AI personality as system design | specify and test role-specific behaviour beyond model accuracy
+- 2026-10-22 | machine-speed vulnerability remediation | build pre-approved tested reversible patch paths
+- 2026-10-22 | deterministic truth beneath generative systems | keep state policy and authority outside the model
+- 2026-10-22 | boring enterprise control layer | use explicit state permissions tests logs and recovery under generative interfaces
+- 2026-10-22 | two-layer AI company | separate authoritative operations from adaptive interaction
+- 2026-10-22 | AI personality governance | test warmth challenge restraint and manipulation by role
 - 2026-10-21 | continuous capability learning | replace interface training with current-model workflow practice
 - 2026-10-21 | API credentials as financial authority | protect model keys with identity limits evidence and tested revocation
 - 2026-10-21 | employee change agents | give frontline experts time and authority to build tested workflows
