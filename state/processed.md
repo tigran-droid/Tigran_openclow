@@ -1383,3 +1383,20 @@ Anything listed here will not be collected again.
 - 2026-10-21 | https://x.com/EugenioFierro3/status/2112506382012338315 | @EugenioFierro3 — post
 - 2026-10-21 | https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts | 30 Months on the Exponential (in Charts)
 - 2026-10-21 | https://openai.com/index/ted-taylor-restaurant | Franchisee reconciles cash in 94% less time with ChatGPT Work
+- 2026-10-22 | https://www.youtube.com/watch?v=dyrNQV0F3Zs | Personal Body Guard Robot - What could go wrong?
+- 2026-10-22 | https://www.youtube.com/watch?v=umGZrkyTRtw | AI Breakthroughs Everyone Missed
+- 2026-10-22 | https://www.youtube.com/watch?v=S2srfNCa50A | 5 Prompts With Google's ULTRA Powerful New Model
+- 2026-10-22 | https://www.youtube.com/watch?v=kj60zAD8lLU | Alex Hormozi, Jeff Bezos, and Warren Buffet help me make decisions
+- 2026-10-22 | https://www.youtube.com/watch?v=OawSCIZdZmU | Opus 5.5 + Blender = Insane 3D Renders
+- 2026-10-22 | https://www.youtube.com/watch?v=zTfpVoIT03s | Claude Code + Blender = Beautiful 3D Renders
+- 2026-10-22 | https://www.youtube.com/watch?v=FSX5JFJS9PQ | Why AI Companies Are Betting Personality Beats Intelligence
+- 2026-10-22 | https://www.youtube.com/watch?v=HQ3bQI1PHek | Why a 30-day lead in the AI race barely matters.
+- 2026-10-22 | https://www.youtube.com/watch?v=kAwG9E1W_ME | Chamath: Bitcoin Goes to Zero, Robots vs. $40T Debt, Elon’s SpaceX Shares for 72M Kids | EP #304
+- 2026-10-22 | https://www.youtube.com/watch?v=VnnP_wqUScU | Peter Diamandis's method for reverse-engineering what makes a story actually work, using AI
+- 2026-10-22 | https://www.youtube.com/watch?v=1YHuR3D_V00 | Does a smarter AI automatically become a safer AI? Emad Mostaque says we're in a window where models
+- 2026-10-22 | https://www.youtube.com/watch?v=uN_HnpGRPVs | What if technology could help with the behaviors behind illness, not just the illness?
+- 2026-10-22 | https://www.youtube.com/watch?v=ldpIOdGwCF0 | Frontier AI and the Fight Over How to Pace It | Zvi Mowshowitz
+- 2026-10-22 | https://x.com/emollick/status/2113063313810792916 | @emollick — post
+- 2026-10-22 | https://x.com/emollick/status/2112968222538686592 | @emollick — post
+- 2026-10-22 | https://x.com/emollick/status/2112918582598459644 | @emollick — post
+- 2026-10-22 | https://x.com/emollick/status/2112917311107842130 | @emollick — post
