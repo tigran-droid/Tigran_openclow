@@ -1,3 +1,9 @@
+- 2026-10-23 | outcome delegation beyond task automation | define constraints evidence and acceptance for longer-running AI work
+- 2026-10-23 | bounded decision layer | route repetitive choices through fast constrained models instead of frontier generation
+- 2026-10-23 | machine-speed security response | pre-approve continuous detection isolation patching revocation and recovery
+- 2026-10-23 | AI has outgrown the task list | redesign work around outcomes reusable corrections decision layers and verification
+- 2026-10-23 | outcome delegation readiness | assess ownership decision types tests permissions and recovery before scaling autonomy
+- 2026-10-23 | decision-layer architecture | map bounded choices and price errors latency and authority separately
 - 2026-10-22 | AI personality as system design | specify and test role-specific behaviour beyond model accuracy
 - 2026-10-22 | machine-speed vulnerability remediation | build pre-approved tested reversible patch paths
 - 2026-10-22 | deterministic truth beneath generative systems | keep state policy and authority outside the model
