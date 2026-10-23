@@ -1400,3 +1400,24 @@ Anything listed here will not be collected again.
 - 2026-10-22 | https://x.com/emollick/status/2112968222538686592 | @emollick — post
 - 2026-10-22 | https://x.com/emollick/status/2112918582598459644 | @emollick — post
 - 2026-10-22 | https://x.com/emollick/status/2112917311107842130 | @emollick — post
+- 2026-10-23 | https://www.youtube.com/watch?v=DSS1Yqb6-qE | /roast-room: How I Use Claude to Think Like the Top 1%
+- 2026-10-23 | https://www.youtube.com/watch?v=GnFFcLnmWuQ | Claude has completely changed how I edit videos
+- 2026-10-23 | https://www.youtube.com/watch?v=biQmfyYZAHw | This AI Gives Every Shopper a Different Popup
+- 2026-10-23 | https://www.youtube.com/watch?v=65EUWUM-clM | How AI is Changing What Work Means
+- 2026-10-23 | https://www.youtube.com/watch?v=XPzO3ck1MWs | Google X has a project in the lab that &quot;would be a problem for physics&quot; if it's real.
+- 2026-10-23 | https://www.youtube.com/watch?v=Oy9g63BnvJQ | Chamath just told us that Bitcoin goes to zero
+- 2026-10-23 | https://www.youtube.com/watch?v=_Mkv8S0DltA | Elon Musk says the future is universal high income.
+- 2026-10-23 | https://www.youtube.com/watch?v=AKkz7Y_OTq0 | $670 million from Google Ventures, Greycroft, NVIDIA and AMD, plus $410 million in compute from AWS.
+- 2026-10-23 | https://www.youtube.com/watch?v=ej9tyQ6GX9w | Cheap bandwidth gave us YouTube and Zoom. Cheap computation put a smartphone in every pocket.
+- 2026-10-23 | https://www.youtube.com/watch?v=41o_m4CD9Vg | AI’s Physical Bottlenecks: GPU Markets and the Chip Investment Thesis
+- 2026-10-23 | https://x.com/emollick/status/2113483068174692831 | @emollick — post
+- 2026-10-23 | https://x.com/emollick/status/2113466978035749097 | @emollick — post
+- 2026-10-23 | https://x.com/emollick/status/2113323645284344215 | @emollick — post
+- 2026-10-23 | https://x.com/EugenioFierro3/status/2113387272175243390 | @EugenioFierro3 — post
+- 2026-10-23 | https://x.com/EugenioFierro3/status/2113341132532855277 | @EugenioFierro3 — post
+- 2026-10-23 | https://x.com/EugenioFierro3/status/2113273129334087984 | @EugenioFierro3 — post
+- 2026-10-23 | https://x.com/EugenioFierro3/status/2113216829321519232 | @EugenioFierro3 — post
+- 2026-10-23 | https://x.com/EugenioFierro3/status/2113203911825784980 | @EugenioFierro3 — post
+- 2026-10-23 | https://x.com/EugenioFierro3/status/2113199058827247935 | @EugenioFierro3 — post
+- 2026-10-23 | https://x.com/EugenioFierro3/status/2113194650580193638 | @EugenioFierro3 — post
+- 2026-10-23 | https://openai.com/index/decisions-api/ | Build more responsive apps with the Decisions API
