@@ -1,3 +1,9 @@
+- 2026-10-24 | agent-access strategy | decide where machine customers may transact without surrendering the customer relationship
+- 2026-10-24 | verifiable agent completion | replace fluent status claims with machine-checkable evidence and separated powers
+- 2026-10-24 | hybrid AI workflow design | use models, deterministic tools and humans for the stages each controls best
+- 2026-10-24 | agent economy operating model | align access, proof and workflow decomposition before expanding autonomy
+- 2026-10-24 | machine-customer readiness | assess discoverability, consent and channel strategy for delegated demand
+- 2026-10-24 | proof-of-completion standard | govern agent actions through artifacts, approval thresholds and recovery tests
 - 2026-10-23 | outcome delegation beyond task automation | define constraints evidence and acceptance for longer-running AI work
 - 2026-10-23 | bounded decision layer | route repetitive choices through fast constrained models instead of frontier generation
 - 2026-10-23 | machine-speed security response | pre-approve continuous detection isolation patching revocation and recovery
