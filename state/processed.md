@@ -1421,3 +1421,24 @@ Anything listed here will not be collected again.
 - 2026-10-23 | https://x.com/EugenioFierro3/status/2113199058827247935 | @EugenioFierro3 — post
 - 2026-10-23 | https://x.com/EugenioFierro3/status/2113194650580193638 | @EugenioFierro3 — post
 - 2026-10-23 | https://openai.com/index/decisions-api/ | Build more responsive apps with the Decisions API
+- 2026-10-24 | https://www.youtube.com/watch?v=FiyUagHO37Y | Old Phones Are Becoming Robots?!?
+- 2026-10-24 | https://www.youtube.com/watch?v=WSHEBdmahHY | These ChatGPT Prompts Are Game-Changers!
+- 2026-10-24 | https://www.youtube.com/watch?v=TVRCcMlvR10 | AI News: 24 Things You Need To Know This Week
+- 2026-10-24 | https://www.youtube.com/watch?v=qo42hg_-sf0 | The Safety Lead Who Quit OpenAI, in His Own Words
+- 2026-10-24 | https://www.youtube.com/watch?v=8R8FUxRn7fY | The AI vs AI Battle for the Internet
+- 2026-10-24 | https://www.youtube.com/watch?v=k7epZLD77rw | DB2 on the decades-old Bezos decision that explains why your website still matters in the age of AI.
+- 2026-10-24 | https://www.youtube.com/watch?v=NiqvNYCh4WA | Aviation became one of the safest ways to travel by learning from every mistake.
+- 2026-10-24 | https://www.youtube.com/watch?v=LeSIe50WfLI | SpaceX’s AI Business Up 830%, OpenAI Agents Lie, and Startup Turns Mercury Into Gold | EP #305
+- 2026-10-24 | https://www.youtube.com/watch?v=dtY1ibGmTGU | DB2's 30-day clock for new grads who want to be in the room where the biggest AI deals are happening
+- 2026-10-24 | https://www.youtube.com/watch?v=8LmWEmCvsOU | The impossible choice big companies are facing in the AI land grab.
+- 2026-10-24 | https://x.com/emollick/status/2113681838611087572 | @emollick — post
+- 2026-10-24 | https://x.com/emollick/status/2113626577623826515 | @emollick — post
+- 2026-10-24 | https://x.com/EugenioFierro3/status/2113880986568020061 | @EugenioFierro3 — post
+- 2026-10-24 | https://x.com/EugenioFierro3/status/2113680578721517712 | @EugenioFierro3 — post
+- 2026-10-24 | https://x.com/EugenioFierro3/status/2113640750948762026 | @EugenioFierro3 — post
+- 2026-10-24 | https://x.com/EugenioFierro3/status/2113637316094738649 | @EugenioFierro3 — post
+- 2026-10-24 | https://x.com/EugenioFierro3/status/2113634319277208033 | @EugenioFierro3 — post
+- 2026-10-24 | https://x.com/EugenioFierro3/status/2113630460601344305 | @EugenioFierro3 — post
+- 2026-10-24 | https://x.com/EugenioFierro3/status/2113628043683979575 | @EugenioFierro3 — post
+- 2026-10-24 | https://openai.com/index/scaling-storage-one-billion-users-part-two | Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)
+- 2026-10-24 | https://openai.com/index/securing-our-frontier-model-training-environment | Securing our frontier model training environment
