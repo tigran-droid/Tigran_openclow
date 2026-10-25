@@ -1442,3 +1442,11 @@ Anything listed here will not be collected again.
 - 2026-10-24 | https://x.com/EugenioFierro3/status/2113628043683979575 | @EugenioFierro3 — post
 - 2026-10-24 | https://openai.com/index/scaling-storage-one-billion-users-part-two | Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)
 - 2026-10-24 | https://openai.com/index/securing-our-frontier-model-training-environment | Securing our frontier model training environment
+- 2026-10-25 | https://www.youtube.com/watch?v=u3WV4nf8Jdo | Open-Source AI Models Caught Up! (Kimi K3.1 Pro)
+- 2026-10-25 | https://www.youtube.com/watch?v=y-gn8X5ff5I | Anthropic's Own Data on AI and Jobs
+- 2026-10-25 | https://www.youtube.com/watch?v=3WYxicCws8k | The Most Concerning AI Bubble Signals
+- 2026-10-25 | https://www.youtube.com/watch?v=ZLgvW9rqdTM | AI:AM Highlights: Clean Neurons, Black October, the GPU Credit Crunch, and Buying the Supply Chain
+- 2026-10-25 | https://x.com/emollick/status/2114001653879672877 | @emollick — post
+- 2026-10-25 | https://x.com/EugenioFierro3/status/2113987879252693098 | @EugenioFierro3 — post
+- 2026-10-25 | https://x.com/EugenioFierro3/status/2113926487350841345 | @EugenioFierro3 — post
+- 2026-10-25 | https://x.com/EugenioFierro3/status/2113880986568020061 | @EugenioFierro3 — post
