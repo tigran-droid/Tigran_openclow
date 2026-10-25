@@ -1,3 +1,9 @@
+- 2026-10-25 | AI apprenticeship collapse | replace disappearing junior task ladders with deliberate judgement development
+- 2026-10-25 | AI value ledger | defend infrastructure demand through buyer-owned evidence of accepted workflow value
+- 2026-10-25 | model-agnostic operating layer | own context evaluations permissions and workflows as model gaps narrow
+- 2026-10-25 | productivity needs succession | measure talent development alongside agent-driven output
+- 2026-10-25 | AI apprenticeship stack | stage supervision authority corrections and transfer tests for junior talent
+- 2026-10-25 | enterprise AI value ledger | track baselines acceptance correction cost and financial outcomes by workflow
 - 2026-10-24 | agent-access strategy | decide where machine customers may transact without surrendering the customer relationship
 - 2026-10-24 | verifiable agent completion | replace fluent status claims with machine-checkable evidence and separated powers
 - 2026-10-24 | hybrid AI workflow design | use models, deterministic tools and humans for the stages each controls best
