@@ -1,3 +1,9 @@
+- 2026-10-26 | information work before factory robots | target planning documents scheduling and coordination before physical automation
+- 2026-10-26 | AI improvement loops | separate machine execution from independent evaluation and acceptance
+- 2026-10-26 | AI-expanded management span | preserve local decision rights as executive visibility grows
+- 2026-10-26 | work design as the next AI advantage | own context permissions evaluations and corrections around changing models
+- 2026-10-26 | manufacturing information-flow audit | find margin in queues handoffs repeated decisions and exceptions
+- 2026-10-26 | always-on executive agent governance | separate visibility authority permissions challenge and reversal
 - 2026-10-25 | AI apprenticeship collapse | replace disappearing junior task ladders with deliberate judgement development
 - 2026-10-25 | AI value ledger | defend infrastructure demand through buyer-owned evidence of accepted workflow value
 - 2026-10-25 | model-agnostic operating layer | own context evaluations permissions and workflows as model gaps narrow
