@@ -1450,3 +1450,11 @@ Anything listed here will not be collected again.
 - 2026-10-25 | https://x.com/EugenioFierro3/status/2113987879252693098 | @EugenioFierro3 — post
 - 2026-10-25 | https://x.com/EugenioFierro3/status/2113926487350841345 | @EugenioFierro3 — post
 - 2026-10-25 | https://x.com/EugenioFierro3/status/2113880986568020061 | @EugenioFierro3 — post
+- 2026-10-26 | https://www.youtube.com/watch?v=B8YFkYY20OY | The Robot Butler Will Clean Up After You
+- 2026-10-26 | https://www.youtube.com/watch?v=48AVDDogtVw | AI is code, and AI can now write code.
+- 2026-10-26 | https://www.youtube.com/watch?v=_qBnW5r5j08 | Some people call the US-China AI race a race to nowhere. Dr. Alex Wissner-Gross disagrees.
+- 2026-10-26 | https://www.youtube.com/watch?v=iO8WdmgNB2E | DB2 on why the biggest AI win for old-line manufacturing isn't robots — it's paperwork.
+- 2026-10-26 | https://www.youtube.com/watch?v=1Ye-VuYMSAA | OpenAI spent much of its Dev Day keynote on Dots, its new always-on AI agents.
+- 2026-10-26 | https://x.com/emollick/status/2114503849826549842 | @emollick — post
+- 2026-10-26 | https://x.com/emollick/status/2114404221021778347 | @emollick — post
+- 2026-10-26 | https://x.com/emollick/status/2114337256865493250 | @emollick — post
